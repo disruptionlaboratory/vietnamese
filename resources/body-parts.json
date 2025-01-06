@@ -1,0 +1,42 @@
+[
+  {
+    "key": "Head",
+    "value": "Đầu"
+  },
+  {
+    "key": "Eye",
+    "value": "Mắt"
+  },
+  {
+    "key": "Ear",
+    "value": "Tai"
+  },
+  {
+    "key": "Nose",
+    "value": "Mũi"
+  },
+  {
+    "key": "Mouth",
+    "value": "Miệng"
+  },
+  {
+    "key": "Hand",
+    "value": "Tay"
+  },
+  {
+    "key": "Arm",
+    "value": "Cánh tay"
+  },
+  {
+    "key": "Leg",
+    "value": "Chân"
+  },
+  {
+    "key": "Knee",
+    "value": "Đầu gối"
+  },
+  {
+    "key": "Heart",
+    "value": "Tim"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  { "key": "red", "value": "đỏ" },
+  { "key": "blue", "value": "xanh da trời" },
+  { "key": "yellow", "value": "vàng" },
+  { "key": "green", "value": "xanh lá cây" },
+  { "key": "white", "value": "trắng" },
+  { "key": "black", "value": "đen" },
+  { "key": "orange", "value": "cam" },
+  { "key": "purple", "value": "tím" },
+  { "key": "pink", "value": "hồng" },
+  { "key": "brown", "value": "nâu" }
+]
