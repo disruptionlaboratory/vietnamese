@@ -1,0 +1,20 @@
+[
+  { "key": "Chair", "value": "Ghế", "audio": "Chair-Ghế.mp3" },
+  { "key": "Table", "value": "Bàn", "audio": "Table-Bàn.mp3" },
+  { "key": "Bed", "value": "Giường", "audio": "Bed-Giường.mp3" },
+  { "key": "Desk", "value": "Bàn làm việc", "audio": "Desk-Bàn-làm-việc.mp3" },
+  { "key": "Couch", "value": "Canh", "audio": "Couch-Canh.mp3" },
+  { "key": "TV", "value": "Ti vi", "audio": "TV-Ti-vi.mp3" },
+  {
+    "key": "Radio",
+    "value": "Đài phát thanh",
+    "audio": "Radio-Đài-phát-thanh.mp3"
+  },
+  { "key": "Lamp", "value": "Đèn", "audio": "Lamp-Đèn.mp3" },
+  {
+    "key": "Bookshelf",
+    "value": "Bàn sách",
+    "audio": "Bookshelf-Bàn-sách.mp3"
+  },
+  { "key": "Mirror", "value": "Gương", "audio": "Mirror-Gương.mp3" }
+]

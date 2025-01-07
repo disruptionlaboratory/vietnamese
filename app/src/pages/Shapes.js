@@ -4,18 +4,19 @@ import Sidebar from "../components/Sidebar";
 import useThemeState from "../contexts/ThemeContext";
 import Logo from "./../components/Logo";
 import { getFillColor } from "../library/theme";
-import redAudio from "../resources/audio/red-đỏ.mp3";
-import blueAudio from "../resources/audio/blue-xanh-da-trời.mp3";
-import yellowAudio from "../resources/audio/yellow-vàng.mp3";
-import greenAudio from "../resources/audio/green-xanh-lá-cây.mp3";
-import whiteAudio from "../resources/audio/white-trắng.mp3";
-import blackAudio from "../resources/audio/black-đen.mp3";
-import orangeAudio from "../resources/audio/orange-cam.mp3";
-import purpleAudio from "../resources/audio/purple-tím.mp3";
-import pinkAudio from "../resources/audio/pink-hồng.mp3";
-import brownAudio from "../resources/audio/brown-nâu.mp3";
+import circleAudio from "../resources/audio/Circle-Hình-tròn.mp3";
+import squareAudio from "../resources/audio/Square-Hình-vuông.mp3";
+import triangleAudio from "../resources/audio/Triangle-Hình-tam-giác.mp3";
+import rectangleAudio from "../resources/audio/Rectangle-Hình-chữ-nhật.mp3";
+import ovalAudio from "../resources/audio/Oval-Hình-oval.mp3";
+import starAudio from "../resources/audio/Star-Hình-sao.mp3";
+import heartAudio from "../resources/audio/Heart-Tim.mp3";
+import diamondAudio from "../resources/audio/Diamond-Hình-kim-cương.mp3";
+import pentagonAudio from "../resources/audio/Pentagon-Hình-ngũ-giác.mp3";
+import octagonAudio from "../resources/audio/Octagon-Hình-bát-giác.mp3";
+import hexagonAudio from "../resources/audio/Hexagon-Hình-lục-giác.mp3";
 
-const Colours = () => {
+const Shapes = () => {
   const [preloading, setPreloading] = useState(true);
   const { theme, setTheme } = useThemeState();
 
@@ -36,144 +37,158 @@ const Colours = () => {
       )}
       {!preloading && (
         <div className={`${theme} container main`}>
-          <h1>Colours</h1>
+          <h1>Shapes</h1>
           <div className="resources">
             <div className="row">
               <div className="column key">
-                <h2>Red</h2>
+                <h2>Circle</h2>
               </div>
               <div className="column value">
-                <h2>Đỏ</h2>
+                <h2>Hình tròn</h2>
               </div>
               <div className="column">
                 <audio controls>
-                  <source src={redAudio} type="audio/mpeg" />
+                  <source src={circleAudio} type="audio/mpeg" />
                   Your browser does not support the audio element.
                 </audio>
               </div>
             </div>
             <div className="row">
               <div className="column key">
-                <h2>Blue</h2>
+                <h2>Square</h2>
               </div>
               <div className="column value">
-                <h2>Xanh da trời</h2>
+                <h2>Hình vuông</h2>
               </div>
               <div className="column">
                 <audio controls>
-                  <source src={blueAudio} type="audio/mpeg" />
+                  <source src={squareAudio} type="audio/mpeg" />
                   Your browser does not support the audio element.
                 </audio>
               </div>
             </div>
             <div className="row">
               <div className="column key">
-                <h2>Yellow</h2>
+                <h2>Triangle</h2>
               </div>
               <div className="column value">
-                <h2>Vàng</h2>
+                <h2>Hình tam giác</h2>
               </div>
               <div className="column">
                 <audio controls>
-                  <source src={yellowAudio} type="audio/mpeg" />
+                  <source src={triangleAudio} type="audio/mpeg" />
                   Your browser does not support the audio element.
                 </audio>
               </div>
             </div>
             <div className="row">
               <div className="column key">
-                <h2>Green</h2>
+                <h2>Rectangle</h2>
               </div>
               <div className="column value">
-                <h2>xanh lá cây</h2>
+                <h2>Hình chữ nhật</h2>
               </div>
               <div className="column">
                 <audio controls>
-                  <source src={greenAudio} type="audio/mpeg" />
+                  <source src={rectangleAudio} type="audio/mpeg" />
                   Your browser does not support the audio element.
                 </audio>
               </div>
             </div>
             <div className="row">
               <div className="column key">
-                <h2>White</h2>
+                <h2>Oval</h2>
               </div>
               <div className="column value">
-                <h2>Trắng</h2>
+                <h2>Hình oval</h2>
               </div>
               <div className="column">
                 <audio controls>
-                  <source src={whiteAudio} type="audio/mpeg" />
+                  <source src={ovalAudio} type="audio/mpeg" />
                   Your browser does not support the audio element.
                 </audio>
               </div>
             </div>
             <div className="row">
               <div className="column key">
-                <h2>Black</h2>
+                <h2>Star</h2>
               </div>
               <div className="column value">
-                <h2>Đen</h2>
+                <h2>Hình sao</h2>
               </div>
               <div className="column">
                 <audio controls>
-                  <source src={blackAudio} type="audio/mpeg" />
+                  <source src={starAudio} type="audio/mpeg" />
                   Your browser does not support the audio element.
                 </audio>
               </div>
             </div>
             <div className="row">
               <div className="column key">
-                <h2>Orange</h2>
+                <h2>Heart</h2>
               </div>
               <div className="column value">
-                <h2>Cam</h2>
+                <h2>Hình tim</h2>
               </div>
               <div className="column">
                 <audio controls>
-                  <source src={orangeAudio} type="audio/mpeg" />
+                  <source src={heartAudio} type="audio/mpeg" />
                   Your browser does not support the audio element.
                 </audio>
               </div>
             </div>
             <div className="row">
               <div className="column key">
-                <h2>Purple</h2>
+                <h2>Diamond</h2>
               </div>
               <div className="column value">
-                <h2>Tim</h2>
+                <h2>Hình kim cương</h2>
               </div>
               <div className="column">
                 <audio controls>
-                  <source src={purpleAudio} type="audio/mpeg" />
+                  <source src={diamondAudio} type="audio/mpeg" />
                   Your browser does not support the audio element.
                 </audio>
               </div>
             </div>
             <div className="row">
               <div className="column key">
-                <h2>Pink</h2>
+                <h2>Pentagon</h2>
               </div>
               <div className="column value">
-                <h2>Hồng</h2>
+                <h2>Hình ngũ giác</h2>
               </div>
               <div className="column">
                 <audio controls>
-                  <source src={pinkAudio} type="audio/mpeg" />
+                  <source src={pentagonAudio} type="audio/mpeg" />
                   Your browser does not support the audio element.
                 </audio>
               </div>
             </div>
             <div className="row">
               <div className="column key">
-                <h2>Brown</h2>
+                <h2>Hexagon</h2>
               </div>
               <div className="column value">
-                <h2>Nâu</h2>
+                <h2>Hình lục giác</h2>
               </div>
               <div className="column">
                 <audio controls>
-                  <source src={brownAudio} type="audio/mpeg" />
+                  <source src={hexagonAudio} type="audio/mpeg" />
+                  Your browser does not support the audio element.
+                </audio>
+              </div>
+            </div>
+            <div className="row">
+              <div className="column key">
+                <h2>Octagon</h2>
+              </div>
+              <div className="column value">
+                <h2>Hình bát giác</h2>
+              </div>
+              <div className="column">
+                <audio controls>
+                  <source src={octagonAudio} type="audio/mpeg" />
                   Your browser does not support the audio element.
                 </audio>
               </div>
@@ -185,4 +200,4 @@ const Colours = () => {
   );
 };
 
-export default Colours;
+export default Shapes;

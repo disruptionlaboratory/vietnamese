@@ -1,0 +1,52 @@
+[
+  {
+    "key": "Head",
+    "value": "Đầu",
+    "audio": "Head-Đầu.mp3"
+  },
+  {
+    "key": "Eye",
+    "value": "Mắt",
+    "audio":"Eye-Mắt.mp3"
+  },
+  {
+    "key": "Ear",
+    "value": "Tai",
+    "audio":"Ear-Tai.mp3"
+  },
+  {
+    "key": "Nose",
+    "value": "Mũi",
+    "audio":"Nose-Mũi.mp3"
+  },
+  {
+    "key": "Mouth",
+    "value": "Miệng",
+    "audio":"Mouth-Miệng.mp3"
+  },
+  {
+    "key": "Hand",
+    "value": "Tay",
+    "audio":"Hand-Tay.mp3"
+  },
+  {
+    "key": "Arm",
+    "value": "Cánh tay",
+    "audio":"Arm-Cánh-tay.mp3"
+  },
+  {
+    "key": "Leg",
+    "value": "Chân",
+    "audio":"Leg-Chân.mp3"
+  },
+  {
+    "key": "Knee",
+    "value": "Đầu gối",
+    "audio":"Knee-Đầu-gối.mp3"
+  },
+  {
+    "key": "Heart",
+    "value": "Tim",
+    "audio":"Heart-Tim.mp3"
+  }
+]

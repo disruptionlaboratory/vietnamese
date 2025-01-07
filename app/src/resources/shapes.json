@@ -1,0 +1,15 @@
+[
+  {"key": "Circle", "value": "Hình tròn"},
+  {"key": "Square", "value": "Hình vuông"},
+  {"key": "Triangle", "value": "Hình tam giác"},
+  {"key": "Rectangle", "value": "Hình chữ nhật"},
+  {"key": "Oval", "value": "Hình oval"},
+  {"key": "Star", "value": "Hình sao"},
+  {"key": "Heart", "value": "Hình tim"},
+  {"key": "Diamond", "value": "Hình kim cương"},
+  {"key": "Pentagon", "value": "Hình ngũ giác"},
+  {"key": "Hexagon", "value": "Hình lục giác"},
+  {"key": "Octagon", "value": "Hình bát giác"},
+  {"key": "Crescent", "value": "Hình nguyệt quế"},
+  {"key": "Cross", "value": "Hình chữ thập"}
+]

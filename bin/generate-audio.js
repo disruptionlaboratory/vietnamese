@@ -2,10 +2,13 @@ const axios = require("axios");
 const fs = require("fs");
 const path = require("path");
 
-const audioDir = "../resources/audio";
+const audioDir = "../app/src/resources/audio";
 
+const items = require("../app/src/resources/shapes.json");
 // const items = require("../resources/body-parts.json");
-const items = require("../resources/colours.json");
+// const items = require("../resources/colours.json");
+
+const output = [];
 
 const generate = async () => {
   for (const item of items) {
@@ -19,10 +22,17 @@ const generate = async () => {
       const fileName = `${key.replace(/\s/g, "-")}-${prompt.replace(/\s/g, "-")}.mp3`;
       const filePath = path.join(audioDir, fileName);
       fs.writeFileSync(filePath, decodedAudioBuffer);
+
+      output.push({
+        ...item,
+        audio: fileName,
+      });
     } catch (error) {
       console.error(error);
     }
   }
+
+  console.log(JSON.stringify(output));
 };
 
 generate();
