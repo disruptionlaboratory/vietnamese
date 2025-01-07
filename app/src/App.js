@@ -11,6 +11,7 @@ import Menu from "./components/Menu";
 import Bedroom from "./pages/Bedroom";
 import Kitchen from "./pages/Kitchen";
 import House from "./pages/House";
+import BasicPhrases from "./pages/BasicPhrases";
 
 import "./styles.css";
 
@@ -25,6 +26,7 @@ function App() {
         <BrowserRouter>
           <Routes>
             <Route path="/" element={<Dashboard />}></Route>
+            <Route path="/basic-phrases" element={<BasicPhrases />}></Route>
             <Route path="/school" element={<School />}></Route>
             <Route path="/body-parts" element={<BodyParts />}></Route>
             <Route path="/colours" element={<Colours />}></Route>

@@ -38,6 +38,17 @@ const Sidebar = () => {
           {/*/>*/}
         </button>
         <button
+          className={
+            location.pathname === "/basic-phrases" ? "link-selected" : ""
+          }
+          onClick={() => {
+            navigate("/basic-phrases");
+          }}
+        >
+          Basic Phrases
+        </button>
+
+        <button
           className={location.pathname === "/colours" ? "link-selected" : ""}
           onClick={() => {
             navigate("/colours");

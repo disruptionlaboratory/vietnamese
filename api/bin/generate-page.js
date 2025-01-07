@@ -1,5 +1,6 @@
 const path = require("path");
 const fs = require("fs");
+const { stripAwayUnhelpfulChars, lowerFirstCharacter } = require("./utils");
 
 const generatePage = async () => {
   const args = process.argv.slice(2);
@@ -22,9 +23,8 @@ import { getFillColor } from "../library/theme";
 `;
 
   items.map((item) => {
-    let audioFile = item.key.replace(/\s/g, "") + "Audio";
-    audioFile =
-      audioFile.substring(0, 1).toLowerCase() + audioFile.substring(1);
+    const audioFile =
+      lowerFirstCharacter(stripAwayUnhelpfulChars(item.key)) + "Audio";
 
     code += `import ${audioFile} from "../resources/audio/${item.audio}";\n`;
   });
@@ -57,13 +57,8 @@ const ${pageName} = () => {
 `;
 
   items.map((item) => {
-    // Generate the audio filename consistently
-
-    let audioFile = item.key.replace(/\s/g, "") + "Audio";
-    audioFile =
-      audioFile.substring(0, 1).toLowerCase() + audioFile.substring(1);
-
-    // import armAudio from "../resources/audio/Arm-Cánh-tay.mp3";
+    const audioFile =
+      lowerFirstCharacter(stripAwayUnhelpfulChars(item.key)) + "Audio";
 
     code += `
             <div className="row">
@@ -94,7 +89,7 @@ export default ${pageName};`;
   const filePath = path.join(pagesDir, outputFile);
   fs.writeFileSync(filePath, code);
 
-  const route = title.toLowerCase().replace(/\s/g, "-");
+  const route = stripAwayUnhelpfulChars(title.toLowerCase());
 
   return `Okay, done! ${outputFile} has been created and moved to the Pages folder. 
   
