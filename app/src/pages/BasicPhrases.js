@@ -12,6 +12,7 @@ import noAudio from "../resources/audio/No-Không.mp3";
 import excusemeAudio from "../resources/audio/Excuse-me-Xin-lỗi.mp3";
 import sorryAudio from "../resources/audio/Sorry-Xin-lỗi.mp3";
 import howareyouAudio from "../resources/audio/How-are-you-Bạn-thế-nào.mp3";
+import AudioCapture from "../components/AudioCapture";
 
 const BasicPhrases = () => {
   const [preloading, setPreloading] = useState(true);
@@ -35,6 +36,7 @@ const BasicPhrases = () => {
       {!preloading && (
         <div className={`${theme} container main`}>
           <h1>Basic Phrases</h1>
+          <AudioCapture />
           <div className="resources">
             <div className="row">
               <div className="column key">

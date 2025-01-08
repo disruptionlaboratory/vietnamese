@@ -1,6 +1,8 @@
 # API
 
-There will be a database storing translations for UI / UX, words (a Vietnamese - English dictionary featuring audio) et al.
+RESTful API and MySQL database for the React App.
+
+Initially, it will be de
 
 ### Generating React Page 
 
@@ -12,4 +14,34 @@ node bin/generate-page.js "house.json" "House" "House"
 
 ```shell
 node bin/generate-words-sql.js "basic-phrases.json" 
+```
+
+### Spinning up Docker containers
+
+```shell
+docker compose -p vietnamese up -d
+```
+
+### Spinning down Docker containers 
+
+```shell
+docker compose -p vietnamese down
+```
+
+### SSH into container
+
+```shell
+docker compose -p vietnamese exec api bash
+```
+
+### MySQL via container
+
+```shell
+mysql -u root -ppassword -h mysql_vi
+```
+
+### Rebuild MySQL
+
+```shell
+npm run rebuild-db
 ```
