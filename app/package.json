@@ -10,6 +10,7 @@
     "ffmpeg": "^0.0.4",
     "formik": "^2.4.6",
     "idb": "^8.0.0",
+    "jaro-winkler": "^0.2.8",
     "lamejs": "^1.2.1",
     "moment": "^2.30.1",
     "prettier": "^3.3.3",

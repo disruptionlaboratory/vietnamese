@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import { Mp3Encoder } from "@breezystack/lamejs";
 
-const AudioCapture = () => {
+const AudioCapture = ({ onRecorded }) => {
   const [stream, setStream] = useState(null);
   const [isRecording, setIsRecording] = useState(false);
   const [recordedAudio, setRecordedAudio] = useState(null);
@@ -123,26 +123,29 @@ const AudioCapture = () => {
           const source = audioContext.createBufferSource();
           const gainNode = audioContext.createGain();
           // return new Blob([combinedMp3Data], { type: "audio/mp3" });
+          return combinedMp3Data;
 
-          const file = new File([combinedMp3Data], "combined Mp3 Data.mp3", {
-            type: "audio/mp3",
-          });
-          const base64EncodedString = btoa(file.text);
-
-          console.log(base64EncodedString);
-
-          return new Blob([combinedMp3Data], { type: "audio/mp3" });
+          // const file = new File([combinedMp3Data], "combined Mp3 Data.mp3", {
+          //   type: "audio/mp3",
+          // });
+          // const base64EncodedString = btoa(file.text);
+          //
+          // console.log(base64EncodedString);
+          //
+          // return new Blob([combinedMp3Data], { type: "audio/mp3" });
         }
         loadWebm().then((audioBuffer) => {
-          convertToMp3(audioBuffer).then((mp3Blob) => {
+          convertToMp3(audioBuffer).then((mp3Data) => {
             // const objectUrl = URL.createObjectURL(mp3Blob);
 
-            setRecordedAudio(URL.createObjectURL(mp3Blob));
+            // setRecordedAudio(URL.createObjectURL(mp3Blob));
             recordedChunks.current = [];
             // We should think about sending to API too..
             // const base64EncodedString = btoa(objectUrl);
             //
             // console.log(base64EncodedString);
+
+            onRecorded(mp3Data);
           });
         });
       };

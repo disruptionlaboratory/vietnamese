@@ -672,6 +672,14 @@ input:focus {
     }
 }
 
+.pronunciation {
+    /*align-content: center;*/
+    align-items: center;
+    /*justify-content: center;*/
+    height: 80vh;
+    margin: 0 auto;
+}
+
 @media (min-width: 1024px) {
     .container {
         margin: 0 auto;
