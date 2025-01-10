@@ -7,17 +7,46 @@ import { getFillColor } from "../library/theme";
 import AudioCapture from "../components/AudioCapture";
 import axios from "axios";
 import distance from "jaro-winkler";
+import redAudio from "../resources/audio/red-đỏ.mp3";
+import { getAudioData } from "../library/audio";
 
 const Pronunciation = () => {
   const [preloading, setPreloading] = useState(true);
   const { theme, setTheme } = useThemeState();
   const [score, setScore] = useState("");
 
+  const [words, setWords] = useState([]);
+  const [word, setWord] = useState(null);
+
   useEffect(() => {
     setTimeout(() => {
       setPreloading(false);
     }, Number(process.env.REACT_APP_PRELOADING_DELAY));
   }, []);
+
+  useEffect(() => {
+    setWords([
+      { key: "Hello", value: "Xin chào", audio: "Hello-Xin-chào.mp3" },
+      { key: "Goodbye", value: "Tạm biệt", audio: "Goodbye-Tạm-biệt.mp3" },
+      { key: "Thank you", value: "Cảm ơn", audio: "Thank-you-Cảm-ơn.mp3" },
+      { key: "Yes", value: "Vâng", audio: "Yes-Vâng.mp3" },
+      { key: "No", value: "Không", audio: "No-Không.mp3" },
+      { key: "Excuse me", value: "Xin lỗi", audio: "Excuse-me-Xin-lỗi.mp3" },
+      { key: "Sorry", value: "Xin lỗi", audio: "Sorry-Xin-lỗi.mp3" },
+      {
+        key: "How are you?",
+        value: "Bạn thế nào?",
+        audio: "How-are-you?-Bạn-thế-nào?.mp3",
+      },
+    ]);
+  }, []);
+
+  useEffect(() => {
+    if (words.length > 0) {
+      const randomKey = Math.floor(Math.random() * words.length);
+      setWord(words[randomKey]);
+    }
+  }, [words]);
 
   return (
     <>
@@ -32,8 +61,19 @@ const Pronunciation = () => {
         <div className={`${theme} container main pronunciation`}>
           <h1>Pronunciation Test</h1>
           {score && <h2>{score}% Match</h2>}
-          <h2>Xin chào</h2>
+          <h2>
+            {word.value} <span className="en">({word.key})</span>
+          </h2>
+          {word && (
+            <audio controls>
+              <source src={getAudioData(word.audio)} type="audio/mpeg" />
+              Your browser does not support the audio element.
+            </audio>
+          )}
           <AudioCapture
+            onStartRecording={() => {
+              setScore("");
+            }}
             onRecorded={async (recording) => {
               function blobToStringBase64(blob) {
                 return new Promise((resolve, reject) => {
@@ -87,7 +127,7 @@ const Pronunciation = () => {
                   };
                   const strip = removeChars(["!", ","]);
                   setScore(
-                    format(distance(strip("Xin chào"), strip(transcript))),
+                    format(distance(strip(word.value), strip(transcript))),
                   );
                 } catch (error) {
                   console.log(error);

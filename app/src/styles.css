@@ -680,6 +680,11 @@ input:focus {
     margin: 0 auto;
 }
 
+span.en {
+    font-size: 14px;
+    font-weight: normal;
+}
+
 @media (min-width: 1024px) {
     .container {
         margin: 0 auto;

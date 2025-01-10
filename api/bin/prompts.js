@@ -22,6 +22,14 @@ const generateCollageStyleIllustration = (scene) => {
   return `${scene} in the style of collage`;
 };
 
+const generateTranslation = ({ term, language, grammar }) => {
+  return `Without any preamble, postamble or markdown, please provide the ${language} translation for ${term}, the ${grammar}.`;
+};
+
+const generatePhoneticSpelling = ({ translation, language }) => {
+  return `Without any preamble, postamble or markdown, please provide the phonetic spelling in format of International Phonetic Alphabet (IPA) for ${translation}, the ${language} word.  For example: Lan Tron becomes /län ˈtrɔn/`;
+};
+
 module.exports = {
   generateKeyValueListOfPopularWordsBySubject,
   generateKeyValuePhoneticListOfPopularWordsBySubject,
@@ -29,4 +37,6 @@ module.exports = {
   generateFlatStyleIllustration,
   generateChaayaPrabhatStyleIllustration,
   generateCollageStyleIllustration,
+  generateTranslation,
+  generatePhoneticSpelling,
 };

@@ -1,1 +1,14 @@
-[{"key":"Hello","value":"Xin chào","audio":"Hello-Xin-chào.mp3"},{"key":"Goodbye","value":"Tạm biệt","audio":"Goodbye-Tạm-biệt.mp3"},{"key":"Thank you","value":"Cảm ơn","audio":"Thank-you-Cảm-ơn.mp3"},{"key":"Yes","value":"Vâng","audio":"Yes-Vâng.mp3"},{"key":"No","value":"Không","audio":"No-Không.mp3"},{"key":"Excuse me","value":"Xin lỗi","audio":"Excuse-me-Xin-lỗi.mp3"},{"key":"Sorry","value":"Xin lỗi","audio":"Sorry-Xin-lỗi.mp3"},{"key":"How are you?","value":"Bạn thế nào?","audio":"How-are-you?-Bạn-thế-nào?.mp3"}]
+[
+  { "key": "Hello", "value": "Xin chào", "audio": "Hello-Xin-chào.mp3" },
+  { "key": "Goodbye", "value": "Tạm biệt", "audio": "Goodbye-Tạm-biệt.mp3" },
+  { "key": "Thank you", "value": "Cảm ơn", "audio": "Thank-you-Cảm-ơn.mp3" },
+  { "key": "Yes", "value": "Vâng", "audio": "Yes-Vâng.mp3" },
+  { "key": "No", "value": "Không", "audio": "No-Không.mp3" },
+  { "key": "Excuse me", "value": "Xin lỗi", "audio": "Excuse-me-Xin-lỗi.mp3" },
+  { "key": "Sorry", "value": "Xin lỗi", "audio": "Sorry-Xin-lỗi.mp3" },
+  {
+    "key": "How are you?",
+    "value": "Bạn thế nào?",
+    "audio": "How-are-you?-Bạn-thế-nào?.mp3"
+  }
+]
