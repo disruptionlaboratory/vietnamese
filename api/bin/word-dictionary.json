@@ -14604,12 +14604,6 @@
     "definition": "a female sovereign or monarch."
   },
   {
-    "slug": "en-vi-queerly-queer",
-    "term": "queerly",
-    "grammar": "queer",
-    "definition": "strange or odd from a conventional viewpoint; unusually different; singular"
-  },
-  {
     "slug": "en-vi-query-noun",
     "term": "query",
     "grammar": "noun",
@@ -21972,9 +21966,9 @@
     "definition": "a loud cry or shout, as of excitement or joy."
   },
   {
-    "slug": "en-vi-who-pronoun;",
+    "slug": "en-vi-who-pronoun",
     "term": "who",
-    "grammar": "pronoun;",
+    "grammar": "pronoun",
     "definition": "what person or persons?"
   },
   {

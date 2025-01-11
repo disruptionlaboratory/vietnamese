@@ -95,7 +95,7 @@ CREATE TABLE `words`
     `translation` VARCHAR(80)  NULL,
     `definition`  VARCHAR(255) NOT NULL,
     `grammar`     VARCHAR(255) NOT NULL,
-    `phonetic`    VARCHAR(45)  NULL,
+    `phonetic`    VARCHAR(80) NULL,
     `audio`       LONGTEXT     NULL,
     `image`       LONGTEXT     NULL,
     `created`     DATETIME     NOT NULL,

@@ -2432,7 +2432,6 @@ quartz|noun|one of the commonest minerals, silicon dioxide, SiO 2 , having many 
 quaver|verb|to shake tremulously; quiver or tremble|http://www.dictionary.com/browse/quaver
 queasily|adjective|inclined to or feeling nausea, as the stomach, a person, etc.; nauseous; nauseated.|http://www.dictionary.com/browse/queasily
 queen|noun|a female sovereign or monarch.|http://www.dictionary.com/browse/queen
-queerly|queer|strange or odd from a conventional viewpoint; unusually different; singular|http://www.dictionary.com/browse/queerly
 query|noun|a question; an inquiry.|http://www.dictionary.com/browse/query
 questionably|adjective|of doubtful propriety, honesty, morality, respectability, etc.|http://www.dictionary.com/browse/questionably
 questioningly|adjective|indicating or implying a question|http://www.dictionary.com/browse/questioningly
@@ -3660,7 +3659,7 @@ whistle|verb|to make a clear musical sound, a series of such sounds, or a high-p
 whittle|verb|to cut, trim, or shape (a stick, piece of wood, etc.) by carving off bits with a knife.|http://www.dictionary.com/browse/whittle
 wholly|adverb|entirely; totally; altogether; quite.|http://www.dictionary.com/browse/wholly
 whoop|noun|a loud cry or shout, as of excitement or joy.|http://www.dictionary.com/browse/whoop
-who|pronoun;|what person or persons?|http://www.dictionary.com/browse/who
+who|pronoun|what person or persons?|http://www.dictionary.com/browse/who
 widen|verb|to make or become wide or wider; broaden; expand.|http://www.dictionary.com/browse/widen
 wield|verb|to exercise (power, authority, influence, etc.), as in ruling or dominating.|http://www.dictionary.com/browse/wield
 wiggle|verb|to move or go with short, quick, irregular movements from side to side|http://www.dictionary.com/browse/wiggle

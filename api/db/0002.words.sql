@@ -16,13 +16,13 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-accent-noun", "accent", "Accent", "prominence of a syllable in terms of differential loudness, or of pitch, or length, or of a combination of these.", "noun", "/Aŋkʉtʲ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-accept-verb", "accept", "Chấp nhận", "to take or receive (something offered); receive with approval or favor", "verb", "/ʈəp ɓæɳ/
 
-Note: In IPA, 'ʈ' represents a voiceless alveolar affricate and 'ɓ' is an implosive voiced bilabial plosive. However, the latter may not be accurately represented as it's not a standard phoneme in most languages including Vietnamese, and its transcription can vary depending on context and regional dialects.", NOW(), NOW());
+Note: In IPA, 'ʈ' represents a voi", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-accidentally-adjective", "accidentally", "Bất tình", "happening by chance or accident; not planned; unexpected", "adjective", "/bət ɗiŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-accommodate-verb", "accommodate", "Đồng hành
 hoặc
 Chỉ dẫn", "to do a kindness or a favor to; oblige", "verb", "Đồng hành là /ˀðəŋ˨ hâj̊/
 
-Chỉ dẫn là /ʈìː dán̚/", NOW(), NOW());
+Chỉ dẫn là /ʈìː dá", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-accompany-verb", "accompany", "Đi cùng", "to go along or in company with; join in action", "verb", "dʒi kɔŋ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-accost-verb", "accost", "Gặp gỡ", "to confront boldly", "verb", "/gɛp ʔo̞/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-account-noun", "account", "Tài khoản", "an oral or written description of particular events or situations; narrative", "noun", "[Tài khoản] /tʰaɪ1 kʌwŋ2/", NOW(), NOW());
@@ -30,7 +30,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ache-verb", "ache", "Nhức", "to have or suffer a continuous, dull pain", "verb", "Nhức /ŋ̊ʷək̚/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-achiever-verb", "achiever", "Đạt được", "to bring to a successful end; carry through; accomplish", "verb", "đạt được /dət ˀbjaɪʲ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-achieve-verb", "achieve", "Đạt được", "to bring to a successful end; carry through; accomplish", "verb", "[dat ˈβalək]", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-acidly-noun", "acidly", "Chắc là", "Chemistry. a compound usually having a sour taste and capable of neutralizing alkalis and reddening blue litmus paper, containing hydrogen that can be replaced by a metal or an electropositive group to form a salt, or containing an atom that can accept a pair of electrons from a base. Acids are proton donors that yield hydronium ions in water solution, or electron-pair acceptors that combine with electron-pair donors or bases.", "noun", "/xăk lə/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-acidly-noun", "acidly", "Chắc là", "Chemistry. a compound usually having a sour taste and capable of neutralizing alkalis and reddening blue litmus paper, containing hydrogen that can be replaced by a metal or an electropositive group to form a salt, or containing an atom that can accept a ", "noun", "/xăk lə/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-acknowledge-verb", "acknowledge", "Xin ghi nhận", "to admit to be real or true; recognize the existence, truth, or fact of", "verb", "xin /ziˀŋ/
 ghi /ʱi/
 nhận /nəːn/", NOW(), NOW());
@@ -57,13 +57,13 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-adore-verb", "adore", "Yêu thích", "to regard with the utmost esteem, love, and respect; honor.", "verb", "yəw ʃiç", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-adorn-verb", "adorn", "Tỏa sáng", "to decorate or add beauty to, as by ornaments", "verb", "tǒː sǎŋ 
 
-(Tỏa sáng IPA breakdown: tǒː is the 'T' sound in Tỏa with a long vowel mark, and sǎŋ is the 's' sound followed by a single "ă" then the sound of 'ng')", NOW(), NOW());
+(Tỏa sáng IPA breakdown: tǒː is the", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-advance-verb", "advance", "Tiến lên", "to move or bring forward", "verb", "tiɛ̃ŋ lʷən", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-adventurously-adjective", "adventurously", "Tò mò", "inclined or willing to engage in adventures; enjoying adventures.", "adjective", "[tɔmɔʔ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-advertisement-noun", "advertisement", "Khuếch trương", "a paid announcement, as of goods for sale, in newspapers or magazines, on radio or television, etc.", "noun", "/xwě̌tʨjaŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-advertise-verb", "advertise", "Khuyến mãi", "to announce or praise (a product, service, etc.) in some public medium of communication in order to induce people to buy or use it", "verb", "/kʷɛərn̻ˀj/
 
-(Note: In IPA, a superscript "j" represents a glottal stop and circumflex accents indicate tone marks not directly translatable to English phonetics.)", NOW(), NOW());
+(Note: In IPA, a superscript j", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-advice-noun", "advice", "Lời khuyên", "an opinion or recommendation offered as a guide to action, conduct, etc.", "noun", "/lôi̯ kuən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-advise-verb", "advise", "Khuyên", "to give counsel to; offer an opinion or suggestion as worth following", "verb", "/kʷəjn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-advocate-verb", "advocate", "Tán trợ pháp lý", "to speak or write in favor of; support or urge by argument; recommend publicly", "verb", "tɐŋ tʁə fæj/", NOW(), NOW());
@@ -89,20 +89,18 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-air-noun", "air", "Khí", "a mixture of nitrogen, oxygen, and minute amounts of other gases that surrounds the earth and forms its atmosphere.", "noun", "/kiˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-alarm-noun", "alarm", "Còi báo động", "a sudden fear or distressing suspense ca by an awareness of danger; apprehension; fright.", "noun", "/cəw̚i bawʷ dɔŋ/
 
- would be incorrect spelling as it uses Romanization rules for some words; I found a source, then 
-
-/cɔj baːw ɗɔŋ/", NOW(), NOW());
+ would be incorrect spellin", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-alert-adjective", "alert", "Cảnh báo", "fully aware and attentive; wide-awake; keen", "adjective", "/Kaŋ̟ ʷʊəw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-align-verb", "align", "Đánh齐", "to arrange in a straight line; adjust according to a line.", "verb", "Đánh齐 /ʒǎːŋ ʈi/
 
-(Where Đ is pronounced as a "zh" sound like in measure)", NOW(), NOW());
+(Where Đ is pronounced as a ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-allege-verb", "allege", "Tố cáo", "to assert without proof.", "verb", "/tʷɗə̌kɔ͡/
 
-(Note: The diacritic mark is an IPA symbol indicating a low rising tone)", NOW(), NOW());
+(Note: The diacritic mark is an I", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-alley-noun", "alley", "ngõ", "a passage, as through a continuous row of houses, permitting access from the street to backyards, garages, etc.", "noun", "/noŋ ò/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-allow-verb", "allow", "Cho phép", "to give permission to or for; permit", "verb", "/m̩əp/
 
-Note: The symbol 'm̩' represents a mid-central vowel sound.", NOW(), NOW());
+Note: The symbol 'm̩' represents a mi", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-allude-verb", "allude", "gợi hẳn", "to refer casually or indirectly; make an allusion (usually followed by to)", "verb", "gợi hẳn /ʔo̜j ʔə̃t/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-almost-adverb", "almost", "Hơn là một nửa", "very nearly; all but", "adverb", "hʉˀn lə mə ʉa", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-alphabetise-verb", "alphabetise", "Sắp xếp theo thứ tự ABC", "to put or arrange in alphabetical order.", "verb", "/sɐp ʲə̌m tø̂ thơi tút abk/", NOW(), NOW());
@@ -114,12 +112,12 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-amend-verb", "amend", "Sửa đổi", "to alter, modify, rephrase, or add to or subtract from (a motion, bill, constitution, etc.) by formal procedure", "verb", "/suə̌ dɛj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-amount-noun", "amount", "Số", "the sum total of two or more quantities or sums; aggregate.", "noun", "/sôʔ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-amusement-noun", "amusement", "Sự giải trí", "anything that amuses; pastime; entertainment.", "noun", "/su˧˦ jaj1 ʈriː/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-amuse-verb", "amuse", "Động từ "amuse" trong tiếng Việt được dịch là "đắm say".", "to hold the attention of (someone) pleasantly; entertain or divert in an enjoyable or cheerful manner", "verb", "/dʒəm.zaj/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-amuse-verb", "amuse", "Động từ amuse trong tiếng Việt được dịch là", "to hold the attention of (someone) pleasantly; entertain or divert in an enjoyable or cheerful manner", "verb", "/dʒəm.zaj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-analyse-verb", "analyse", "đánh giá", "analyze.", "verb", "đánh giá /ðảj ʁjaw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-analyze-verb", "analyze", "Đoán tính", "to separate (a material or abstract entity) into constituent parts or elements; determine the elements or essential features of (opposed to synthesize)", "verb", "đoàn tính /dʒən tîŋk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-anger-noun", "anger", "Ghen", "a strong feeling of displeasure and belligerence aro by a wrong; wrath; ire.", "noun", "/Gɛŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-angrily-adjective", "angrily", "Cái dỏng", "feeling or showing anger or strong resentment (usually followed by at, with, or about)", "adjective", "/Kaːj ɗoŋ/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-animal-noun", "animal", "Con vật", "any member of the kingdom Animalia, comprising multicellular organisms that have a well-defined shape and usually limited growth, can move voluntarily, actively acquire food and digest it internally, and have sensory and nervous systems that allow them to respond rapidly to stimuli", "noun", "/Kon vähw/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-animal-noun", "animal", "Con vật", "any member of the kingdom Animalia, comprising multicellular organisms that have a well-defined shape and usually limited growth, can move voluntarily, actively acquire food and digest it internally, and have sensory and nervous systems that allow them to", "noun", "/Kon vähw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-animate-verb", "animate", "Sống động", "to give life to; make alive", "verb", "/sɔŋ˧˦ dəwŋ˧/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-annotate-verb", "annotate", "Đánh dấu", "to supply with critical or explanatory notes; comment upon in notes", "verb", "/ʤaŋ ʷɞwək/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-announce-verb", "announce", "Khai báo", "to make known publicly or officially; proclaim; give notice of", "verb", "/kʰåj bâw/", NOW(), NOW());
@@ -135,8 +133,8 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-antagonise-verb", "antagonise", "Tranh cãi", "to make hostile or unfriendly; make an enemy or antagonist of", "verb", "/tʁaŋ kəj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-antagonize-verb", "antagonize", "Tranh thủng", "to make hostile or unfriendly; make an enemy or antagonist of", "verb", "[tʁaŋ ʂuŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-anticipate-verb", "anticipate", "Đợi", "to realize beforehand; foretaste or foresee", "verb", "đợi /ʒɤj̊/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ants-noun", "ants", "Côn trùng nhỏ", "any of numerous black, red, brown, or yellow social insects of the family Formicidae, of worldwide distribution especially in warm climates, having a large head with inner jaws for chewing and outer jaws for carrying and digging, and living in highly organized colonies containing wingless female workers, a winged queen, and, during breeding seasons, winged males, some species being noted for engaging in warfare, slavemaking, or the cultivation of food sources.", "noun", "/kʊəŋ ˀsrəŋ njɔj/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ant-noun", "ant", "Côn trùng nhỏ", "any of numerous black, red, brown, or yellow social insects of the family Formicidae, of worldwide distribution especially in warm climates, having a large head with inner jaws for chewing and outer jaws for carrying and digging, and living in highly organized colonies containing wingless female workers, a winged queen, and, during breeding seasons, winged males, some species being noted for engaging in warfare, slavemaking, or the cultivation of food sources.", "noun", "/kǒŋ trŭŋk ʈɜɪ/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ants-noun", "ants", "Côn trùng nhỏ", "any of numerous black, red, brown, or yellow social insects of the family Formicidae, of worldwide distribution especially in warm climates, having a large head with inner jaws for chewing and outer jaws for carrying and digging, and living in highly orga", "noun", "/kʊəŋ ˀsrəŋ njɔj/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ant-noun", "ant", "Côn trùng nhỏ", "any of numerous black, red, brown, or yellow social insects of the family Formicidae, of worldwide distribution especially in warm climates, having a large head with inner jaws for chewing and outer jaws for carrying and digging, and living in highly orga", "noun", "/kǒŋ trŭŋk ʈɜɪ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-anxiously-adjective", "anxiously", "Suy sụp", "full of mental distress or uneasiness because of fear of danger or misfortune; greatly worried; solicitous", "adjective", "Súp là /suˀ˩ ləː˧/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-apologise-verb", "apologise", "Xin lỗi", "to offer an apology or excuse for some fault, insult, failure, or injury", "verb", "xin lơi /ziŋ ʼlǒj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-apologize-verb", "apologize", "Xin lỗi", "to offer an apology or excuse for some fault, insult, failure, or injury", "verb", "xɪŋ lǒi", NOW(), NOW());
@@ -156,7 +154,7 @@ or
 
 /gǐa ˈzĩŋ zɜ/
 
-both of which are acceptable IPA transcriptions, depending on the speaker's accent and pronunciation. In general, /zɜ/ is used for the first Gia and /zĩŋ/ for the second Gia", NOW(), NOW());
+both of whi", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-appreciate-verb", "appreciate", "Cảm ơn", "to be grateful or thankful for", "verb", "/käːm ʉn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-approach-verb", "approach", "Đi đến", "to come near or nearer to", "verb", "[dʒi ˈðəw]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-appropriate-adjective", "appropriate", "Phù hợp", "suitable or fitting for a particular purpose, person, occasion, etc.", "adjective", "/pʰu ˧˩ ʊ əj/", NOW(), NOW());
@@ -164,19 +162,11 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-approve-verb", "approve", "Xin chấp nhận", "to speak or think favorably of; pronounce or consider agreeable or good; judge favorably", "verb", "/xin səp.näm/
 
 /sap/ is pronounced as /səp/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-arch-noun", "arch", "Cầu vò", "Architecture. a curved masonry construction for spanning an opening, consisting of a number of wedgelike stones, bricks, or the like, set with the narrower side toward the opening in such a way that forces on the arch are transmitted as vertical or oblique stresses on either side of the opening.", "noun", "/kʌw wəːˀ/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-arch-noun", "arch", "Cầu vò", "Architecture. a curved masonry construction for spanning an opening, consisting of a number of wedgelike stones, bricks, or the like, set with the narrower side toward the opening in such a way that forces on the arch are transmitted as vertical or obliqu", "noun", "/kʌw wəːˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-arch-noun", "arch", "Đền thờ", "Architecture. having a curved head; an archway. the curved head of an opening, as a doorway.", "noun", "/dəŋ ʈɛo̞/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-arc-noun", "arc", "Cộng
 
-(Note: "cộng" is not an ideal translation in this context. In English, the word "arc" can have different meanings depending on the context. A more suitable translation would be:
-
-Vành
-đai)
-
-In general usage, a more literal translation for arc could be either of these, depending on what specific type or meaning of arc you're referring to.
-
-* Vành (pronounced "vahn") is used in most cases where an arc refers to the curved shape of something.
-* Đai (pronounced "dai") is often used when talking about electrical arcs, like sparks from a lightning bolt.", "Geometry. any unbroken part of the circumference of a circle or other curved line.", "noun", "vænˀjaj IPA", NOW(), NOW());
+(Note: cộng is not an ideal translati", "Geometry. any unbroken part of the circumference of a circle or other curved line.", "noun", "vænˀjaj IPA", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-argue-verb", "argue", "Tranh luận", "to present reasons for or against a thing", "verb", "Tranh luận /tʁaŋ luəːn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-argument-noun", "argument", "Liệu pháp", "an oral disagreement; verbal opposition; contention; altercation", "noun", "/Liəw fahp/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-arise-verb", "arise", "Khởi phát", "to get up from sitting, lying, or kneeling; rise", "verb", "/kʷǒj fäp/", NOW(), NOW());
@@ -184,11 +174,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-army-noun", "army", "Quân đội", "the military forces of a nation, exclusive of the navy and in some countries the air force.", "noun", "Quân đội /kuən˧˥ dʒôi˨/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-arm-noun", "arm", "Cái dây tay", "the upper limb of the human body, especially the part extending from the shoulder to the wrist.", "noun", "/kaj daɪˀ tæj/
 
-Cái dây tay is written as [khai dai taay] and pronounced as above. The Vietnamese language distinguishes tones which are not indicated here, however.
-
-cai (the word for "a" or "some") is /kai/
-dây (for string) is /daɪˀ/
-tay (hand) is /taj/", NOW(), NOW());
+Cái dây tay is written as [kh", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-arrange-verb", "arrange", "Sắp xếp", "to place in proper, desired, or convenient order; adjust properly", "verb", "xap xɛpʲ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-arrest-verb", "arrest", "Đã bắt", "to seize (a person) by legal authority or warrant; take into custody", "verb", "[dʒaː ˀbăt]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-arrogantly-adjective", "arrogantly", "Khinh thường", "making claims or pretensions to superior importance or rights; overbearingly assuming; insolently proud", "adjective", "Khinhttường /kʰiɲəŋ˧ˀ/", NOW(), NOW());
@@ -201,32 +187,26 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-assault-noun", "assault", "Đánh bại", "a sudden, violent attack; onslaught", "noun", "Đánh bại /ʤaːŋ ˀɓɛj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-assay-verb", "assay", "Giểm tra", "to examine or analyze", "verb", "/ziəm ʈä/
 
-Note: The diacritic mark "ễ" is pronounced as a very short and soft "e" sound, almost like a schwa (/ə/), which is why I represented it with the "iəm" pronunciation. In Vietnamese language, the actual phonetic interpretation may slightly vary depending on context and speaker's accent.", NOW(), NOW());
+Note: The diacritic mark ễ is pr", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-assent-verb", "assent", "Xin", "to agree or concur; subscribe to (often followed by to)", "verb", "/xʲɪn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-assert-verb", "assert", "Kiểm tra", "to state with assurance, confidence, or force; state strongly or positively; affirm; aver", "verb", "kiểm tra /kjəm ʈä/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-assess-verb", "assess", "Đánh giá", "to estimate officially the value of (property, income, etc.) as a basis for taxation.", "verb", "[dʒaŋ ʐɐj]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-assign-verb", "assign", "Tổ chức", "to give or allocate; allot", "verb", "/tə̌ʊ θɨ̂ŋ kʰǎɲ/
 
-Note: This is a phonetic spelling using the International Phonetic Alphabet (IPA) for the Vietnamese word "Tổ chức".", NOW(), NOW());
+Note: This is a phonetic s", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-assist-verb", "assist", "Trợ giúp", "to give support or aid to; help", "verb", "[tʰəː ɣɛɪp]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-assume-verb", "assume", "Xin", "to take for granted or without proof", "verb", "xin /ziŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-assure-verb", "assure", "Đảm bảo", "to declare earnestly to; inform or tell positively; state with confidence to", "verb", "/dəm ʂəw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-astonish-verb", "astonish", "Xác định lại 
 
-(Ám hiểu, nhưng từ này vẫn chưa hoàn toàn chính xác.
-
-Theo Từ điển tiếng Việt của Viện Ngôn ngữ học, 'xác định lại' có nghĩa gần nhất với astonish trong tiếng Anh)
-
-Đáng ngạc nhiên 
-
-(đúng là một cách nói thông dụng trong tiếng Việt)", "to fill with sudden and overpowering surprise or wonder; amaze", "verb", "xak˧˦ dəjɲaʔ ǀ", NOW(), NOW());
+(Ám hiểu, nhưng từ này vẫn chư", "to fill with sudden and overpowering surprise or wonder; amaze", "verb", "xak˧˦ dəjɲaʔ ǀ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-attach-verb", "attach", "Kết dính", "to fasten or affix; join; connect", "verb", "/kət ʔɪŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-attack-verb", "attack", "đánh", "to set upon in a forceful, violent, hostile, or aggressive way, with or without a weapon; begin fighting with", "verb", "đánh /ʈə̂j/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-attack-verb", "attack", "Độslaught", "to set upon in a forceful, violent, hostile, or aggressive way, with or without a weapon; begin fighting with", "verb", "/doʊˈsɞlt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-attempt-verb", "attempt", "Thử thách", "to make an effort at; try; undertake; seek", "verb", "thử ʈ͡ʃɐk", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-attempt-verb", "attempt", "Đề xuất", "to make an effort at; try; undertake; seek", "verb", "[də ʊ̤k]
 
-Note: The "i" in IPA above is an "i" with a dot below it which denotes that the vowel is pronounced as [u] due to the effect of the following consonant (k), so in reality, this Vietnamese word sounds like [duok].", NOW(), NOW());
+Note: The i in IPA above is an i", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-attend-verb", "attend", "Tham dự", "to be present at", "verb", "/dʌm ˈdʉ/
 
 or alternatively as 
@@ -234,7 +214,7 @@ or alternatively as
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-attention-noun", "attention", "Lời chú ý", "the act or faculty of attending, especially by directing the mind to an object.", "noun", "Lời chú ý /lôiʲ ʈu ˀj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-attraction-noun", "attraction", "Khuyến khích", "the act, power, or property of attracting.", "noun", "/kʰœrŋ kʰəj/
 
-(Note: The above IPA transcription is approximate and may vary depending on regional accents or individual pronunciations.)", NOW(), NOW());
+(Note: The above IPA transcript", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-audit-noun", "audit", "Kiểm toán", "an official examination and verification of accounts and records, especially of financial accounts.", "noun", "kīəm ʔwən", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-aunt-noun", "aunt", "Bà Òm", "the sister of one's father or mother.", "noun", "/bäː ʊ̆ᵝ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-authorise-verb", "authorise", "Cho phép", "to give authority or official power to; empower", "verb", "/ʈɛm ʋiəm/", NOW(), NOW());
@@ -245,25 +225,24 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-avoid-verb", "avoid", "Tránh", "to keep away from; keep clear of; shun", "verb", "/də̂ŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-avow-verb", "avow", "Xác nhận", "to declare frankly or openly; own; acknowledge; confess; admit", "verb", "Xác nhận /zak ʈəːj ˀɳ/
 
-(Note: The above phonetic spelling is an approximation based on the modern pronunciation of Xác nhận in standard Vietnamese, and may vary depending on regional accents or other factors.)", NOW(), NOW());
+(Note: The above phon", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-await-verb", "await", "Chờ", "to wait for; expect; look for", "verb", "/ʈɛ˧ˀ/
 
-(Note: The tone mark is a macron over "e", but that's not easily representable in text. In IPA, the 3rd tone of Vietnamese, which has a high pitch and a slight fall at the end, is represented by /˧ˀ/.", NOW(), NOW());
+(Note: The tone mark is a macron over", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-awaken-verb", "awaken", "Khỏe lại", "to awake; waken.", "verb", "/kʷəj ʁaːi/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-awkwardly-adjective", "awkwardly", "Khó khăn", "lacking skill or dexterity.Synonyms", "adjective", "kʰɔ̂ khanh", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-babble-verb", "babble", "Nói ngẫu nhiên
 nói vô tư
 làm ngây đà", "to utter sounds or words imperfectly, indistinctly, or without meaning.", "verb", "/nôi ŋəj ɲɛɳm/
 /nôi vəʊ ʔoʔ/
-/läm ŋaɪ ʔãː ðäː/", NOW(), NOW());
+/läm ŋaɪ ʔãː ðäː", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-babies-noun", "babies", "Bé", "an infant or very young child.", "noun", "/bəj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-baby-noun", "baby", "Trẻ em", "an infant or very young child.", "noun", "tʂə ɛm 
 
-Note: In IPA notation, Vietnamese uses a diacritic mark "ă" to represent an open, back unrounded vowel, which in phonetic spelling I represented as "ă" but more accurately it is pronounced like the "a" in 'bath' in this word.", NOW(), NOW());
+Note: In IPA notation, Vietnamese us", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-backhand-noun", "backhand", "đuôi tay trái", "a stroke, slap, etc., made with the palm of the hand turned toward the body and the back of the hand turned in the direction of the stroke, slap, etc.", "noun", "[dʒuiəi ˀtäj lâɪ]
 
-or more specifically for dialects that pronounce it as
-[dʒu̯e̯i tæj lɜ]", NOW(), NOW());
+or more specifically for d", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-backpedal-verb", "backpedal", "Lùi lại", "to retard the forward motion by pressing backward on the pedal, especially of a bicycle with coaster brakes.", "verb", "Lùi lại is pronounced as: /lwîj ʔaj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-backtrack-verb", "backtrack", "Làm lại", "to return over the same course or route.", "verb", "/läm ʲjäj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-back-noun", "back", "lưng", "the rear part of the human body, extending from the neck to the lower end of the spine.", "noun", "/lʌŋ/", NOW(), NOW());
@@ -295,7 +274,7 @@ hàng /haŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bark-noun", "bark", "Lá cây", "the abrupt, harsh, explosive cry of a dog.", "noun", "[là kʷeɪ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-barrage-noun", "barrage", "Bức tường lửa", "Military. a heavy barrier of artillery fire to protect one's own advancing or retreating troops or to stop the advance of enemy troops.", "noun", "/bʉk ʋɐŋ luə/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-barter-verb", "barter", "Chợ chùa", "to trade by exchange of commodities rather than by the use of money.", "verb", "/xəʊ ʈua/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-baseball-noun", "baseball", "Bóng Chày", "a game of ball between two nine-player teams played usually for nine innings on a field that has as a focal point a diamond-shaped infield with a home plate and three other bases, 90 feet (27 meters) apart, forming a circuit that must be completed by a base runner in order to score, the central offensive action entailing hitting of a pitched ball with a wooden or metal bat and running of the bases, the winner being the team scoring the most runs.", "noun", "/bôŋ̟ kʰǎj/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-baseball-noun", "baseball", "Bóng Chày", "a game of ball between two nine-player teams played usually for nine innings on a field that has as a focal point a diamond-shaped infield with a home plate and three other bases, 90 feet (27 meters) apart, forming a circuit that must be completed by a ba", "noun", "/bôŋ̟ kʰǎj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-base-noun", "base", "Đáy", "the bottom support of anything; that on which a thing stands or rests", "noun", "/d͡ʒəj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bashfully-adjective", "bashfully", "Hư hỏng", "uncomfortably diffident and easily embarrassed; shy; timid.", "adjective", "/hʉː ʊŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bash-verb", "bash", "Trả lời", "to strike with a crushing or smashing blow.", "verb", "/trǎw ləw/", NOW(), NOW());
@@ -312,7 +291,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bat-noun", "bat", "Chú chim én", "Sports. the wooden club  in certain games, as baseball and cricket, to strike the ball.", "noun", "/ʈ͡ʂʊ̌ cəm iːn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bawl-verb", "bawl", "Giục", "to cry or wail lustily.", "verb", "/jiuk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bay-noun", "bay", "Khung", "a body of water forming an indentation of the shoreline, larger than a cove but smaller than a gulf.", "noun", "Khung /kʊŋ˧˦/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bead-noun", "bead", "Vảy (pronounced "vai")", "a small, usually round object of glass, wood, stone, or the like with a hole through it, often strung with others of its kind in necklaces, rosaries, etc.", "noun", "/väj/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bead-noun", "bead", "Vảy (pronounced vai)", "a small, usually round object of glass, wood, stone, or the like with a hole through it, often strung with others of its kind in necklaces, rosaries, etc.", "noun", "/väj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-beam-noun", "beam", "Đúng", "any of various relatively long pieces of metal, wood, stone, etc., manufactured or shaped especially for use as rigid members or parts of structures or machines.", "noun", "[dʒuŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-beam-noun", "beam", "Khung", "any of various relatively long pieces of metal, wood, stone, etc., manufactured or shaped especially for use as rigid members or parts of structures or machines.", "noun", "/kʰũŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bean-noun", "bean", "đậu", "the edible nutritious seed of various plants of the legume family, especially of the genus Phaseolus.", "noun", "/ʔo əm/", NOW(), NOW());
@@ -327,14 +306,10 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-beautify-verb", "beautify", "Làm đẹp", "to make or become beautiful.", "verb", "/ləm ˀdæp/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-beckon-verb", "beckon", "Gợi", "to signal, summon, or direct by a gesture of the head or hand.", "verb", "/gǐw/
 
-Note: The pronunciation may vary slightly depending on regional accents and individual pronunciations. This IPA spelling is a general representation of how "Gợi" is commonly pronounced in standard Vietnamese.", NOW(), NOW());
+Note: The pronunciation may vary sligh", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-become-verb", "become", "Làm", "to come, change, or grow to be (as specified)", "verb", "/ləm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bedroom-noun", "bedroom", "Phòng ngủ", "a room furnished and  for sleeping.", "noun", "/ʍəŋ ŋɯi/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-beds-noun", "beds", "Ghế ngồi (not exactly "beds", but a common furniture in Vietnamese houses that serve similar purposes) 
-Tường (literally "wall") with mattress on top
-Giường (more commonly used to refer to beds)
-
-Note: The term "giường" is widely used in Vietnam for beds, especially the modern ones.", "Bedfordshire.", "noun", "[Ghe˧ ʔɲo˨]
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-beds-noun", "beds", "Ghế ngồi (not exactly beds, but a common fu", "Bedfordshire.", "noun", "[Ghe˧ ʔɲo˨]
 [Tu̇əŋ]
 [ziw˦]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bed-noun", "bed", "Giường", "a piece of furniture upon which or within which a person sleeps, rests, or stays when not well.", "noun", "/gǐwŋ/", NOW(), NOW());
@@ -373,14 +348,14 @@ or
 
 Đề nghị 
 
-(both means "to propose" or "to ask")", "to command; order; direct", "verb", "Cầu hôn
+(both means to prop", "to command; order; direct", "verb", "Cầu hôn
 /kâu̯ hɔ̂n/
 
 Đề nghị
 /dê̌ ɳəj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bikes-noun", "bikes", "XE Đạp", "Informal. a bicycle. a motorbike. a motorcycle.", "noun", "/Xe ða̠p/
 
-(Note: The 'ð' is a voiced interdental fricative sound, similar to "th" in "the". In some pronunciation guides it may be written as "d͡z")", NOW(), NOW());
+(Note: The 'ð' is a voiced interde", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bike-noun", "bike", "xe đạp", "Informal. a bicycle. a motorbike. a motorcycle.", "noun", "xe đạp /ze̞ ʒaːp/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bind-verb", "bind", "Gói", "to fasten or secure with a band or bond.", "verb", "Gói /ʊ̉iˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-birds-noun", "birds", "Con Vẹt", "any warm-blooded vertebrate of the class Aves, having a body covered with feathers, forelimbs modified into wings, scaly legs, a beak, and no teeth, and bearing young in a hard-shelled egg.", "noun", "kɔn vệt", NOW(), NOW());
@@ -390,14 +365,13 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bite-verb", "bite", "Ăn một chiếc", "to cut, wound, or tear with the teeth", "verb", "/ʔan mu̇Ɍj t͡ɕej/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bite-verb", "bite", "Uốn
 
-Note: In Vietnamese, "uốn" can also mean to bend or curve, but in this context it is often used to describe the action of biting something.", "to cut, wound, or tear with the teeth", "verb", "/ʊwən/", NOW(), NOW());
+Note: In Vietnamese, uốn can also mean", "to cut, wound, or tear with the teeth", "verb", "/ʊwən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bitterly-adjective", "bitterly", "Cảm bội", "having a harsh, disagreeably acrid taste, like that of aspirin, quinine, wormwood, or aloes.", "adjective", "/xəm ʙwaj/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bit-noun", "bit", "đoạn mã hoặc dữ liệu truyền qua internet được chia thành các mảnh nhỏ gọi là bit", "Machinery. a removable boring head  on certain kinds of drills, as a rock drill. a device for drilling oil wells or the like, consisting of a horizontally rotating blade or an assembly of rotating toothed wheels.", "noun", "đoạn mã hoặc dữ liệu truyền qua internet được chia thành các mảnh nhỏ gọi là bit
-/ˀdʁəŋ ˈmä ər ʷɗɨjə ət ɕəə ətɪn ət ɲämək əl əŋ ká bit/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bit-noun", "bit", "đoạn mã hoặc dữ liệu truyền qua internet được", "Machinery. a removable boring head  on certain kinds of drills, as a rock drill. a device for drilling oil wells or the like, consisting of a horizontally rotating blade or an assembly of rotating toothed wheels.", "noun", "đoạn mã hoặc dữ liệu truyền qua internet được", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-blade-noun", "blade", "Lưỡi lê", "the flat cutting part of a sword, knife, etc.", "noun", "/lɨj lɛj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-blame-verb", "blame", "Trừng phạt", "to hold responsible; find fault with; censure", "verb", "/trʌŋ ʁaj/
 
-Note: The 'Tr' in this context can be a bit tricky as it is pronounced more like a 'dr'.", NOW(), NOW());
+Note: The 'Tr' in this context ca", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-blanch-verb", "blanch", "Rửa nhanh", "to whiten by removing color; bleach", "verb", "/nəʊ̃k ɲak/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-blare-verb", "blare", "Dọa nổ", "to emit a loud, raucous sound", "verb", "/dəw ˈnuː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-blaspheme-verb", "blaspheme", "Viết báng", "to speak impiously or irreverently of (God or sacred things).", "verb", "[vjɛʔ bàŋ]", NOW(), NOW());
@@ -436,11 +410,11 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-boldly-adjective", "boldly", "Dũng cảm", "not hesitating or fearful in the face of actual or possible danger or rebuff; courageous and daring", "adjective", "[Dʱũŋ kǎm]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bolster-noun", "bolster", "Bề ngoài", "a long, often cylindrical, cushion or pillow for a bed, sofa, etc.", "noun", "/βəˀ ɔ̃ŋt/
 
-This IPA transcription represents the phonetic spelling for "Bề ngoài" in Vietnamese.", NOW(), NOW());
+This IPA transcription represents", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bolt-noun", "bolt", "Khớp ốc", "a movable bar or rod that when slid into a socket fastens a door, gate, etc.", "noun", "[kʷəp ɔk]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bomb-noun", "bomb", "Bom", "Military. a projectile, formerly usually spherical, filled with a bursting charge and exploded by means of a fuze, by impact, or otherwise, now generally designed to be dropped from an aircraft.", "noun", "/bɔm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bond-noun", "bond", "Chứng khoán nợ", "something that binds, fastens, confines, or holds together.", "noun", "/ʂɨŋ kwǎw/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bone-noun", "bone", "Cốt", "Anatomy, Zoology. one of the structures composing the skeleton of a vertebrate. the hard connective tissue forming the substance of the skeleton of most vertebrates, composed of a collagen-rich organic matrix impregnated with calcium, phosphate, and other minerals.", "noun", "/kɔt/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bone-noun", "bone", "Cốt", "Anatomy, Zoology. one of the structures composing the skeleton of a vertebrate. the hard connective tissue forming the substance of the skeleton of most vertebrates, composed of a collagen-rich organic matrix impregnated with calcium, phosphate, and other", "noun", "/kɔt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bonk-verb", "bonk", "đập vào", "to hit, strike, collide, etc.", "verb", "đập vào /ʔðə̌m vɯ̉ŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-books-noun", "books", "Sách", "a handwritten or printed work of fiction or nonfiction, usually on sheets of paper fastened or bound together within covers.", "noun", "/sɐk̚/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-book-noun", "book", "Sách", "a handwritten or printed work of fiction or nonfiction, usually on sheets of paper fastened or bound together within covers.", "noun", "/sak̚ˁ/", NOW(), NOW());
@@ -453,20 +427,20 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bottle-noun", "bottle", "Chai", "a portable container for holding liquids, characteristically having a neck and mouth and made of glass or plastic.", "noun", "/Xaɪ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bounce-verb", "bounce", "Lắc dạ", "to spring back from a surface in a lively manner", "verb", "/lək ʲa/
 
- would be a more correct IPA for "Lắc dạ".", NOW(), NOW());
+ would be a more correct IPA for L", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-boundary-noun", "boundary", "HẠNH PHÚC", "something that indicates bounds or limits; a limiting or bounding line.", "noun", "hǎnh pʰúək 
 
-Note: The '̣' is a diacritic mark used to indicate a rising tone in Vietnamese, and should be pronounced as such when reading this phonetic spelling.", NOW(), NOW());
+Note: The '̣' is a diacritic mar", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bound-verb", "bound", "Giằng.", "simple past tense and past participle of bind.", "verb", "/Giæŋ̟˦/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bow-verb", "bow", "Vẽ cung", "to bend the knee or body or incline the head, as in reverence, submission, salutation, recognition, or acknowledgment.", "verb", "[Vẽ] [cung]
 
 /ʷəŋ/
 
-The diacritics above "e" and "u" are the Huyền âm marks, indicating a mid tone for each. They should be ignored in phonetic spelling of Vietnamese words according to IPA.", NOW(), NOW());
+The diacritics above e ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-box-noun", "box", "Hộp", "a container, case, or receptacle, usually rectangular, of wood, metal, cardboard, etc., and often with a lid or removable cover.", "noun", "/həp̚/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-box-noun", "box", "Bột", "a container, case, or receptacle, usually rectangular, of wood, metal, cardboard, etc., and often with a lid or removable cover.", "noun", "/bo̞ʷ/
 
-(Note: The 'ô' with a diacritic is represented by ô with a macron instead of the acute accent used in some other contexts, which gives the correct pronunciation)", NOW(), NOW());
+(Note: The 'ô' with a diacritic is re", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-boys-noun", "boys", "Nam", "a male child, from birth to full growth, especially one less than 18 years of age.", "noun", "/näm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-boy-noun", "boy", "Trẻ", "a male child, from birth to full growth, especially one less than 18 years of age.", "noun", "/tʁɛ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-brace-noun", "brace", "Khoá", "something that holds parts together or in place, as a clasp or clamp.", "noun", "Khoá is pronounced as /kʰɔə̯ˀ/.", NOW(), NOW());
@@ -477,7 +451,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-branch-noun", "branch", "Ngã rẽ", "a division or subdivision of the stem or axis of a tree, shrub, or other plant.", "noun", "[njäˀ ʁɛ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-brandish-verb", "brandish", "Châm ngòi", "to shake or wave, as a weapon; flourish", "verb", "/t͡ʃǎːm ŋəwǐˀ/
 
-(Châm ngòi pronounced as "chahm ngwee")", NOW(), NOW());
+(Châm ngòi pronounced as cha", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-brass-noun", "brass", "Súng đúc", "any of various metal alloys consisting mainly of copper and zinc.", "noun", "/sʷûŋ ðùk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bravely-adjective", "bravely", "Tiếng dũng cảm", "possessing or exhibiting courage or courageous endurance.", "adjective", "[dʲŋ kʷam]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-brawl-noun", "brawl", "Tranh cãi", "a noisy quarrel, squabble, or fight.", "noun", "/trɑ̃ŋ ʈaɪ/", NOW(), NOW());
@@ -498,12 +472,12 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bridle-noun", "bridle", "Ngang chấn", "part of the tack or harness of a horse, consisting usually of a headstall, bit, and reins.", "noun", "/Næŋ ʈəmˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-briefly-adverb", "briefly", "Nhanh chóng", "for a short duration", "adverb", "/n̪àŋ ʔə̉ɲ/
 
-(Note: The diacritics are a representation of how they appear on Vietnamese phonetic transcriptions, but please keep in mind that the actual rendering may vary depending on the font or software used.)", NOW(), NOW());
+(Note: The diacritics are a repr", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-brighten-verb", "brighten", "Sáng sủa", "to become or make bright or brighter.", "verb", "/saŋ̇ săʷ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-brightly-adjective", "brightly", "Rực rỡ", "radiating or reflecting light; luminous; shining", "adjective", "[rɪk ʁəː]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bring-verb", "bring", "đưa", "to carry, convey, conduct, or cause (someone or something) to come with, to, or toward the speaker", "verb", "/ʔə̆ŋ/
 
-Note: The ʔ symbol represents a glottal stop, which is a distinct sound in many Vietnamese words including đưa.", NOW(), NOW());
+Note: The ʔ symbol represents a glott", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-briskly-adjective", "briskly", "Nhanh chóng", "quick and active; lively", "adjective", "/næ̃ŋ ʈoːŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bristle-noun", "bristle", "Dây gân", "one of the short, stiff, coarse hairs of certain animals, especially hogs,  extensively in making brushes.", "noun", "/daːŋ ʁan/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-broach-noun", "broach", "Giết", "Machinery. an elongated, tapered, serrated cutting tool for shaping and enlarging holes.", "noun", "/dʒět/", NOW(), NOW());
@@ -519,7 +493,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-brush-noun", "brush", "Cọ", "an implement consisting of bristles, hair, or the like, set in or attached to a handle,  for painting, cleaning, polishing, grooming, etc.", "noun", "/kuʷə/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bubble-noun", "bubble", "Đá bong bóng", "a nearly spherical body of gas contained in a liquid.", "noun", "/dzäːw əŋm ʔɑ͡ŋ˧/
 
-Note: The Vietnamese pronunciation may vary depending on dialect and regional accent, this is a standardized version using the IPA.", NOW(), NOW());
+Note: The Vietnamese pronu", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bucket-noun", "bucket", "Thùng nước", "a deep, cylindrical vessel, usually of metal, plastic, or wood, with a flat bottom and a semicircular bail, for collecting, carrying, or holding water, sand, fruit, etc.; pail.", "noun", "/thǒŋ ˈnuə̆ʁ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-buckle-noun", "buckle", "Khuyôn", "a clasp consisting of a rectangular or curved rim with one or more movable tongues, fixed to one end of a belt or strap,  for fastening to the other end of the same strap or to another strap.", "noun", "/kujəwən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-buck-noun", "buck", "Bò con", "the male of the deer, antelope, rabbit, hare, sheep, or goat.", "noun", "/bɞˀ kən/", NOW(), NOW());
@@ -531,7 +505,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bulb-noun", "bulb", "Củ", "Botany. a usually subterranean and often globular bud having fleshy leaves emergent at the top and a stem reduced to a flat disk, rooting from the underside, as in the onion and lily.", "noun", "/cuʷ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bulge-noun", "bulge", "Gai", "a rounded projection, bend, or protruding part; protuberance; hump", "noun", "/gaj/
 
-Note: In the IPA, the symbol "j" represents a palatal approximant sound, which is similar to the "y" in yes or the "i" in bit. This is the closest approximation for the Vietnamese word "Gai".", NOW(), NOW());
+Note: In the IPA, the symbol j repre", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bully-noun", "bully", "Trùm", "a blustering, quarrelsome, overbearing person who habitually badgers and intimidates smaller or weaker people.", "noun", "/tʁum/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bumble-verb", "bumble", "Chân chập", "to bungle or blunder awkwardly; muddle", "verb", "/Tʃəŋ ʈʂap/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-bump-verb", "bump", "Đánh vào", "to come more or less violently in contact with; collide with; strike", "verb", "Đánh vào /dʒaːŋ ʷvɗəw/", NOW(), NOW());
@@ -543,7 +517,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-burn-verb", "burn", "Đốt", "to undergo rapid combustion or consume fuel in such a way as to give off heat, gases, and, usually, light; be on fire", "verb", "đốt /ˀðot̚/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-burp-noun", "burp", "Tiếp hơi", "a belch; eructation.", "noun", "tiếp hi/
 
-(With 'i' being pronounced as a diphthong, 'iê' in IPA transcription often represents it as /jə/ or /ɨə/)", NOW(), NOW());
+(With 'i' being pronounced as a dip", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-burrow-noun", "burrow", "Lỗ huyệt", "a hole or tunnel in the ground made by a rabbit, fox, or similar animal for habitation and refuge.", "noun", "[lǒŋ hi̯əj]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-burst-verb", "burst", "Nổ", "to break, break open, or fly apart with sudden violence", "verb", "/nɔˀˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-burst-verb", "burst", "Nổ", "to break, break open, or fly apart with sudden violence", "verb", "/nɔːˀ/", NOW(), NOW());
@@ -560,9 +534,9 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-button-noun", "button", "Nhấn phim", "a small disk, knob, or the like for sewing or otherwise attaching to an article, as of clothing, serving as a fastening when passed through a buttonhole or loop.", "noun", "/nʲən fǐm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-buy-verb", "buy", "Mua", "to acquire the possession of, or the right to, by paying or promising to pay an equivalent, especially in money; purchase.", "verb", "/mwaː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-buzz-noun", "buzz", "Sóng gió", "a low, vibrating, humming sound, as of bees, machinery, or people talking.", "noun", "/sʌŋ jɔj/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cabbage-noun", "cabbage", "Cỏ xấu (more commonly used in Northern Vietnam) or Bắp cải (more widely used throughout Vietnam)", "any of several cultivated varieties of a plant, Brassica oleracea capitata, of the mustard family, having a short stem and leaves formed into a compact, edible head.", "noun", "Cỏ xấu is spelled as /kɤw ʌə̯/
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cabbage-noun", "cabbage", "Cỏ xấu (more commonly used in Northern Vietna", "any of several cultivated varieties of a plant, Brassica oleracea capitata, of the mustard family, having a short stem and leaves formed into a compact, edible head.", "noun", "Cỏ xấu is spelled as /kɤw ʌə̯/
 
-Bắp cải is spelled as /ʔäp ʔäj/", NOW(), NOW());
+Bắp cải is sp", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cable-noun", "cable", "Dây cáp", "a heavy, strong rope.", "noun", "/dəj káp/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cackle-verb", "cackle", "Cười ồ", "to utter a shrill, broken sound or cry, as of a hen.", "verb", "/kʷiə̯ŋ ʔɔ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cactus-noun", "cactus", "Củ dại", "any of numerous succulent plants of the family Cactaceae, of warm, arid regions of the New World, having fleshy, leafless, usually spiny stems, and typically having solitary, showy flowers.", "noun", "kuː˧˦ dajˀ", NOW(), NOW());
@@ -580,7 +554,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cannon-noun", "cannon", "súng", "a mounted gun for firing heavy projectiles; a gun, howitzer, or mortar.", "noun", "[suŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cantillate-verb", "cantillate", "Nghe đọc tự sự", "to chant; intone.", "verb", "[dʒə ˌdɜk ˈtʊ ˨ˁs]
 
-(Note: The IPA spelling above is based on standard pronunciation of the phrase "Nghe đọc tự sự" and may vary depending on regional accent or pronunciation)", NOW(), NOW());
+(Note: The IPA spelling a", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-canvass-verb", "canvass", "Làm bảng", "to solicit votes, subscriptions, opinions, or the like from.", "verb", "/läm˧˦ bäŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-canvas-noun", "canvas", "Bảng vẽ", "a closely woven, heavy cloth of cotton, hemp, or linen,  for tents, sails, etc.", "noun", "Bảng vẽ /bâŋ vɛj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-can-auxiliary-verb", "can", "Có thể", "to be able to; have the ability, power, or skill to", "auxiliary verb", "kohb ʈæj 
@@ -597,9 +571,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-careen-verb", "careen", "đảo hẳn", "(of a vehicle) to lean, sway, or tip to one side while in motion", "verb", "[dæʊ̯̚ ʲəm]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-carefully-adjective", "carefully", "Cẩn thận", "cautious in one's actions", "adjective", "/kʌn ʃəθ/
 
-(or if you prefer a more traditional IPA transcription for Vietnamese tones)
-
-/kʌn ʂʰaːʈ/", NOW(), NOW());
+(or if you prefer a more tradition", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-carelessly-adjective", "carelessly", "Bất cẩn", "not paying enough attention to what one does", "adjective", "/ʔət kən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-caress-noun", "caress", "Sự xoa dịu", "an act or gesture expressing affection, as an embrace or kiss, especially a light stroking or touching.", "noun", "/ʐɪ ʐua ˀðiəw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-care-noun", "care", "Tâm chún", "a state of mind in which one is troubled; worry, anxiety, or concern", "noun", "/təm ʈ͡ʃun/", NOW(), NOW());
@@ -613,17 +585,17 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cart-noun", "cart", "Xe lôi", "a heavy two-wheeled vehicle, commonly without springs, drawn by mules, oxen, or the like,  for the conveyance of heavy goods.", "noun", "/xɛ lu̇i/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-carve-verb", "carve", "Gọt", "to cut (a solid material) so as to form something", "verb", "gọt /ʊk̚ˀ/
 
-Note: The schwa sound is represented by ʊ and the syllable final tone by k̚.", NOW(), NOW());
+Note: The schwa sound is represen", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-car-noun", "car", "Xe", "an automobile.", "noun", "xe /ze/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cash-noun", "cash", "Tiền", "money in the form of coins or banknotes, especially that issued by a government.", "noun", "ti ɛ̀n", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-castle-noun", "castle", "KỔ", "a fortified, usually walled residence, as of a prince or noble in feudal times.", "noun", "/kʷə̆/
 
-Note: The vowel in this word is a rare diphthong in Vietnamese which doesn't have an exact equivalent sound in many other languages. In IPA, it's represented by the symbol 'ə̆', which is an open central unrounded vowel with a mid tone and a very short duration.", NOW(), NOW());
+Note: The vowel in this word is a rar", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cast-verb", "cast", "Gửi", "to throw or hurl; fling", "verb", "[Giễn] /ziɤ̃ˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cast-verb", "cast", "Gửi", "to throw or hurl; fling", "verb", "/giʷəːˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-catalog-noun", "catalog", "Thư mục", "a list or record, as of items for sale or courses at a university, systematically arranged and often including descriptive material", "noun", "/dʒə̀ŋ˧ muk̚ˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-catapult-noun", "catapult", "Đại bác ném lay", "an ancient military engine for hurling stones, arrows, etc.", "noun", "[dʒâi ˀbək ˈŋeam ɫaːj]", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-catcall-noun", "catcall", "Gào thét", "a shrill, whistlelike sound or loud raucous shout made to express disapproval at a theater, meeting, etc.", "noun", "[Gào] is pronounced as /ʁaːw/ and [thét] is pronounced as /tʰɛt̚/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-catcall-noun", "catcall", "Gào thét", "a shrill, whistlelike sound or loud raucous shout made to express disapproval at a theater, meeting, etc.", "noun", "[Gào] is pronounced as /ʁaːw/ and [thét] is p", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-catch-verb", "catch", "Lấy", "to seize or capture, especially after pursuit", "verb", "/ʒəj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-categorise-verb", "categorise", "Đánh giá lại", "to arrange in categories or classes; classify.", "verb", "/dʒǎːŋ ɡiə̯ ˀjaː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-categorize-verb", "categorize", "Xếp loại", "to arrange in categories or classes; classify.", "verb", "/xɛp ləw/", NOW(), NOW());
@@ -648,14 +620,13 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-centre-noun,-verb", "centre", "Trung tâm
 Trung 
 
- Trung tâm is the center, a noun.
-Trung means "to put" or "to place", it's a verb.", "center.", "noun, verb", "/trʌŋ tæm/
+ Trung tâm is the center, a", "center.", "noun, verb", "/trʌŋ tæm/
 
 /trʌŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cent-noun", "cent", "Tiền xu", "a bronze coin of the U.S., the 100th part of a U.S. dollar", "noun", "ti ɛn sʷu", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-certainly-adverb", "certainly", "Đúng vậy", "with certainty; without doubt; assuredly", "adverb", "/dʒûŋ və/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-certify-verb", "certify", "Xác nhận", "to attest as certain; give reliable information of; confirm", "verb", "xaʊk nhɪən", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chain-noun", "chain", "Xích", "a series of objects connected one after the other, usually in the form of a series of metal rings passing through one another,  either for various purposes requiring a flexible tie with high tensile strength, as for hauling, supporting, or confining, or in various ornamental and decorative forms.", "noun", "/xʲəkʲ/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chain-noun", "chain", "Xích", "a series of objects connected one after the other, usually in the form of a series of metal rings passing through one another,  either for various purposes requiring a flexible tie with high tensile strength, as for hauling, supporting, or confining, or i", "noun", "/xʲəkʲ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chairs-noun", "chairs", "Ghế", "a seat, especially for one person, usually having four legs for support and a rest for the back and often having rests for the arms.", "noun", "/ʒəː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chair-noun", "chair", "ghế", "a seat, especially for one person, usually having four legs for support and a rest for the back and often having rests for the arms.", "noun", "/kʰəj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chalk-noun", "chalk", "Bàn chải phấn", "a soft, white, powdery limestone consisting chiefly of fossil shells of foraminifers.", "noun", "/bãŋ ʈaɪˀ ʔfən/", NOW(), NOW());
@@ -667,7 +638,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chant-noun", "chant", "Tôn khúc", "a short, simple melody, especially one characterized by single notes to which an indefinite number of syllables are intoned,  in singing psalms, canticles, etc., in church services.", "noun", "/Təʊŋ kwʉk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chaperone-noun,-verb", "chaperone", "Trợ lý
 (chỉ) 
-Trợ giúp hoặc đi cùng với ai đó.", "chaperon.", "noun, verb", "/trǒj lǐ/", NOW(), NOW());
+Trợ giúp hoặc đi cùng với ai đó", "chaperon.", "noun, verb", "/trǒj lǐ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-charge-verb", "charge", "Tắc trách", "to impose or ask as a price or fee", "verb", "/däk ʈrajk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chase-verb", "chase", "Theo dõi", "to pursue in order to seize, overtake, etc.", "verb", "/ðəw jôi/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chasten-verb", "chasten", "Trừng phạt", "to inflict suffering upon for purposes of moral improvement; chastise.", "verb", "Trừng /ʈəŋ/ phạt /fǎt/", NOW(), NOW());
@@ -681,7 +652,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cheese-noun", "cheese", "Phô mai", "the curd of milk separated from the whey and prepared in many ways as a food.", "noun", "/pʰəw ˈmaj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cherish-verb", "cherish", "Sưu tầm", "to hold or treat as dear; feel love for", "verb", "/sũː təm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cherries-noun", "cherries", "Trà xanh", "the fruit of any of various trees belonging to the genus Prunus, of the rose family, consisting of a pulpy, globular drupe enclosing a one-seeded smooth stone.", "noun", "Tra xenh /tra̠ ʝeɳh/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cherry-noun", "cherry", "Xà phòng (note: in some contexts this might refer to a type of soap, but in this case it's likely referring to the fruit)", "the fruit of any of various trees belonging to the genus Prunus, of the rose family, consisting of a pulpy, globular drupe enclosing a one-seeded smooth stone.", "noun", "xaːʔ pʰoŋ", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cherry-noun", "cherry", "Xà phòng (note: in some contexts this might r", "the fruit of any of various trees belonging to the genus Prunus, of the rose family, consisting of a pulpy, globular drupe enclosing a one-seeded smooth stone.", "noun", "xaːʔ pʰoŋ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chess-noun", "chess", "Xe Đế", "a game played on a chessboard by two people who maneuver sixteen pieces each according to rules governing movement of the six kinds of pieces (pawn, rook, knight, bishop, queen, king), the object being to bring the opponent's king into checkmate.", "noun", "/dzě dəj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chew-verb", "chew", "Uống", "to crush or grind with the teeth; masticate.", "verb", "[uŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chickens-noun", "chickens", "Gà", "a domestic fowl, Gallus domesticus, descended from various jungle fowl of southeastern Asia and developed in a number of breeds for its flesh, eggs, and feathers.", "noun", "[dzä]", NOW(), NOW());
@@ -693,7 +664,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chinch-noun", "chinch", "Con lửng", "chinch bug.", "noun", "/kən luŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chin-noun", "chin", "Chân", "the lower extremity of the face, below the mouth.", "noun", "/ʈæŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chip-noun", "chip", "Miếng", "a small, slender piece, as of wood, separated by chopping, cutting, or breaking.", "noun", "[mjəŋ]", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chirp-verb", "chirp", "Tiếng kêu nhỏ hoặc tiếng kêu cất vang.", "to make a characteristic short, sharp sound, as small birds and certain insects.", "verb", "tiếng kêu nhỏ hoặc tiếng kêu cất vang /tjajŋ kwə̌ ɲȯ ʝə̌k wâŋ ʃǎŋ/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chirp-verb", "chirp", "Tiếng kêu nhỏ hoặc tiếng kêu cất vang.", "to make a characteristic short, sharp sound, as small birds and certain insects.", "verb", "tiếng kêu nhỏ hoặc tiếng kêu cất vang /tjajŋ ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chirr-verb", "chirr", "Đổi", "to make a characteristic shrill, trilling sound, as a grasshopper.", "verb", "đỒi /dʷo̞j/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chisel-noun", "chisel", "Kẻ gọt", "a wedgelike tool with a cutting edge at the end of the blade, often made of steel,  for cutting or shaping wood, stone, etc.", "noun", "/kəˀ ɓɔt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-chitter-verb", "chitter", "Lời vọng", "to twitter.", "verb", "/lʷəwəm/", NOW(), NOW());
@@ -733,13 +704,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-clear-adjective", "clear", "Đúng", "free from darkness, obscurity, or cloudiness; light", "adjective", "/dʒŋ̟/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cleave-verb", "cleave", "Lôi bỏ 
 
-(nghĩa như cởi bỏ, tách rời hoặc tước khỏi một vật thể hoặc tình trạng nào đó)
-
-hoặc
-
-Cắt dứt
-
-(trong nhiều trường hợp khác biệt về ngữ nghĩa, tuỳ vào ngữ cảnh sử dụng)", "to adhere closely; stick; cling (usually followed by to).", "verb", "/lǒi ʊ/
+(nghĩa như cởi bỏ, tách rời hoặc tướ", "to adhere closely; stick; cling (usually followed by to).", "verb", "/lǒi ʊ/
 
 /lǒi bə/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-clench-verb", "clench", "Clenh", "to close (the hands, teeth, etc.) tightly.", "verb", "xœŋ", NOW(), NOW());
@@ -748,10 +713,10 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-climb-verb", "climb", "Lên", "to go up or ascend, especially by using the hands and feet or feet only", "verb", "/lɛ̂n/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-clinch-verb", "clinch", "Chộp", "to settle (a matter) decisively", "verb", "/xʌp/
 
-This is the IPA pronunciation for Chộp in Vietnamese.", NOW(), NOW());
+This is the IPA pronunciation for Chộp", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cling-verb", "cling", "Chộp", "to adhere closely; stick to", "verb", "/xʷəp/
 
-Note: I used the tone marks that are commonly used to transcribe Vietnamese in IPA, even though it's not a standard feature of the IPA transcription system. The mark "̌" represents a high tone, and the mark "̀" represents a low falling tone.", NOW(), NOW());
+Note: I used the tone marks that are ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-clink-verb", "clink", "Đấm chai", "to make or cause to make a light, sharp, ringing sound", "verb", "[dʒǎm ʈaj]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-clip-verb", "clip", "Chụp", "to cut, or cut off or out, as with shears", "verb", "xʉp˧", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-clocks-noun", "clocks", "Đồng hồ", "an instrument for measuring and recording time, especially by mechanical means, usually with hands or changing numbers to indicate the hour and minute", "noun", "/dʒəŋ ˀɛ̆w/", NOW(), NOW());
@@ -776,7 +741,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-clothe-verb", "clothe", "Quấn", "to dress; attire.", "verb", "/qʷən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cloth-noun", "cloth", "Vải", "a fabric formed by weaving, felting, etc., from wool, hair, silk, flax, cotton, or other fiber,  for garments, upholstery, and many other items.", "noun", "[Väj]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-clouds-noun", "clouds", "mây", "a visible collection of particles of water or ice suspended in the air, usually at an elevation above the earth's surface.", "noun", "[məj]", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cloud-noun", "cloud", "Trọng Tài Thủy", "a visible collection of particles of water or ice suspended in the air, usually at an elevation above the earth's surface.", "noun", "Trọng Tài Thủy is pronounced as /ʈə̌ŋ͡m tʰaᵐi̯ ʂûˀj/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cloud-noun", "cloud", "Trọng Tài Thủy", "a visible collection of particles of water or ice suspended in the air, usually at an elevation above the earth's surface.", "noun", "Trọng Tài Thủy is pronounced as /ʈə̌ŋ͡m tʰaᵐi", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-clover-noun", "clover", "Thyme flower", "any of various plants of the genus Trifolium, of the legume family, having trifoliolate leaves and dense flower heads, many species of which, as T. pratense, are cultivated as forage plants.", "noun", "tím hoa /tiʰm ʔwaː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-club-noun", "club", "Câu lạc bộ", "a heavy stick, usually thicker at one end than at the other, suitable for use as a weapon; a cudgel.", "noun", "/kəw læk lu̯ɔp/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-club-noun", "club", "Câu lạc bộ", "a heavy stick, usually thicker at one end than at the other, suitable for use as a weapon; a cudgel.", "noun", "/kau ˈlak lu̇p/", NOW(), NOW());
@@ -787,7 +752,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-coal-noun", "coal", "than bùn", "a black or dark-brown combustible mineral substance consisting of carbonized vegetable matter,  as a fuel.", "noun", "[Tʰãŋ buˀn]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-coast-noun", "coast", "Bờ biển", "the land next to the sea; seashore", "noun", "/bə̌jɛ̃ˀ/
 
-(With a tone mark indicating the falling tone on the first syllable.)", NOW(), NOW());
+(With a tone mark indicating the f", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-coat-noun", "coat", "Quần áo", "an outer garment with sleeves, covering at least the upper part of the body", "noun", "Kʷən ʔaw", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-coaxingly-verb", "coaxingly", "Kêu gọi", "to attempt to influence by gentle persuasion, flattery, etc.; cajole", "verb", "kjøˀ kɔiʲ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-coax-verb", "coax", "Tán bông", "to attempt to influence by gentle persuasion, flattery, etc.; cajole", "verb", "[tæn ˈʔɔŋ]", NOW(), NOW());
@@ -825,7 +790,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-comment-noun", "comment", "Lời bình luận", "a remark, observation, or criticism", "noun", "lǐˀ bîn̪͂ cəm᷆'", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-commiserate-verb", "commiserate", "Thán thở", "to feel or express sorrow or sympathy for; empathize with; pity.", "verb", "/thàn ʈəw/
 
-Note: In IPA, /ʈ/ represents a voiceless alveolar affricate and is not commonly used for this specific Vietnamese pronunciation. However, the closest approximation would be the voiced equivalent /ð/ with some variation depending on regional accents, but in standard pronunciation it's indeed /ʈ/.", NOW(), NOW());
+Note: In IPA, /ʈ/ represents a vo", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-committee-noun", "committee", "Hội đồng", "a person or group of persons elected or appointed to perform some service or function, as to investigate, report on, or act upon a particular matter.", "noun", "hōi đężən", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-commit-verb", "commit", "Cập nhật", "to give in trust or charge; consign.", "verb", "/kap ˈnuətʲ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-commonly-adverb", "commonly", "Đôi khi", "often; frequently", "adverb", "đôi khi /dʒɔj kʰäj/", NOW(), NOW());
@@ -861,12 +826,12 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-conduct-noun", "conduct", "Tôn giáo", "personal behavior; way of acting; bearing or deportment.", "noun", "[Tòn ʲəkau̯]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-confer-verb", "confer", "Giao lưu", "to consult together; compare opinions; carry on a discussion or deliberation.", "verb", "/gǐaʊ/
 
-Note: IPA transcription may vary slightly depending on regional accents and pronunciations. The above is a commonly used standard pronunciation for "Giao lưu" in Vietnamese.", NOW(), NOW());
+Note: IPA transcription may vary slig", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-confess-verb", "confess", "Bạch thoại", "to acknowledge or avow (a fault, crime, misdeed, weakness, etc.) by way of revelation.", "verb", "/bʌk ˈtwaɪ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-confide-verb", "confide", "Bí mật", "to impart secrets trustfully; discuss private matters or problems (usually followed by in)", "verb", "/biː ʔmɜt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-confine-verb", "confine", "Giữ lại", "to enclose within bounds; limit or restrict", "verb", "/dʒəj ˀlaj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-confirm-verb", "confirm", "Xác nhận", "to establish the truth, accuracy, validity, or genuineness of; corroborate; verify", "verb", "xak nhän", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-confiscate-verb", "confiscate", "Được cấm và quản lý", "to seize as forfeited to the public domain; appropriate, by way of penalty, for public use.", "verb", "Được /dʒəwək/ cấm /kəm/ vầ /væ/ quã /ŋwaj/ lý /lǐ/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-confiscate-verb", "confiscate", "Được cấm và quản lý", "to seize as forfeited to the public domain; appropriate, by way of penalty, for public use.", "verb", "Được /dʒəwək/ cấm /kəm/ vầ /væ/ quã /ŋwaj/ lý", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-confront-verb", "confront", "Xung đột", "to face in hostility or defiance; oppose", "verb", "/ʒũŋ dət/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-confuse-verb", "confuse", "Lầm lẫn", "to perplex or bewilder", "verb", "lam lanc", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-congratulate-verb", "congratulate", "Chúc mừng", "to express pleasure to (a person), as on a happy occasion", "verb", "/ʈuk ⁿ məŋ/", NOW(), NOW());
@@ -885,24 +850,18 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-console-verb", "console", "in văn phòng máy tính", "to alleviate or lessen the grief, sorrow, or disappointment of; give solace or comfort", "verb", "văn /ʷən/ 
 phòng /pʰəŋ̟/ 
 máy /maj˧˩/ 
-tính /tɪŋ˧/", NOW(), NOW());
+tính /", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-consort-noun", "consort", "Vợ hoàng hậu", "a husband or wife; spouse, especially of a reigning monarch.", "noun", "Vợ hoàng hậu /ʷə ˌhwaːŋ hɤf/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-conspire-verb", "conspire", "Làm loạn", "to agree together, especially secretly, to do something wrong, evil, or illegal", "verb", "/läm lwaːn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-constrain-verb", "constrain", "Giới hạn", "to force, compel, or oblige", "verb", "/xwî jäm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-constrict-verb", "constrict", "Giết chết bằng cách chặc chặt", "to draw or press in; cause to contract or shrink; compress.", "verb", "/kjɛt cʰɜːt ʋaŋ kæk ʈaˀ/
 
-Note: This is a phonetic spelling using the IPA. The pronunciation may vary across different regions and individuals.", NOW(), NOW());
+Note: This is a pho", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-construct-verb", "construct", "Xây dựng", "to build or form by putting together parts; frame; devise.", "verb", "/Xaɪ1 dʒuəŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-consult-verb", "consult", "Khuyên", "to seek advice or information from; ask guidance from", "verb", "/xʷən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-contemplate-verb", "contemplate", "Nghĩ trong
 
-(Xem thêm thông tin về từ này tại Nguyễn Dũng Chính)
-
-(Nghẹp trong là việc nhận thấy hay xem xét 1 điểm những về.)
-
- Nghĩ trước là một hình thức khác.
-
- Nghĩ ngơ, mơ hoặc "đi" đến trạng thái khác nhau cũng có thể được sử dụng.", "to look at or view with continued attention; observe or study thoughtfully", "verb", "/ŋɝiʌ̃ˀ ŋɔɜœːk/", NOW(), NOW());
+(Xem thêm thông tin về từ này tại", "to look at or view with continued attention; observe or study thoughtfully", "verb", "/ŋɝiʌ̃ˀ ŋɔɜœːk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-contend-verb", "contend", "Đánh giá", "to struggle in opposition", "verb", "đẫn /ʤǎ̆̀ŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-contest-noun", "contest", "Khổ thi đấu", "a race, conflict, or other competition between rivals, as for a prize.", "noun", "/kʷəˀt ʈaːw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-continually-adverb", "continually", "Luôn tục", "very often; at regular or frequent intervals; habitually.", "adverb", "luôn tục /luən ʈũk/", NOW(), NOW());
@@ -927,19 +886,14 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-coolly-adjective", "coolly", "Nhanh chóng
 Lịch sự
 Dễ chịu
-Trầm tính", "moderately cold; neither warm nor cold", "adjective", "Nhất nhàn thì không phải là câu nhưng trong ví dụ bạn đưa ra thì nó giống nhau
-Nhanh chóng /ʈəŋ ʈŋ/
-Lịch sự /ʈi ɲ/
-
-Dễ chịu /ðeʒ ʑɜ/
-Trầm tính /traɘm tɪŋ/", NOW(), NOW());
+Trầm tính", "moderately cold; neither warm nor cold", "adjective", "Nhất nhàn thì không phải là câu nhưng trong v", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cool-adjective", "cool", "Lỗi", "moderately cold; neither warm nor cold", "adjective", "/lʷəj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cooperate-verb", "cooperate", "Hợp tác", "to work or act together or jointly for a common purpose or benefit.", "verb", "/hɓɪʔ kæk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-coordinate-adjective", "coordinate", "Tọa độ", "of the same order or degree; equal in rank or importance.", "adjective", "/toəw dəw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-coo-verb", "coo", "Bày vây", "to utter or imitate the soft, murmuring sound characteristic of doves.", "verb", "/ˈbaɪ ˈvaj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cope-verb", "cope", "Chịu đựng", "to struggle or deal, especially on fairly even terms or with some degree of success (usually followed by with)", "verb", "/[ʈiə˧˩ ɗɨŋ]/
 
-(Note: the tone marks ˧˩ indicate a falling then falling tone, which is characteristic of Vietnamese pronunciation)", NOW(), NOW());
+(Note: the tone marks ˧˩ indic", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-copper-noun", "copper", "Kim Loại", "a malleable, ductile, metallic element having a characteristic reddish-brown color", "noun", "kiːm lɑi", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-copy-noun", "copy", "Sao chép", "an imitation, reproduction, or transcript of an original", "noun", "/səʊ̯ çəp/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-copy-noun", "copy", "Chép", "an imitation, reproduction, or transcript of an original", "noun", "/t͡ʃɛp/", NOW(), NOW());
@@ -950,12 +904,12 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-correctly-verb", "correctly", "Đúng", "to set or make true, accurate, or right; remove the errors or faults from", "verb", "Đính becomes /ʒɨŋˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-correct-verb", "correct", "Đúng", "to set or make true, accurate, or right; remove the errors or faults from", "verb", "/dʒŋ/
 
-(Đ is pronounced as a d with a slight ng sound attached to it in IPA)", NOW(), NOW());
+(Đ is pronounced as a d with a slight ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-correspond-verb", "correspond", "Gửi thư", "to be in agreement or conformity (often followed by with or to)", "verb", "/xʷi/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-corrode-verb", "corrode", "Rò rỉ", "to eat or wear away gradually as if by gnawing, especially by chemical action.", "verb", "/ʁɔ ˀzi/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-corrupt-adjective", "corrupt", "Bẩn", "guilty of dishonest practices, as bribery; lacking integrity; crooked", "adjective", "/bàˀn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cosset-verb", "cosset", "Làm mềm, dưỡng dỗi", "to treat as a pet; pamper; coddle.", "verb", "/läm məm ʷɗoɪ ʂɔj/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cough-verb", "cough", "Cough in Vietnamese is Coughed -> Coughing: Chết lặng ( informal ) or ho khan (formal).", "to expel air from the lungs suddenly with a harsh noise, often involuntarily.", "verb", "Chết lặng: /ʈə̌t lãŋ/
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cough-verb", "cough", "Cough in Vietnamese is Coughed -> Coughing: C", "to expel air from the lungs suddenly with a harsh noise, often involuntarily.", "verb", "Chết lặng: /ʈə̌t lãŋ/
 
 ho khan: /hɔ̂k hǎn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cough-verb", "cough", "Khạc", "to expel air from the lungs suddenly with a harsh noise, often involuntarily.", "verb", "/xaʔ˦/", NOW(), NOW());
@@ -963,7 +917,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-counteract-verb", "counteract", "Ngừa", "to act in opposition to; frustrate by contrary action.", "verb", "/nəj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-counter-noun", "counter", "Số đếm", "a table or display case on which goods can be shown, business transacted, etc.", "noun", "/dʒə̂ˀ/
 
-(Notable note that it is a loanword from Sino-Vietnamese and therefore retains its Chinese pronunciation when used in Vietnam, where "Số" comes from the Chinese numeral "shu", written as '數' in Traditional Chinese but '数' in Simplified Chinese)", NOW(), NOW());
+(Notable note that it is a loanword ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-country-noun", "country", "Quốc gia", "a state or nation", "noun", "/kwok ˈjäj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-count-verb", "count", "Đoán", "to check over (the separate units or groups of a collection) one by one to determine the total number; add up; enumerate", "verb", "đōn", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-courageously-adjective", "courageously", "Dũng cảm", "possessing or characterized by courage; brave", "adjective", "[dʒunŋ käm]", NOW(), NOW());
@@ -989,7 +943,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-crayon-noun", "crayon", "Bút màu", "a pointed stick or pencil of colored clay, chalk, wax, etc.,  for drawing or coloring.", "noun", "/buʔ maʷw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cream-noun", "cream", "Sữa chua", "the fatty part of milk, which rises to the surface when the liquid is allowed to stand unless homogenized.", "noun", "/zu̇ə̌ʷ/
 
-(That's an approximation with available tools and my understanding, any expert feedback would be welcome to correct or improve this representation.)", NOW(), NOW());
+(That's an approximation with avail", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-crease-noun", "crease", "nếp nhăn", "a ridge or groove produced in anything by folding, heat, pressure, etc.; fold; furrow.", "noun", "/nɛp ɲən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-create-verb", "create", "Tạo", "to cause to come into being, as something unique that would not naturally evolve or that is not made by ordinary processes.", "verb", "/təʊ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-creator-noun", "creator", "Tác giả", "a person or thing that creates.", "noun", "[Tak ʒə]", NOW(), NOW());
@@ -1029,7 +983,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cuddle-verb", "cuddle", "Ăn xéo", "to hold close in an affectionate manner; hug tenderly; fondle.", "verb", "Ąŋ sɛw", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cue-noun", "cue", "Chìa khóa", "anything said or done, on or off stage, that is followed by a specific line or action", "noun", "/ʈiə̯ kwa/
 
-(Oral 'ch' sound pronounced like a retroflex stop is represented by ʈ and the diphthong "ia" is written as ə̯ for the Vietnamese language)", NOW(), NOW());
+(Oral 'ch' sound pronounced like ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cuff-noun", "cuff", "Kính tay", "a fold or band serving as a trimming or finish for the bottom of a sleeve.", "noun", "/kǐŋ̇ tʰäj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cup-noun", "cup", "Cốc", "a small, open container made of china, glass, metal, etc., usually having a handle and  chiefly as a receptable from which to drink tea, soup, etc.", "noun", "/kɔk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-cup-noun", "cup", "Ly", "a small, open container made of china, glass, metal, etc., usually having a handle and  chiefly as a receptable from which to drink tea, soup, etc.", "noun", "/Lai/", NOW(), NOW());
@@ -1045,7 +999,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-curtain-noun", "curtain", "Cửa nhôm", "a hanging piece of fabric  to shut out the light from a window, adorn a room, increase privacy, etc.", "noun", "kʷaː ʔŋämˀ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-curtsey-noun", "curtsey", "Chào phép", "curtsy.", "noun", "/ʈəw ˈpɛɪ/
 
-(Please note: IPA spellings may vary slightly depending on regional accents and pronunciations.)", NOW(), NOW());
+(Please note: IPA spellings may v", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-curtsy-noun", "curtsy", "Bóp chân", "a respectful bow made by women and girls, consisting of bending the knees and lowering the body.", "noun", "Bóp chân /bəʊ̯ʔ cʁæɲ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-curve-noun", "curve", "Đường cong", "a continuously bending line, without angles.", "noun", "Đường cong /ðʌŋ ˀkɔŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-curve-noun", "curve", "Đoạn cong", "a continuously bending line, without angles.", "noun", "Đoạn cong /ʒaːŋ kɔŋ/", NOW(), NOW());
@@ -1065,7 +1019,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 
 (Tôn mỏi)
 
-Note: IPA is a phonetic script used to represent words in their standardized written form. This notation may vary slightly depending on the specific regional accent or pronunciation of the word, but it generally gives you an accurate representation of how the word is pronounced in its standard form.", NOW(), NOW());
+Note: IPA is a phoneti", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dance-verb", "dance", "Múa", "to move one's feet or body, or both, rhythmically in a pattern of steps, especially to the accompaniment of music.", "verb", "muʔ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dandle-verb", "dandle", "Bắt ngoăc", "to move (a baby, child, etc.) lightly up and down, as on one's knee or in one's arms.", "verb", "/bə̌t ɲäw̚ʔ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dangle-verb", "dangle", "lắc lơi", "to hang loosely, especially with a jerking or swaying motion", "verb", "/lak luːj/", NOW(), NOW());
@@ -1077,7 +1031,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dawdle-verb", "dawdle", "phờ phới", "to waste time; idle; trifle; loiter", "verb", "phờ phới /fə̌ʔ fø̂j/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-daydream-noun", "daydream", "Giấc mơ không thực", "a reverie indulged in while awake.", "noun", "/ziək məʊ koh ʈɛk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-day-noun", "day", "Ngày", "the interval of light between two successive nights; the time between sunrise and sunset", "noun", "Nɐj", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dazzle-verb", "dazzle", "Đánh lừa ánh sáng", "to overpower or dim the vision of by intense light", "verb", "Đánh lừa ánh sáng is pronounced as /ðǎɲ ʱuə̇ ʌŋ sâŋ/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dazzle-verb", "dazzle", "Đánh lừa ánh sáng", "to overpower or dim the vision of by intense light", "verb", "Đánh lừa ánh sáng is pronounced as /ðǎɲ ʱuə̇", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-deadpan-adjective", "deadpan", "Nhiệt tính ngây thơ.", "marked by or accomplished with a careful pretense of seriousness or calm detachment; impassive or expressionless", "adjective", "[niə̌t ͡mɪŋk ʲŋaɪ̯ ʔɗɚ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-deal-verb", "deal", "Chia tay", "to occupy oneself or itself (usually followed by with or in)", "verb", "/tʃaːtæj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dearly-adjective", "dearly", "Yêu quý", "beloved or loved", "adjective", "[Yəʊ ʔwəj]", NOW(), NOW());
@@ -1085,7 +1039,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-debate-noun", "debate", "đàm thoại", "a discussion, as of a public question in an assembly, involving opposing viewpoints", "noun", "[dam.tʰaːj]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-debt-noun", "debt", "Nợ", "something that is owed or that one is bound to pay to or perform for another", "noun", "/nəˀ/
 
-Note: The tone mark "ˀ" is used to indicate a rising tone or a falling-rising tone in Vietnamese, which can be represented by the same symbol. In this case, it's a bit more complex as Nợ might be pronounced with either a high tone (nə́) or a rising-falling tone (nəˀ), and even a mid tone /nə/ without any specific pitch variation.", NOW(), NOW());
+Note: The tone mark ˀ is used to ind", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-decay-verb", "decay", "phân rã", "to become decomposed; rot", "verb", "phân rã /fən ʁaː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-deceivingly-verb", "deceivingly", "Làm nhầm", "to mislead by a false appearance or statement; delude", "verb", "/läm ɲäm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-decide-verb", "decide", "Quyết định", "to solve or conclude (a question, controversy, or struggle) by giving victory to one side", "verb", "[djɛk ʈæɲm]", NOW(), NOW());
@@ -1096,7 +1050,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-decline-verb", "decline", "Giảm sút", "to withhold or deny consent to do, enter into or upon, etc.; refuse", "verb", "[jəm su̇t]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-decorate-verb", "decorate", "Thiết kế trang trí", "to furnish or adorn with something ornamental or becoming; embellish", "verb", "Thiết kế trang trí /tʰeə̯t͡ɕɛ kɗaŋ ʈaj/
 
-(Note: The above transcription is in IPA format, with some simplifications and approximations for the Vietnamese language.)", NOW(), NOW());
+(Not", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-decrease-verb", "decrease", "Giảm thiểu", "to diminish or lessen in extent, quantity, strength, power, etc.", "verb", "/dʒaˀm Ʒjəu/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-decree-noun", "decree", "Quyết định", "a formal and authoritative order, especially one having the force of law", "noun", "/Dʒək ˈdɪɳm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-decry-verb", "decry", "Kêu gọi lại", "to speak disparagingly of; denounce as faulty or worthless; express censure of", "verb", "/kʷəj kaj/", NOW(), NOW());
@@ -1104,32 +1058,22 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 
 Dedicate -> Dedicating 
 
-Dedicates -> Dành
-
-Dedicated -> Đã dành 
-
-Would dedicate -> Sẽ dành 
-
-Has dedicated -> Đã đã dành", "to set apart and consecrate to a deity or to a sacred purpose", "verb", "/dɛdɪkət/
+Dedicat", "to set apart and consecrate to a deity or to a sacred purpose", "verb", "/dɛdɪkət/
 
 /dɛdɪkeɪtɪŋ/
 
 /dɛdɪkeɪts/
 
-/deːdɪkeʃən/
-
-wud /dɛdɪkeɪt/
-
-hæz /dɛdɪkeɪtɪd/", NOW(), NOW());
+/deːdɪk", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-deduce-verb", "deduce", "Giải 
 
-(Tiếng Việt có thể không hoàn toàn chính xác cho từ "deduce" trong ngữ cảnh cụ thể vì tiếng Anh và tiếng Việt có thể sử dụng các nghĩa khác nhau cho cùng một từ.)", "to derive as a conclusion from something known or assumed; infer", "verb", "/dzjaj/", NOW(), NOW());
+(Tiếng Việt có thể không hoàn toàn chí", "to derive as a conclusion from something known or assumed; infer", "verb", "/dzjaj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-deem-verb", "deem", "Xác định", "to form or have an opinion; judge; think", "verb", "/xak dijn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-deeply-adverb", "deeply", "Câm.", "at or to a considerable extent downward; well within or beneath a surface.", "adverb", "/kʰaːm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-deer-noun", "deer", "Cáo", "any of several ruminants of the family Cervidae, most of the males of which have solid, deciduous antlers.", "noun", "/kɔw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-defend-verb", "defend", "Bảo vệ", "to ward off attack from; guard against assault or injury (usually followed by from or against)", "verb", "/ʁaʊ̯ vj/
 
-(Note: The tone marks are not included in IPA representation but implied with this transcription.)", NOW(), NOW());
+(Note: The tone marks are not incl", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-defer-verb", "defer", "Hủy bỏ, hoãn lại", "to put off (action, consideration, etc.) to a future time", "verb", "Hủy bỏ /ʊ̉i̯ ɓə˧˦/
 hoãn lại /wən ˀjaɪ˨˩/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-defiantly-adjective", "defiantly", "Khỏe mẽ", "characterized by defiance; boldly resistant or challenging", "adjective", "/kʷəj mɛ̌ː/", NOW(), NOW());
@@ -1138,7 +1082,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-deflate-verb", "deflate", "Nén", "to release the air or gas from (something inflated, as a balloon)", "verb", "/nɛn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-deflect-verb", "deflect", "Chuyển hướng", "to bend or turn aside; turn from a true course or straight line; swerve.", "verb", "/xʷɛ̃ŋ ʋiŋ/
 
-(Note: In IPA notation, /xʷɛ̃/, not 'Chuyển', as the letter "c" in Vietnamese is read more like /t͡ʃ/ but in Chuyển is a /ʈ/, or a retroflex alveolar stop)", NOW(), NOW());
+(Note: In IPA notation, /xʷɛ̃/, ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-defy-verb", "defy", "Cảm thách", "to challenge the power of; resist boldly or openly", "verb", "/käm θakʰ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-degree-noun", "degree", "Độ", "any of a series of steps or stages, as in a process or course of action; a point in any scale.", "noun", "Độ /ʤəˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-delay-verb", "delay", "trì hoãn", "to put off to a later time; defer; postpone", "verb", "tri hɤən /tri ʔwɨn/", NOW(), NOW());
@@ -1189,7 +1133,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dig-verb", "dig", "Kiếm", "to break up, turn over, or remove earth, sand, etc., as with a shovel, spade, bulldozer, or claw; make an excavation.", "verb", "kiểm /kiəm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dilate-verb", "dilate", "Lớn hóa", "to make wider or larger; cause to expand.", "verb", "/dʒəw ˀwa/
 
-(If that looks strange or doesn't appear right here, it should be similar to "zhuh wah" in pronunciation.)", NOW(), NOW());
+(If that looks strange or doesn't", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-diligently-adjective", "diligently", "Tích cực", "constant in effort to accomplish something; attentive and persistent in doing anything", "adjective", "[Tǐk kǒp]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dime-noun", "dime", "Tiền xu mười hai", "a cupronickel-clad coin of the U.S. and Canada, the 10th part of a dollar, equal to 10 cents.", "noun", "/tjənʂu mɪn̊ːj lʌi/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-diminish-verb", "diminish", "Giảm sút", "to make or cause to seem smaller, less, less important, etc.; lessen; reduce.", "verb", "[d͡ʒiəm sut]", NOW(), NOW());
@@ -1220,9 +1164,9 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-discriminate-verb", "discriminate", "Đoán lầm", "to make a distinction in favor of or against a person or thing on the basis of the group, class, or category to which the person or thing belongs rather than according to actual merit; show partiality", "verb", "Đoán lầm /ʤəwəŋ ləm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-discussion-noun", "discussion", "Cô ta", "an act or instance of discussing; consideration or examination by argument, comment, etc., especially to explore solutions; informal debate.", "noun", "/tʰɔ/
 
-Note: In IPA notation, a "th" sound is represented as "tʰ". The apostrophe indicates a glottal stop which is not marked in the original word.", NOW(), NOW());
+Note: In IPA notation, a th sound is", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-discuss-verb", "discuss", "Nói chuyện", "to consider or examine by argument, comment, etc.; talk over or write about, especially to explore solutions; debate", "verb", "noj xuyên", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-disease-noun", "disease", "Bệnh tật", "a disordered or incorrectly functioning organ, part, structure, or system of the body resulting from the effect of genetic or developmental errors, infection, poisons, nutritional deficiency or imbalance, toxicity, or unfavorable environmental factors; illness; sickness; ailment.", "noun", "bəɲtət", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-disease-noun", "disease", "Bệnh tật", "a disordered or incorrectly functioning organ, part, structure, or system of the body resulting from the effect of genetic or developmental errors, infection, poisons, nutritional deficiency or imbalance, toxicity, or unfavorable environmental factors; il", "noun", "bəɲtət", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-disentangle-verb", "disentangle", "Rút láng", "to free or become free from entanglement; untangle; extricate (often followed by from).", "verb", "Rút láng /ʈuət ˈlǎŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-disfavor-noun", "disfavor", "Không ưa", "unfavorable regard; displeasure; disesteem; dislike", "noun", "kə̌ʊ̃ ʉa", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-disfavour-noun", "disfavour", "Không ưa", "unfavorable regard; displeasure; disesteem; dislike", "noun", "/kɔŋ ʌwa/", NOW(), NOW());
@@ -1235,14 +1179,12 @@ Loạng xơi", "to remove or force out of a particular place", "verb", "/lɐt d�
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dismiss-verb", "dismiss", "Hủy bỏ", "to direct (an assembly of persons) to disperse or go", "verb", "/huıj ʙo/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dismount-verb", "dismount", "Lái xe xuống khỏi phương tiện", "to get off or alight from a horse, bicycle, etc.", "verb", "[Lài xe] /laːi̯ zɛʊ̯/
 [đwon] /ʤəwŋ/
-[khói] /kʰoˀj/
-[phương tiễn] /fʷaːŋ țiən/
-[tất cả] /taːt ɣəl/", NOW(), NOW());
+[khói] /k", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-disobey-verb", "disobey", "Vietsay", "to neglect or refuse to obey.", "verb", "[Vĩ-] [sai] /viːˈ sai/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-disparage-verb", "disparage", "Miệt thị", "to speak of or treat slightingly; depreciate; belittle", "verb", "[mjet̚ ʃi]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-displace-verb", "displace", "Di dời", "to compel (a person or persons) to leave home, country, etc.", "verb", "/ziː ʔɪw/
 
-Note: In IPA, a syllable separator (') is used between the syllables, and "i" in this case is represented as an "ə"-like sound in Vietnamese, so it's written as 'iw'.", NOW(), NOW());
+Note: In IPA, a syllable separator", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-display-verb", "display", "Chỉ ra", "to show or exhibit; make visible", "verb", "/Tʃiː ʁaˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-disport-verb", "disport", "Làm phiền", "to divert or amuse (oneself).", "verb", "/läm ˈfjən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dispute-verb", "dispute", "Xô
@@ -1258,10 +1200,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dissolve-verb", "dissolve", "Tan rã", "to make a solution of, as by mixing with a liquid; pass into solution", "verb", "/tən ʁaː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-distance-noun", "distance", "Khoảng cách", "the extent or amount of space between two things, points, lines, etc.", "noun", "/kʰəːw kʌj/
 
-Note: The diacritic marks and tone values are not represented in the IPA transcription above. However, for reference:
-
-* Khoảng is pronounced as a low-rising tone (hành cao) /kʰəːw/ and
-* cách is pronounced as a high-falling tone (hành xuống) /kʌj/.", NOW(), NOW());
+Note: The diacritic marks and to", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-distance-noun", "distance", "Khoảng cách", "the extent or amount of space between two things, points, lines, etc.", "noun", "Khôang cách /kʰəwəŋ ˈkaj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-distinguish-verb", "distinguish", "chẩn đoán", "to mark off as different (often followed by from or by)", "verb", "t͡ʃən djɑwŋ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-distort-verb", "distort", "Gãy폺", "to twist awry or out of shape; make crooked or deformed", "verb", "[Gãi] [pʉs]", NOW(), NOW());
@@ -1288,8 +1227,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 
 Explanation:
 
-* kəʊ̌ is a representation of the Vietnamese "Cô" sound in IPA.
-* The next part β̉ represents the pronunciation of the syllable "bé", with the diacritic mark indicating it's a closed syllable.", NOW(), NOW());
+* kəʊ̌ is a represen", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-doll-noun", "doll", "Búp bê", "a small figure representing a baby or other human being, especially for use as a child's toy.", "noun", "/buʰ ˈbɛː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-donate-verb", "donate", "Đóng góp", "to present as a gift, grant, or contribution; make a donation of, as to a fund or cause", "verb", "/ʤəŋ kɜp/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-donkey-noun", "donkey", "Trăn", "the domestic ass, Equus asinus.", "noun", "/träːn/", NOW(), NOW());
@@ -1299,7 +1237,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 
 [thảo] /tʰao/
 
-becomes [Vễ phác thạo] /vəj pʰak tʰao/", NOW(), NOW());
+bec", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-door-noun", "door", "Cửa", "a movable, usually solid, barrier for opening and closing an entranceway, cupboard, cabinet, or the like, commonly turning on hinges or sliding in grooves.", "noun", "/ʃua/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dote-verb", "dote", "Đánh dot", "to bestow or express excessive love or fondness habitually (usually followed by on or upon)", "verb", "/dʒaŋ ðɔt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-doublecheck-verb", "doublecheck", "Kiểm tra lại", "to check twice or again; recheck.", "verb", "kiểm trá lại /kʰiəm ˈtʁaː ˀjaːj/", NOW(), NOW());
@@ -1307,9 +1245,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-doubt-verb", "doubt", "Lưỡng疑", "to be uncertain about; consider questionable or unlikely; hesitate to believe.", "verb", "/lə̂ŋ ʒɨ̌p/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-download-verb", "download", "Tải xuống", "to transfer (software, data, character sets, etc.) from a distant to a nearby computer, from a larger to a smaller computer, or from a computer to a peripheral device.", "verb", "[Tài](/tʰaːj/) [xuān](/ʒwaːn/)
  
- Corrected to separate the two words as they are pronounced separately.
- 
-The pronunciation of the word Tải xuống in Vietnamese is /taːj ɲûəm/,", NOW(), NOW());
+ Corrected t", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-downplay-verb", "downplay", "Phân nhỏ", "to treat or speak of (something) so as to reduce emphasis on its importance, value, strength, etc.", "verb", "/miə̯ŋ ɲoʊ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-downtown-adverb", "downtown", "Phố xá", "to or in the main business section of a city.", "adverb", "/phǒ ͂za/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-doze-verb", "doze", "Suy sụp", "to sleep lightly or fitfully.", "verb", "/suˀj ʂúp/", NOW(), NOW());
@@ -1325,7 +1261,7 @@ Rã: /jaː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dramatise-verb", "dramatise", "Tranh luận", "to put into a form suitable for acting on a stage.", "verb", "/tranˀ ɫʷaŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dramatize-verb", "dramatize", "Hình dung", "to put into a form suitable for acting on a stage.", "verb", "[Hĩm] [ŋʷəŋ]
 
-(Note: The Vietnamese 'H' is pronounced as a deep and slightly palatalized sound, hence the ŋ sound in IPA representation)", NOW(), NOW());
+(Note: The Vietnamese 'H' is pr", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-drape-verb", "drape", "Cheo", "to cover or hang with cloth or other fabric, especially in graceful folds; adorn with drapery.", "verb", "/ʈ͡ʃəw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-drawer-noun", "drawer", "Khay", "a sliding, lidless, horizontal compartment, as in a piece of furniture, that may be drawn out in order to gain access to it.", "noun", "Khai /kʰaɪ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-drawl-verb", "drawl", "Nói lóng", "to say or speak in a slow manner, usually prolonging the vowels.", "verb", "/noʊj lɔŋ/", NOW(), NOW());
@@ -1336,7 +1272,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dress-noun", "dress", "Áo", "an outer garment for women and girls, consisting of bodice and skirt in one piece.", "noun", "/ʔaːw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dress-noun", "dress", "Áo", "an outer garment for women and girls, consisting of bodice and skirt in one piece.", "noun", "/əuˀw/
 
-( Note: The tone mark is not a separate symbol but rather an indication that the 'au' diphthong is pronounced as a high falling tone.)", NOW(), NOW());
+( Note: The tone mark is not a separa", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dribble-verb", "dribble", "Bày nôn", "to fall or flow in drops or small quantities; trickle.", "verb", "/bəj ˈnʊn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-drift-noun", "drift", "Di dịch", "a driving movement or force; impulse; impetus; pressure.", "noun", "/di ˌdʝik/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-drill-noun", "drill", "Búa xách", "Machinery, Building Trades. a shaftlike tool with two or more cutting edges for making holes in firm materials, especially by rotation.", "noun", "/bu̯aʔ sǎk̚/", NOW(), NOW());
@@ -1346,23 +1282,23 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-drivel-noun", "drivel", "điều rác", "saliva flowing from the mouth, or mucus from the nose; slaver.", "noun", "[djəʔ ʐak]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-drive-verb", "drive", "Chạy xe", "to send, expel, or otherwise cause to move by force or compulsion", "verb", "/ʃäj ʒə/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-driving-adjective", "driving", "Chạy xe", "demanding a high or unreasonable rate of work from subordinates.", "adjective", "Chạy xe /ʈaɪ̯ ʐɛˀ/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-drone-noun", "drone", "Máy bay không người lái", "the male of the honeybee and other bees, stingless and making no honey.", "noun", "Máy bay không người lái /mɐj˧ baˀ kə̃ ɲʌk ʔɪy lɐi/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-drone-noun", "drone", "Máy bay không người lái", "the male of the honeybee and other bees, stingless and making no honey.", "noun", "Máy bay không người lái /mɐj˧ baˀ kə̃ ɲʌk ʔɪy", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-drool-verb", "drool", "Théc", "to water at the mouth, as in anticipation of food; salivate; drivel.", "verb", "/thək/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-droop-verb", "droop", "Rơi xuống", "to sag, sink, bend, or hang down, as from weakness, exhaustion, or lack of support.", "verb", "rǐ̌i xàng", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-drop-noun", "drop", "Giảm", "a small quantity of liquid that falls or is produced in a more or less spherical mass; a liquid globule.", "noun", "[ʲə̌m]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-drop-noun", "drop", "Lấp", "a small quantity of liquid that falls or is produced in a more or less spherical mass; a liquid globule.", "noun", "/ləp̚/
 
-Note: In the IPA transcription above, the symbol "ə" represents a schwa sound and "̚" is an apostrophe indicating that it's followed by a zero-consonantal coda, which means the sound ends without any consonant being pronounced.", NOW(), NOW());
+Note: In the IPA transcription above,", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-drug-noun", "drug", "Chất gây nghiện", "Pharmacology. a chemical substance  in the treatment, cure, prevention, or diagnosis of disease or  to otherwise enhance physical or mental well-being.", "noun", "/xǎt əj ŋəjən/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-drum-noun", "drum", "đàn hồi", "a musical percussion instrument consisting of a hollow, usually cylindrical, body covered at one or both ends with a tightly stretched membrane, or head, which is struck with the hand, a stick, or a pair of sticks, and typically produces a booming, tapping, or hollow sound.", "noun", "/dæɳ ʱɐi/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-drum-noun", "drum", "Trống", "a musical percussion instrument consisting of a hollow, usually cylindrical, body covered at one or both ends with a tightly stretched membrane, or head, which is struck with the hand, a stick, or a pair of sticks, and typically produces a booming, tapping, or hollow sound.", "noun", "/dʁəŋ/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-drum-noun", "drum", "đàn hồi", "a musical percussion instrument consisting of a hollow, usually cylindrical, body covered at one or both ends with a tightly stretched membrane, or head, which is struck with the hand, a stick, or a pair of sticks, and typically produces a booming, tappin", "noun", "/dæɳ ʱɐi/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-drum-noun", "drum", "Trống", "a musical percussion instrument consisting of a hollow, usually cylindrical, body covered at one or both ends with a tightly stretched membrane, or head, which is struck with the hand, a stick, or a pair of sticks, and typically produces a booming, tappin", "noun", "/dʁəŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dry-adjective", "dry", "Khô", "free from moisture or excess moisture; not moist; not wet", "adjective", "/kʰəw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dub-verb", "dub", "Đánh vần", "to invest with any name, character, dignity, or title; style; name; call", "verb", "Đánh vần /ʤǎː55 vəˀn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ducks-noun", "ducks", "Con gà", "any of numerous wild or domesticated web-footed swimming birds of the family Anatidae, especially of the genus Anas and allied genera, characterized by abroad, flat bill, short legs, and depressed body.", "noun", "/ˀkəŋ ʲəa̯/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-duck-noun", "duck", "Con gà ngỗng", "any of numerous wild or domesticated web-footed swimming birds of the family Anatidae, especially of the genus Anas and allied genera, characterized by abroad, flat bill, short legs, and depressed body.", "noun", "kəŋ ɣəŋ ʒɗəŋ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-duck-noun", "duck", "Con gà mỏng
 
-(Note: 'con' is a Vietnamese word used as part of the phrase to mean "duck")", "any of numerous wild or domesticated web-footed swimming birds of the family Anatidae, especially of the genus Anas and allied genera, characterized by abroad, flat bill, short legs, and depressed body.", "noun", "Kəŋ ɡâ mǒŋ", NOW(), NOW());
+(Note: 'con' is a Vietnamese wor", "any of numerous wild or domesticated web-footed swimming birds of the family Anatidae, especially of the genus Anas and allied genera, characterized by abroad, flat bill, short legs, and depressed body.", "noun", "Kəŋ ɡâ mǒŋ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-duel-noun", "duel", "Đường súng", "a prearranged combat between two persons, fought with deadly weapons according to an accepted code of procedure, especially to settle a private quarrel.", "noun", "/dʒɗaŋ sʉŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dump-verb", "dump", "Vứt", "to drop or let fall in a mass; fling down or drop heavily or suddenly", "verb", "[Vut] /vʌt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-dunk-verb", "dunk", "Làm nước đá trong nước", "to dip (a doughnut, cake, etc.) into coffee, milk, or the like, before eating.", "verb", "/läm nuʔək ʔjaːˀ/", NOW(), NOW());
@@ -1375,14 +1311,10 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-earthquake-noun", "earthquake", "Động đất", "a series of vibrations induced in the earth's crust by the abrupt rupture and rebound of rocks in which elastic strain has been slowly accumulating.", "noun", "/dʒəwŋ/
 
 dʒ = voiced postalveolar affricate
-ə = schwa (neutral vowel)
-w = voiced alveolar flap
-ŋ = velar nasal", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-earth-noun", "earth", "Trái đất", "(often initial capital letter) the planet third in order from the sun, having an equatorial diameter of 7926 miles (12,755 km) and a polar diameter of 7900 miles (12,714 km), a mean distance from the sun of 92.9 million miles (149.6 million km), and a period of revolution of 365.26 days, and having one satellite.", "noun", "đất /ʈaˀt/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ear-noun", "ear", "Tai", "the organ of hearing and equilibrium in vertebrates, in humans consisting of an external ear that gathers sound vibrations, a middle ear in which the vibrations resonate against the tympanic membrane, and a fluid-filled internal ear that maintains balance and that conducts the tympanic vibrations to the auditory nerve, which transmits them as impulses to the brain.", "noun", "[Tài] /tài/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ease-noun", "ease", "I'm ready when you are.", "freedom from labor, pain, or physical annoyance; tranquil rest; comfort", "noun", "Ngoại trừ trước và sau đó, Tôi sẵn sàng khi bạn gọi thì nó là 
-
-/nɔi sɑːn ˀaːŋ ʔɪ kʊ˨ ɔj/", NOW(), NOW());
+ə", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-earth-noun", "earth", "Trái đất", "(often initial capital letter) the planet third in order from the sun, having an equatorial diameter of 7926 miles (12,755 km) and a polar diameter of 7900 miles (12,714 km), a mean distance from the sun of 92.9 million miles (149.6 million km), and a per", "noun", "đất /ʈaˀt/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ear-noun", "ear", "Tai", "the organ of hearing and equilibrium in vertebrates, in humans consisting of an external ear that gathers sound vibrations, a middle ear in which the vibrations resonate against the tympanic membrane, and a fluid-filled internal ear that maintains balance", "noun", "[Tài] /tài/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ease-noun", "ease", "I'm ready when you are.", "freedom from labor, pain, or physical annoyance; tranquil rest; comfort", "noun", "Ngoại trừ trước và sau đó, Tôi sẵn sàng khi b", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-easily-adverb", "easily", "Dễ dàng", "in an easy manner; with ease; without trouble", "adverb", "/dəj ˈðaŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-east-noun", "east", "Đông", "a cardinal point of the compass, 90° to the right of north.Abbreviation", "noun", "[dəŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-eat-verb", "eat", "Ăn", "to take into the mouth and swallow for nourishment; chew and swallow (food).", "verb", "ăn /ʔan/", NOW(), NOW());
@@ -1412,7 +1344,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-emerge-verb", "emerge", "Xuất hiện", "to come forth into view or notice, as from concealment or obscurity", "verb", "xuất hiện becomes /ʃuət hiẽn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-empathise-verb", "empathise", "Tôn trọng", "to experience empathy (often followed by with)", "verb", "/tʰə̌n rɛ̂t/
 
-or alternatively as /tʰə̌ŋ rɛ̂t/", NOW(), NOW());
+or alternatively as /tʰə̌ŋ rɛ̂t", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-empathize-verb", "empathize", "Sự đồng cảm", "to experience empathy (often followed by with)", "verb", "/zuˀ ŋäm ʦäm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-emphasise-verb", "emphasise", "Nghiên cứu", "to give emphasis to; lay stress upon; stress", "verb", "/nʲiəŋ kuəʊ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-emphasize-verb", "emphasize", "Nghĩa hạnh", "to give emphasis to; lay stress upon; stress", "verb", "ŋi ʲə̌ ŋ ʁajh", NOW(), NOW());
@@ -1431,7 +1363,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-endanger-verb", "endanger", "Nguy cơ cho bị đe dọa", "to expose to danger; imperil", "verb", "ŋʷǐj kəuʃ ôk ɓi ɗɛ lɪa", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-endorse-verb", "endorse", "Tán trợ", "to approve, support, or sustain", "verb", "/tænʊ/
 
-(Note: The tone is a low falling tone, but in IPA transcription, it's generally represented as /u/, which indicates a lower pitched vowel sound with a gradual decrease in pitch)", NOW(), NOW());
+(Note: The tone is a low falling tone", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-endure-verb", "endure", "Thắng qua", "to hold out against; sustain without impairment or yielding; undergo", "verb", "Thắng qua is pronounced /ʈ̻aŋ kwaˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-end-noun", "end", "Kết", "the last part or extremity, lengthwise, of anything that is longer than it is wide or broad", "noun", "/kət/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-end-noun", "end", "Kết", "the last part or extremity, lengthwise, of anything that is longer than it is wide or broad", "noun", "/kɛt/", NOW(), NOW());
@@ -1449,29 +1381,27 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-enlighten-verb", "enlighten", "Sáng tỏ", "to give intellectual or spiritual light to; instruct; impart knowledge to", "verb", "/saŋ təw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-enormously-adjective", "enormously", "Khổng lồ", "greatly exceeding the common size, extent, etc.; huge; immense", "adjective", "/koŋ̉ɔ̆/
 
-(Note: The double dot above the o is to indicate that it's a pre-vocalic "o" with a schwa sound, which is characteristic of Vietnamese pronunciation.)", NOW(), NOW());
+(Note: The double dot above the o i", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-enquire-verb", "enquire", "Hỏi", "inquire.", "verb", "/xôi/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-enshroud-verb", "enshroud", "cheo vé", "to shroud; conceal.", "verb", "/tʃəu vɛˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ensnare-verb", "ensnare", "Làm bẫy", "to capture in, or involve as in, a snare", "verb", "/läm ˈbɐj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-entangle-verb", "entangle", "Vướng", "to make tangled; ensnarl; intertwine.", "verb", "vuə̯ŋkʷ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-entertain-verb", "entertain", "divertido", "to hold the attention of pleasantly or agreeably; divert; amuse.", "verb", "/dʒi.vɛt.i/
 
-Note: Divertido is actually a Spanish word, not a Vietnamese one.", NOW(), NOW());
+Note: Divertido is actually a Sp", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-enter-verb", "enter", "Nhập", "to come or go in", "verb", "/nʲəp/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-enthuse-verb", "enthuse", "Thú vị", "to be or become enthusiastic; show enthusiasm", "verb", "Thú vị /fũ̇˧˩ vǐjˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-enthusiastically-adjective", "enthusiastically", "Cơ hội", "full of or characterized by enthusiasm; ardent", "adjective", "ko hi/
 
-(Note: The above representation is simplified. In a full IPA transcription, each syllable would typically be separated with a space.)", NOW(), NOW());
+(Note: The above representation is si", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-entice-verb", "entice", "Làm cho hấp dẫn", "to lead on by exciting hope or desire; allure; inveigle", "verb", "/lɐm ʧə ʁæp đàn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-entreat-verb", "entreat", "Kêu gợi", "to ask (a person) earnestly; beseech; implore; beg", "verb", "/Kʷɛu̯ əj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-entwine-verb", "entwine", "Lồng vào nhau", "to twine with, about, around, or together.", "verb", "/lə̌m vɔ̂n nə̂/
 
-Note: This is a phonetic spelling in IPA of the entire phrase "Lồng vào nhau" in Vietnamese, not just a single word. In IPA, this represents the sounds /lə̌m/, /vɔ̂n/, and /nə̂/ (with the stress mark on the first syllable).", NOW(), NOW());
+Note: This is a phonetic spe", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-enumerate-verb", "enumerate", "Xếp hạng", "to mention separately as if in counting; name one by one; specify, as in a list", "verb", "/xɛp ʲahŋ/
 
-or alternatively as /xɛp˧ ʲahŋ̇˦/
-
-(Note: The diacritic marks may vary slightly depending on the specific Vietnamese dialect.)", NOW(), NOW());
+or alternatively as /xɛp˧ ʲahŋ̇˦/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-enunciate-verb", "enunciate", "Giở lời", "to utter or pronounce (words, sentences, etc.), especially in an articulate or a particular manner", "verb", "/ziəw lɔj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-envelop-verb", "envelop", "Gửi thư", "to wrap up in or as in a covering", "verb", "Gửi thư /zɯˀ ʔə ʔɤː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-envision-verb", "envision", "Giác ngộ", "to picture mentally, especially some future event or events", "verb", "[/dʒak̚ ŋwət]", NOW(), NOW());
@@ -1483,7 +1413,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-escape-verb", "escape", "Đánh trúng", "to slip or get away, as from confinement or restraint; gain or regain liberty", "verb", "đánh trúng /dʒaː ˀð̚ ʨuŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-escort-noun", "escort", "Giám hộ", "a group of persons, or a single person, accompanying another or others for protection, guidance, or courtesy", "noun", "/ʒiəm ʔɛ/
 
-(Note: The IPA symbol "ʒ" represents a voiced postalveolar fricative sound, which may not exist in some languages or pronunciation systems. If this is unclear, please let me know.)", NOW(), NOW());
+(Note: The IPA symbol ʒ represen", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-especially-adverb", "especially", "Cụ thể", "particularly; exceptionally; markedly", "adverb", "Cụ thể /kʷə̄ˀ ʈēˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-espy-verb", "espy", "Đoán", "to see at a distance; catch sight of.", "verb", "Đoán /zwaːn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-establish-verb", "establish", "Xây dựng", "to found, institute, build, or bring into being on a firm or stable basis", "verb", "/Xaɪ ˌdʒuəŋ/", NOW(), NOW());
@@ -1503,21 +1433,21 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-evoke-verb", "evoke", "Tỉnh hứng", "to call up or produce (memories, feelings, etc.)", "verb", "/ʔɪŋ ɣəŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-exactly-adverb", "exactly", "Đúng đó", "in an exact manner; precisely; accurately.", "adverb", "/ʤəŋ̟˧/
 
-(Note: In IPA, /ʤ/ represents a voiced alveolar affricate, which is similar to the "ch" in "church", and /˧/ indicates a mid tone)", NOW(), NOW());
+(Note: In IPA, /ʤ/ represents a voic", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-exaggerate-verb", "exaggerate", "Làm lớn hơn", "to magnify beyond the limits of truth; overstate; represent disproportionately", "verb", "/läm lwak̚ həm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-examine-verb", "examine", "Kiểm tra", "to inspect or scrutinize carefully", "verb", "kiểm trạ /kiəm ʈäː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-example-noun", "example", "Chủng", "one of a number of things, or a part of something, taken to show the character of the whole", "noun", "/dʒəŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-excavate-verb", "excavate", "Khám phá", "to make hollow by removing the inner part; make a hole or cavity in; form into a hollow, as by digging", "verb", "/kʰäm ˈfä/
 
-(Note: This is a simple phonetic transcription and not an exhaustive or official representation of the word's pronunciation in IPA.)", NOW(), NOW());
+(Note: This is a simple phonetic ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-exchange-verb", "exchange", "Chuyển", "to give up (something) for something else; part with for some equivalent; change for another.", "verb", "/ʈɛ̂ŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-exchange-verb", "exchange", "Chuyển đổi", "to give up (something) for something else; part with for some equivalent; change for another.", "verb", "/tʃəŋ ɗoɪ/
 
-(Note: IPA spelling may vary depending on the speaker's accent and regional pronunciation.)", NOW(), NOW());
+(Note: IPA spelling may vary depe", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-excitedly-adjective", "excitedly", "Thức giấc", "stirred emotionally; agitated", "adjective", "/thʷək ʒiək/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-exclaim-verb", "exclaim", "Khó có được", "to cry out or speak suddenly and vehemently, as in surprise, strong emotion, or protest.", "verb", "/kʰəːw kɜw ŋeɪ/
 
-I hope that's what you were looking for!", NOW(), NOW());
+I hope that's what you were ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-exclude-verb", "exclude", "Bỏ qua", "to shut or keep out; prevent the entrance of.", "verb", "/Bəw kwa/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-excuse-verb", "excuse", "Xin lỗi", "to regard or judge with forgiveness or indulgence; pardon or forgive; overlook (a fault, error, etc.)", "verb", "xʷɪn lôi", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-exhale-verb", "exhale", "hít ra", "to emit breath or vapor; breathe out.", "verb", "hít rà /ʰiət̚ ʁaː/", NOW(), NOW());
@@ -1531,7 +1461,7 @@ Phả xuất
 Trận thoát", "a way or passage out", "noun", "ku̯aˀ tʰaːt həm 
 çô ra 
 fä ˈxoat 
-trân tʰaːt", NOW(), NOW());
+trân tʰaː", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-expand-verb", "expand", "Mở rộng", "to increase in extent, size, volume, scope, etc.", "verb", "mə̂̆̉ˀ ʁɌəŋ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-expansion-noun", "expansion", "Phát triển", "the act or process of expanding.", "noun", "/ˀfaᵗː tiə̯l e/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-expect-verb", "expect", "mong đợi", "to look forward to; regard as likely to happen; anticipate the occurrence or the coming of", "verb", "mŋ ʔðɤkʷ", NOW(), NOW());
@@ -1542,7 +1472,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 
 (dziək)
 
-Note: In IPA transcription of Vietnamese words, the letter "i" is pronounced as a diphthong /iə/, and the letter combination "i" in the middle of a word (such as in this case) often has an additional sound like in the English word "bit".", NOW(), NOW());
+Note: In IPA transcription ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-exploit-noun", "exploit", "Khả năng lợi dụng", "a striking or notable deed; feat; spirited or heroic act", "noun", "kʰã ː ŋäŋ lǐjʊ̉ŋ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-explore-verb", "explore", "Khám phá", "to traverse or range over (a region, area, etc.) for the purpose of discovery", "verb", "/kaːm ˈfaˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-expose-verb", "expose", "Làm sáng tỏ
@@ -1557,14 +1487,14 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-extend-verb", "extend", "Nghiên cứu", "to stretch out; draw out to the full length", "verb", "/n͡ʒiəŋ kûơu/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-extinguish-verb", "extinguish", "Dập tắt", "to put out (a fire, light, etc.); put out the flame of (something burning or lighted)", "verb", "/dəp ʔæt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-extract-verb", "extract", "Lấy ra", "to get, pull, or draw out, usually with special effort, skill, or force", "verb", "Lấy ra /lɐj̊ rä/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-extrapolate-verb", "extrapolate", "Làm sáng tỏ; thu thập thêm thông tin để dự đoán một tình huống hoặc kết quả trong tương lai", "to infer (an unknown) from something that is known; conjecture.", "verb", "/lɐm sɐŋ̪ tə/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-extrapolate-verb", "extrapolate", "Làm sáng tỏ; thu thập thêm thông tin để dự đo", "to infer (an unknown) from something that is known; conjecture.", "verb", "/lɐm sɐŋ̪ tə/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-extremely-adverb", "extremely", "Rất", "in an extreme degree; exceedingly", "adverb", "/ʐət/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-extricate-verb", "extricate", "Rút ra", "to free or release from entanglement; disengage", "verb", "/rut̚ ʔa/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-exult-verb", "exult", "Lớn phượng", "to show or feel a lively or triumphant joy; rejoice exceedingly; be highly elated or jubilant", "verb", "/Lɛwŋ ˀfûŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-eyeball-noun", "eyeball", "Mắt", "the ball or globe of the eye.", "noun", "/mɐt/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-eyes-noun", "eyes", "Mắt", "the organ of sight, in vertebrates typically one of a pair of spherical bodies contained in an orbit of the skull and in humans appearing externally as a dense, white, curved membrane, or sclera, surrounding a circular, colored portion, or iris, that is covered by a clear, curved membrane, or cornea, and in the center of which is an opening, or pupil, through which light passes to the retina.", "noun", "/mæt/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-eye-noun", "eye", "Mắt", "the organ of sight, in vertebrates typically one of a pair of spherical bodies contained in an orbit of the skull and in humans appearing externally as a dense, white, curved membrane, or sclera, surrounding a circular, colored portion, or iris, that is covered by a clear, curved membrane, or cornea, and in the center of which is an opening, or pupil, through which light passes to the retina.", "noun", "[Mǎt]", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-eye-noun", "eye", "Mắt", "the organ of sight, in vertebrates typically one of a pair of spherical bodies contained in an orbit of the skull and in humans appearing externally as a dense, white, curved membrane, or sclera, surrounding a circular, colored portion, or iris, that is covered by a clear, curved membrane, or cornea, and in the center of which is an opening, or pupil, through which light passes to the retina.", "noun", "/mətˀ/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-eyes-noun", "eyes", "Mắt", "the organ of sight, in vertebrates typically one of a pair of spherical bodies contained in an orbit of the skull and in humans appearing externally as a dense, white, curved membrane, or sclera, surrounding a circular, colored portion, or iris, that is c", "noun", "/mæt/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-eye-noun", "eye", "Mắt", "the organ of sight, in vertebrates typically one of a pair of spherical bodies contained in an orbit of the skull and in humans appearing externally as a dense, white, curved membrane, or sclera, surrounding a circular, colored portion, or iris, that is c", "noun", "[Mǎt]", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-eye-noun", "eye", "Mắt", "the organ of sight, in vertebrates typically one of a pair of spherical bodies contained in an orbit of the skull and in humans appearing externally as a dense, white, curved membrane, or sclera, surrounding a circular, colored portion, or iris, that is c", "noun", "/mətˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fabricate-verb", "fabricate", "Tạo ra", "to make by art or skill and labor; construct", "verb", "/dəw rä/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-face-noun", "face", "Gương mặt", "the front part of the head, from the forehead to the chin.", "noun", "/dʒɞŋ mæt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-face-noun", "face", "Gương mặt", "the front part of the head, from the forehead to the chin.", "noun", "ŋuʷaŋ maç", NOW(), NOW());
@@ -1591,7 +1521,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 
 (or 
 xin kwən bit
-if you want the more common phonetic transcription without IPA symbols)", NOW(), NOW());
+if you want ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-family-noun", "family", "Gia đình", "a basic social unit consisting of parents and their children, considered as a group, whether dwelling together or not", "noun", "gια ʈǐnh", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-famously-adjective", "famously", "Dân biết", "having a widespread reputation, usually of a favorable nature; renowned; celebrated", "adjective", "dɐŋ biệt", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fancy-noun", "fancy", "Đôi tơ", "imagination or fantasy, especially as exercised in a capricious manner.", "noun", "/dʒɔi ʔəw/", NOW(), NOW());
@@ -1605,7 +1535,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fasten-verb", "fasten", "Khắc tinh", "to attach firmly or securely in place; fix securely to something else.", "verb", "xắc tɪɳ /ʃăk ʈiŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fast-adjective", "fast", "Nhanh", "moving or able to move, operate, function, or take effect quickly; quick; swift; rapid", "adjective", "/n̪ãːŋ/
 
-Note: The above IPA transcription is based on the standard pronunciation of "Nhanh" in modern Vietnamese language.", NOW(), NOW());
+Note: The above IPA transcription is", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fatally-adverb", "fatally", "Thổ xác", "in a manner leading to death or disaster", "adverb", "/θø̞k ʲak/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-father-noun", "father", "Cha", "a male parent.", "noun", "/tʃaː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-father-noun", "father", "Cha", "a male parent.", "noun", "tʃa", NOW(), NOW());
@@ -1614,15 +1544,15 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-favour-noun,-verb", "favour", "Yêu thích
 (đối với danh từ)
 Lòng tốt bụng 
-(Yêu thích đối với động từ có nghĩa là hài lòng hoặc đồng ý)", "favor.", "noun, verb", "[yəw ʃik]
+(Y", "favor.", "noun, verb", "[yəw ʃik]
 [lɔŋ tɤt ʌŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fawn-noun", "fawn", "Trắng", "a young deer, especially an unweaned one.", "noun", "[Tʁâŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fear-noun", "fear", "Sợ", "a distressing emotion aro by impending danger, evil, pain, etc., whether the threat is real or imagined; the feeling or condition of being afraid.Synonyms", "noun", "/sʷɔ̂j/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fear-noun", "fear", "Sợ", "a distressing emotion aro by impending danger, evil, pain, etc., whether the threat is real or imagined; the feeling or condition of being afraid.Synonyms", "noun", "[Sʲə]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-feast-noun", "feast", "Lễ ăn", "any rich or abundant meal", "noun", "lê ʲɛɐn 
 
-Note: The tone mark "e" with a diacritic mark above it represents the diacritical mark called "hơi" (breathiness) in Vietnamese phonetics, which is used to distinguish between words that would otherwise be pronounced the same without this marker.", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-feather-noun", "feather", "Châu Mẫu", "one of the horny structures forming the principal covering of birds, consisting typically of a hard, tubular portion attached to the body and tapering into a thinner, stemlike portion bearing a series of slender, barbed processes that interlock to form a flat structure on each side.", "noun", "[/ʈəw ˈmǔ]", NOW(), NOW());
+Note: The tone mark e with a diac", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-feather-noun", "feather", "Châu Mẫu", "one of the horny structures forming the principal covering of birds, consisting typically of a hard, tubular portion attached to the body and tapering into a thinner, stemlike portion bearing a series of slender, barbed processes that interlock to form a ", "noun", "[/ʈəw ˈmǔ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-feed-verb", "feed", "động vật cho ăn", "to give food to; supply with nourishment", "verb", "[dʒɔŋ vəj t͡ɕɔ əɲ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-feeling-noun", "feeling", "Cảm giác", "the function or the power of perceiving by touch.", "noun", "/käm ʒäk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-feel-verb", "feel", "Nghe", "to perceive or examine by touch.", "verb", "ŋəj", NOW(), NOW());
@@ -1635,17 +1565,15 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ferry-noun", "ferry", "Tàu cao tốc", "a commercial service with terminals and boats for transporting persons, automobiles, etc., across a river or other comparatively small body of water.", "noun", "/Tâu kaw tsǒc/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fervently-adjective", "fervently", "Suy hô hấp", "having or showing great warmth or intensity of spirit, feeling, enthusiasm, etc.; ardent", "adjective", "/sɯj həp/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fetch-verb", "fetch", "Lấy", "to go and bring back; return with; get", "verb", "/ləj/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fib-noun", "fib", "Fib là sợi tóc của con chó", "a small or trivial lie; minor falsehood.", "noun", "[Fib là sợi tóc của con chó] /fiʔ ləˀ sʷiːw tɤk ʷɤk kɔn ʂoː/
-
-Note: IPA phonetic spelling may not be perfect as Vietnamese is a complex and nuanced language, especially in its tones.", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fib-noun", "fib", "Fib là sợi tóc của con chó", "a small or trivial lie; minor falsehood.", "noun", "[Fib là sợi tóc của con chó] /fiʔ ləˀ sʷiːw t", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fiction-noun", "fiction", "Truyện", "the class of literature comprising works of imaginative narration, especially in prose form.", "noun", "/ʈʂɯən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fiddle-noun", "fiddle", "Đàn nhíp", "a musical instrument of the viol family.", "noun", "/dæn ʰɲiːp/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fidget-verb", "fidget", "chuyển động không ngừng", "to move about restlessly, nervously, or impatiently.", "verb", "/xʷəŋ ɗǐjøŋ kǒ kʌn/
 
-(Note: The above IPA transcription is approximate and may vary depending on the speaker's accent and regional variations.)", NOW(), NOW());
+(Note: The above IPA tra", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-field-noun", "field", "Đất nông nghiệp", "an expanse of open or cleared ground, especially a piece of land suitable or  for pasture or tillage.", "noun", "Đất nông nghiệp /ʔat̚ ˦ŋoŋ ńiɛᷭj/
 
-Note: In IPA, the tone marks (̣ and ᷭ) indicate a short high rising tone on "at" and a falling tone on "ńiɛj".", NOW(), NOW());
+Note: In I", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fiercely-adjective", "fiercely", "MẠNH MẮN", "menacingly wild, savage, or hostile", "adjective", "/mãŋ mæŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fifth-adjective", "fifth", "năm", "next after the fourth; being the ordinal number for five.", "adjective", "[dʲəm]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fight-noun", "fight", "Chiến đấu", "a battle or combat.", "noun", "/Xiən đɗɔʷ/", NOW(), NOW());
@@ -1667,7 +1595,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-flag-noun", "flag", "Cờ", "a piece of cloth, varying in size, shape, color, and design, usually attached at one edge to a staff or cord, and  as the symbol of a nation, state, or organization, as a means of signaling, etc.; ensign; standard; banner; pennant.", "noun", "/ʈɞo̤/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-flail-noun", "flail", "Lưỡi xua", "an instrument for threshing grain, consisting of a staff or handle to one end of which is attached a freely swinging stick or bar.", "noun", "Lưỡi xua /ʷũːj ʃua/
 
-(Note: The 'ų' and 'ư' vowels in Vietnamese are sometimes represented with a macron over them to indicate the tone, but for the purposes of IPA, they are transcribed with the diaresis or umlaut, as seen above)", NOW(), NOW());
+(Note: The 'ų' and 'ư' v", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-flame-noun", "flame", "Lửa", "burning gas or vapor, as from wood or coal, that is undergoing combustion; a portion of ignited gas or vapor.", "noun", "lʷəzə", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-flank-noun", "flank", "đùi", "the side of an animal or a person between the ribs and hip.", "noun", "đùi /ʤəwǐ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-flap-verb", "flap", "lắc", "to swing or sway back and forth loosely, especially with noise", "verb", "/læk/", NOW(), NOW());
@@ -1678,12 +1606,12 @@ becomes
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-flash-noun", "flash", "Đèn nhấp nháy", "a brief, sudden burst of bright light", "noun", "[dʁɛn ɲak ɲaːj]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-flatten-verb", "flatten", "Phẳng", "to make flat.", "verb", "/phənt̚/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-flatter-verb", "flatter", "Trợn", "to try to please by complimentary remarks or attention.", "verb", "/trən/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-flaunt-verb", "flaunt", "Làm cho thấy sự tự tin hoặc sức mạnh của bản thân", "to parade or display oneself conspicuously, defiantly, or boldly.", "verb", "tự tốn /tuː ʔtəˀŋ/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-flaunt-verb", "flaunt", "Làm cho thấy sự tự tin hoặc sức mạnh của bản ", "to parade or display oneself conspicuously, defiantly, or boldly.", "verb", "tự tốn /tuː ʔtəˀŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-flavor-noun", "flavor", "Mùi", "taste, especially the distinctive taste of something as it is experienced in the mouth.", "noun", "/muʲi/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-flee-verb", "flee", "Đi trốn", "to run away, as from danger or pursuers; take flight.", "verb", "Đi trốn /dʒi ˈtʁən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-flesh-noun", "flesh", "Cơ thể 
 
-Note: This word can also refer to the human body, but in the context of "flesh", it is translated as above.", "the soft substance of a human or other animal body, consisting of muscle and fat.", "noun", "/Koʔbi/", NOW(), NOW());
+Note: This word can also refer to th", "the soft substance of a human or other animal body, consisting of muscle and fat.", "noun", "/Koʔbi/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-flex-verb", "flex", "Giãn", "to bend, as a part of the body", "verb", "/Jaɲ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-flick-noun", "flick", "Cú lẩy", "a sudden light blow or tap, as with a whip or the finger", "noun", "/kʷu lɐj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-flight-noun", "flight", "Chuyến bay", "the act, manner, or power of flying.", "noun", "/tʃuə̯ŋ ˀbaɪ/", NOW(), NOW());
@@ -1728,7 +1656,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-foretell-verb", "foretell", "Giác trước", "to tell of beforehand; predict; prophesy.", "verb", "/jjak ˀbwak/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-forewarn-verb", "forewarn", "Trước đó", "to warn in advance.", "verb", "/ʈrək aʊ̯/
 
-Note: IPA pronunciation may vary across dialects and accents. This is one commonly accepted transcription for Trước đó in standard Vietnamese.", NOW(), NOW());
+Note: IPA pronunciation may vary ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-forget-verb", "forget", "Bỏ qua", "to cease or fail to remember; be unable to recall", "verb", "/bə̌ kwa/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-forge-verb", "forge", "Làm nung", "to form by heating and hammering; beat into shape.", "verb", "[lam ʲnuŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-forgive-verb", "forgive", "Xá", "to grant pardon for or remission of (an offense, debt, etc.); absolve.", "verb", "xǎ", NOW(), NOW());
@@ -1740,7 +1668,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fortunately-adjective", "fortunately", "May mắn", "having good fortune; receiving good from uncertain or unexpected sources; lucky", "adjective", "măj nən /maj ˈɟən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-found-verb", "found", "Tìm thấy", "simple past tense and past participle of find.", "verb", "/tɪm ʃæj/
 
-(Note: This is a phonetic approximation and might vary slightly depending on accent or regional pronunciation.)", NOW(), NOW());
+(Note: This is a phonetic approxim", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fowl-noun", "fowl", "Gà", "the domestic or barnyard hen or rooster; chicken.", "noun", "/Gạ̌i/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-frame-noun", "frame", "Hình chữ nhật", "a border or case for enclosing a picture, mirror, etc.", "noun", "hĩɲ ʈəj nǎj", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-frame-noun", "frame", "Cửa sổ", "a border or case for enclosing a picture, mirror, etc.", "noun", "/ʐwaˀ ʂɔ/", NOW(), NOW());
@@ -1764,7 +1692,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 (or alternatively): t͡ʃøj jɕə", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-front-noun", "front", "Trước", "the foremost part or surface of anything.", "noun", "/dʁɛɡ/
 
-(Note: This is a single-syllable word with a distinct pronunciation in Vietnamese language)", NOW(), NOW());
+(Note: This is a single-syllable word", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-froth-noun", "froth", "Sủi cảo", "an aggregation of bubbles, as on an agitated liquid or at the mouth of a hard-driven horse; foam; spume.", "noun", "/sǐkǎːw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-frown-verb", "frown", "đeo mày", "to contract the brow, as in displeasure or deep thought; scowl.", "verb", "/dəw maɪj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fruit-noun", "fruit", "Quả", "any product of plant growth useful to humans or animals.", "noun", "/ʔwaˀ/", NOW(), NOW());
@@ -1778,7 +1706,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-furl-verb", "furl", "làm tơi", "to gather into a compact roll and bind securely, as a sail against a spar or a flag against its staff.", "verb", "[lãm ˧˦ twajʲ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-furniture-noun", "furniture", "Thiết bị", "the movable articles, as tables, chairs, desks or cabinets, required for use or ornament in a house, office, or the like.", "noun", "Thiết bị /tʰɪə̌t bi/
 
-Note: In IPA, the diacritic mark above "i" indicates a tone, specifically a mid-tone in Vietnamese.", NOW(), NOW());
+Note: In IPA, the diacr", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-furrow-noun", "furrow", "nếp", "a narrow groove made in the ground, especially by a plow.", "noun", "/nəp/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-fuss-noun", "fuss", "Vui vẻ", "an excessive display of anxious attention or activity; needless or useless bustle", "noun", "/vwî ʷəp/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-gabble-verb", "gabble", "Nói ngọng", "to speak or converse rapidly and unintelligibly; jabber.", "verb", "/noj ɲoŋ/)", NOW(), NOW());
@@ -1789,28 +1717,25 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-gambol-verb", "gambol", "Cân khôn giggle, vui vẻ trêu đùa", "to skip about, as in dancing or playing; frolic.", "verb", "/kʰãŋ kǒŋ ɓi ʔja/
 /gǐ ɓu̯əj tʁê ɗɚɪ/
 
-/kʰãŋ kǒŋ ɓi/ = Cân khôn
-/ɓi ʔja/ = giggle
-/ɓu̯əj/ = vui vẻ (lit. happy, cheerful)
-/tʁê/ = trêu đùa (to tease, to mock)", NOW(), NOW());
+/kʰãŋ k", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-game-noun", "game", "Trò chơi", "an amusement or pastime", "noun", "/trəu ʝɔi/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-gape-verb", "gape", "Làm ồn", "to stare with open mouth, as in wonder.", "verb", "/lam ˀɳun/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-garden-noun", "garden", "Vườn", "a plot of ground, usually near a house, where flowers, shrubs, vegetables, fruits, or herbs are cultivated.", "noun", "[Vʉːwŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-gargle-verb", "gargle", "Xịt miệng", "to wash or rinse the throat or mouth with a liquid held in the throat and kept in motion by a stream of air from the lungs.", "verb", "ŋǐt miəmʷ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-gash-noun", "gash", "Gãy", "a long, deep wound or cut; slash.", "noun", "Gãy /jaˀ/
 
-Note: The tone mark is represented by the diacritic mark "ˀ" which indicates a high tone in Vietnamese phonology.", NOW(), NOW());
+Note: The tone mark is represented", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-gasp-noun", "gasp", "Khóc thở", "a sudden, short intake of breath, as in shock or surprise.", "noun", "/koʊ˧ ə̯w/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-gate-noun", "gate", "Cổng", "a movable barrier, usually on hinges, closing an opening in a fence, wall, or other enclosure.", "noun", "/kʷɔŋⁿ/
 
-Note: In IPA, the symbol ņ (or ᶑ) represents a retroflexed alveolar nasal which is a distinctive feature of Vietnamese pronunciation.", NOW(), NOW());
+Note: In IPA, the symbol ņ (or ᶑ) re", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-gather-verb", "gather", "Thập tụng", "to bring together into one group, collection, or place", "verb", "/tháp tuŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-gauge-verb", "gauge", "Đo", "to determine the exact dimensions, capacity, quantity, or force of; measure.", "verb", "[dʒəːw]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-gawk-verb", "gawk", "làm ngơ", "to stare stupidly; gape", "verb", "ləm ŋəw", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-gaze-verb", "gaze", "Đánh giá", "to look steadily and intently, as with great curiosity, interest, pleasure, or wonder.", "verb", "/dʒâːɡ jə/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-geese-noun", "geese", "Con gà chít", "a plural of goose.", "noun", "/kəŋ ɡɐkʲ/
 
-(Note: This is an approximation based on the most commonly used pronunciation of this phrase in Vietnam. IPA transcriptions can vary depending on the speaker and regional accent.)", NOW(), NOW());
+(Note: This is an approximation b", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-generalize-verb", "generalize", "Tóm lại", "to infer (a general principle, trend, etc.) from particular facts, statistics, or the like.", "verb", "tôm ʔaɪ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-generally-adverb", "generally", "Tùy tiện", "usually; commonly; ordinarily", "adverb", "tuy1 tiên2 
 
@@ -1870,20 +1795,20 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-grape-noun", "grape", "Nho", "the edible, pulpy, smooth-skinned berry or fruit that grows in clusters on vines of the genus Vitis, and from which wine is made.", "noun", "ŋhɔʔ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-grapple-verb", "grapple", "đóng góp lực", "to hold or make fast to something, as with a grapple.", "verb", "đóng gót là /ðoŋ ʊk/
 
-Note: The IPA pronunciation may vary slightly depending on regional accents and personal pronunciations in Vietnam. This is just one possible transcription.", NOW(), NOW());
+Note: The IPA pronuncia", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-grasp-verb", "grasp", "Cầm", "to seize and hold by or as if by clasping with the fingers or arms.", "verb", "/kʰɐm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-grass-noun", "grass", "cỏ", "any plant of the family Gramineae, having jointed stems, sheathing leaves, and seedlike grains.", "noun", "[dəw]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-gratefully-adjective", "gratefully", "Cảm ơn", "warmly or deeply appreciative of kindness or benefits received; thankful", "adjective", "/käm ʉən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-grate-noun", "grate", "Đá vát", "a frame of metal bars for holding fuel when burning, as in a fireplace, furnace, or stove.", "noun", "/däːʷǎt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-gravitate-verb", "gravitate", "Lên tới", "to move or tend to move under the influence of gravitational force.", "verb", "Lên tới /ən tōˀ/
 
-Note: In IPA, tone diacritics are not always represented explicitly, but may be indicated by a superscripted number in parentheses. In this case, the tones of "tới" are implied within the phonetic transcription.", NOW(), NOW());
+Note: In IPA, tone diacriti", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-graze-verb", "graze", "dạo ngoài", "to feed on growing grass and pasturage, as do cattle, sheep, etc.", "verb", "dạo /daːw/
 ngoài /ŋǒɪj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-greatly-adverb", "greatly", "Rất", "in or to a great degree; much", "adverb", "[rät]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-greedily-adjective", "greedily", "Sự tham lam", "excessively or inordinately desirous of wealth, profit, etc.; avaricious", "adjective", "/sɯ̌əm ʔäm/
 
-(Note: This is a phonetic spelling using IPA for the word "Sự tham lam" in Vietnamese, with the tones indicated by diacritics)", NOW(), NOW());
+(Note: This is a phonetic spelli", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-greet-verb", "greet", "Chào", "to address with some form of salutation; welcome.", "verb", "/xɞʌw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-grieve-verb", "grieve", "Xót xa", "to feel grief or great sorrow", "verb", "xót xa /ʒo̞t͡sxa/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-grill-noun", "grill", "Chảo nướng", "a grated utensil for broiling meat, fish, vegetables, etc., over a fire; gridiron.", "noun", "/ʈaːw ŋʷɛɪw/", NOW(), NOW());
@@ -1895,12 +1820,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-grip-noun", "grip", "Cái nắm tay", "the act of grasping; a seizing and holding fast; firm grasp.", "noun", "kaj nəm tæj", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-grit-noun", "grit", "Tinh thần kiên cường", "abrasive particles or granules, as of sand or other small, coarse impurities found in the air, food, water, etc.", "noun", "Tinh thần kiên cường /tʰǐŋ ʂən kîən kʷǹˀk/
 
-or more accurately as it should be broken down into separate words for better clarity:
-
-- Tinh: /tʰǐŋ/
-- thần: /ʂən/
-- kiên: /kîən/
-- cường: /kʷǹˀk/", NOW(), NOW());
+o", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-groan-noun", "groan", "Khóc dạ", "a low, mournful sound uttered in pain or grief", "noun", "/kʰɜɤk ɗä/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-groom-noun", "groom", "Chú rể", "a bridegroom.", "noun", "/tʃú ə̉rə/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-grope-verb", "grope", "Tìm nôgi", "to feel about with the hands; feel one's way", "verb", "[tim ˈnoj]", NOW(), NOW());
@@ -1915,29 +1835,19 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-grumble-verb", "grumble", "phàn nàn", "to murmur or mutter in discontent; complain sullenly.", "verb", "/phæn ˈnæntʲ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-grump-noun", "grump", "Tâm nản", "a person given to constant complaining.", "noun", "[tæm ˈnən]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-grunt-verb", "grunt", "Đề xuất
-Cảm thấy hài lòng với những gì đã được thực hiện
-Xin lỗi, tôi không thể tìm thấy từ "grunt" trong danh sách các từ có sẵn của tôi. Dưới đây là một số kết quả tiềm năng cho "cough", "grumble" hay "groan":
+Cảm thấy hài lòng với những gì đã đượ", "to utter the deep, guttural sound characteristic of a hog.", "verb", "Dé Xuất: /dê ʊə̯s/
 
-Có thể bạn đang tìm kiếm:
-- Đe dọa (vi)
-- Nghiến răng
-- Cảm thấy không hài lòng
-
-Nếu bạn muốn cung cấp thêm ngữ cảnh, tôi có thể cố gắng giúp đỡ bạn tốt hơn.", "to utter the deep, guttural sound characteristic of a hog.", "verb", "Dé Xuất: /dê ʊə̯s/
-
-Cảm Thấy Hài Lòng: /kʰæm ͡ða ʔaj lɔŋ̇/
-
-Xin Lỗi: /ɕiŋ ˀlɔj/", NOW(), NOW());
+Cảm Thấy Hài Lòng: /kʰæm ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-guarantee-noun", "guarantee", "Đảm bảo", "a promise or assurance, especially one in writing, that something is of specified quality, content, benefit, etc., or that it will perform satisfactorily for a given length of time", "noun", "/dəm ʔəw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-guard-verb", "guard", "Đảm nhận
 Sử dụng
 Bảo vệ", "to keep safe from harm or danger; protect; watch over", "verb", "Đảm nhận /dʒəm nən/
 Sử dụng /sɯ̌ʔ dʒən/
-Bảo vệ /bâw vɛj/", NOW(), NOW());
+Bảo ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-guess-verb", "guess", "đoán", "to arrive at or commit oneself to an opinion about (something) without having sufficient evidence to support the opinion fully", "verb", "đoàn /ðwən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-guffaw-noun", "guffaw", "Lắc đầu", "a loud, unrestrained burst of laughter.", "noun", "/ʈäk əv/
 
-(Note: In IPA, the Vietnamese "c" is represented by "ʈ" when it comes after a vowel and the pronunciation is close to an English "tch")", NOW(), NOW());
+(Note: In IPA, the Vietnamese c i", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-guide-verb", "guide", "Hướng dẫn", "to assist (a person) to travel through, or reach a destination in, an unfamiliar area, as by accompanying or giving directions to the person", "verb", "hʷœŋdən", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-guide-verb", "guide", "Hướng dẫn", "to assist (a person) to travel through, or reach a destination in, an unfamiliar area, as by accompanying or giving directions to the person", "verb", "/hwɜŋ˧˦ dán/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-guitar-noun", "guitar", "Đàn Guitar", "a stringed musical instrument with a long, fretted neck, a flat, somewhat violinlike body, and typically six strings, which are plucked with the fingers or with a plectrum.", "noun", "[dã̃n ˧ ɟɪk.uʁ]", NOW(), NOW());
@@ -1946,9 +1856,9 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-gurgle-verb", "gurgle", "Sự lốc xoáy", "to flow in a broken, irregular, noisy current", "verb", "/sɪʔ luːk huəj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-gush-verb", "gush", "Lũn
 
-Note: This is a more formal/old-fashioned way to say "gush" in Vietnamese, whereas a more common and modern translation would be "đổ"", "to flow out or issue suddenly, copiously, or forcibly, as a fluid from confinement", "verb", "/lʷun/", NOW(), NOW());
+Note: This is a more formal/old-fashione", "to flow out or issue suddenly, copiously, or forcibly, as a fluid from confinement", "verb", "/lʷun/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-guzzle-verb", "guzzle", "Uống ngoặt", "to drink, or sometimes eat, greedily, frequently, or plentifully", "verb", "ʊŋ ɲəkăm", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-gyrate-verb", "gyrate", "Di chuyển vòng quanh, quay trở lại một vị trí nào đó.", "to move in a circle or spiral, or around a fixed point; whirl.", "verb", "[dǐʂɨəv vɜ̌u kʰâʍ nhwaŋ] [kwaɪ tờɐi mɜ̄ lɐɪ ti ʲəm vɨj ɗɐ/]", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-gyrate-verb", "gyrate", "Di chuyển vòng quanh, quay trở lại một vị trí", "to move in a circle or spiral, or around a fixed point; whirl.", "verb", "[dǐʂɨəv vɜ̌u kʰâʍ nhwaŋ] [kwaɪ tờɐi mɜ̄ lɐɪ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hack-verb", "hack", "hack", "to cut, notch, slice, chop, or sever (something) with or as with heavy, irregular blows (often followed by up or down)", "verb", "xác /ʐakˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-haggle-verb", "haggle", "Chặt chéo", "to bargain in a petty, quibbling, and often contentious manner", "verb", "/ʈåk ʈeəw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hail-verb", "hail", "Rơi tuyết", "to cheer, salute, or greet; welcome.", "verb", "ʁi ˀjəwˀt", NOW(), NOW());
@@ -1982,9 +1892,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hastily-adjective", "hastily", "Nhanh chóng", "moving or acting with haste; speedy; quick; hurried.", "adjective", "/n̻aŋʲ ˀŋ̚/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hatch-verb", "hatch", "Lấy trứng ra khỏi vòm hoặc hộp để cho nó nở", "to bring forth (young) from the egg.", "verb", "/lɐj ʔəŋk ʁa hɔɪ vəm ʔɛər hɔp đɛ kɛ kɔj nɔ/
 
- 
-
-Note: the above is a direct transliteration of the word into IPA, without any simplification or approximation.", NOW(), NOW());
+", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hate-verb", "hate", "Kinh tởm", "to dislike intensely or passionately; feel extreme aversion for or extreme hostility toward; detest", "verb", "/kʰiŋ əm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hate-verb", "hate", "ghét", "to dislike intensely or passionately; feel extreme aversion for or extreme hostility toward; detest", "verb", "[/ɲət]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hat-noun", "hat", "Mũ", "a shaped covering for the head, usually with a crown and brim, especially for wear outdoors.", "noun", "/mun/", NOW(), NOW());
@@ -2031,13 +1939,11 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 Ngừ", "to cause delay, interruption, or difficulty in; hamper; impede", "verb", "ŋəʌj", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hint-noun", "hint", "Gợi ý", "an indirect, covert, or helpful suggestion; clue", "noun", "/gǐj ˀï/
 
-Note: In IPA transcription, "i" without a diacritic mark is pronounced as a close front unrounded vowel /ɪ/. The Vietnamese pronunciation of "ơ" (with a hook below) and "ï" (two dots above) can be represented as the same phoneme /ɔ/, but in different positions.", NOW(), NOW());
+Note: In IPA transcription, i wit", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hiss-verb", "hiss", "Hô lên", "to make or emit a sharp sound like that of the letter s prolonged, as a snake does, or as steam does when forced under pressure through a small opening.", "verb", "[Hœʷ ləŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-history-noun", "history", "Lịch sử", "the branch of knowledge dealing with past events.", "noun", "/lǐʊ ʃˀ/
 
-Note: This is a breakdown into individual syllables as well, in case it wasn't clear. The 'ˀ' represents the diacritic mark that indicates the use of tone marks. However, for IPA transcriptions of Vietnamese, this is commonly omitted and only the tone indicated through stress patterns.
-
-In the actual pronunciation (and more common transcription), you might see /lǐ ʔ/ or even just /lǐ/.", NOW(), NOW());
+Note: This is a breakdown into indi", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hitch-verb", "hitch", "Chở", "to fasten or tie, especially temporarily, by means of a hook, rope, strap, etc.; tether", "verb", "/xəː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hit-verb", "hit", "Đánh", "to deal a blow or stroke to", "verb", "Đánh /ʤǎː35/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hoard-noun", "hoard", "Tích lũy", "a supply or accumulation that is hidden or carefully guarded for preservation, future use, etc.", "noun", "/tǐk luːj/", NOW(), NOW());
@@ -2050,7 +1956,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-holiday-noun", "holiday", "Tết", "a day fixed by law or custom on which ordinary business is suspended in commemoration of some event or in honor of some person.", "noun", "/Tət/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-holler-verb", "holler", "Đói", "to cry aloud; shout; yell", "verb", "/dʒoːj/
 
-Note: The IPA transcription may vary slightly depending on the dialect and regional pronunciation of Vietnamese; however, the above is a commonly used representation for this particular word in standard Vietnamese.", NOW(), NOW());
+Note: The IPA transcription may vary", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-home-noun", "home", "Nha", "a house, apartment, or other shelter that is the usual residence of a person, family, or household.", "noun", "[Næʔ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-honestly-adverb", "honestly", "Sự thật sự", "in an honest manner.", "adverb", "/sɨə̯ ʔaːʔ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-honey-noun", "honey", "Mật ong", "a sweet, viscid fluid produced by bees from the nectar collected from flowers, and stored in nests or hives as food.", "noun", "[mʌt əŋ]", NOW(), NOW());
@@ -2059,22 +1965,21 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hook-noun", "hook", "Khay câu", "a curved or angular piece of metal or other hard substance for catching, pulling, holding, or suspending something.", "noun", "/xʌj kaw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hook-noun", "hook", "Cái chìa khóa", "a curved or angular piece of metal or other hard substance for catching, pulling, holding, or suspending something.", "noun", "/käj kʰwa/
 
-The second part is actually "khoá", not "chìa". The correct IPA spelling for Cái khóa is:
-/käj kwä:/", NOW(), NOW());
+The second part is actually khoá", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hoot-verb", "hoot", "Kêu", "to cry out or shout, especially in disapproval or derision.", "verb", "/xʷəj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hopelessly-adjective", "hopelessly", "Hằng đời", "providing no hope; beyond optimism or hope; desperate", "adjective", "/hæŋ ˈđiəm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hope-noun", "hope", "Hy vọng", "the feeling that what is wanted can be had or that events will turn out for the best", "noun", "/Hə̂ŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hope-noun", "hope", "Hy Vọng", "the feeling that what is wanted can be had or that events will turn out for the best", "noun", "Hȳ Vōng /hʷəj v̟ɔŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hop-verb", "hop", "Lặn", "to make a short, bouncing leap; move by leaping with all feet off the ground.", "verb", "/lənk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-horn-noun", "horn", "Côn", "one of the bony, permanent, hollow paired growths, often curved and pointed, that project from the upper part of the head of certain ungulate mammals, as cattle, sheep, goats, or antelopes.", "noun", "/kʷən/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-horrify-verb", "horrify", "Khủng bố tâm trí", "to cause to feel horror; strike with horror", "verb", "Khủng bọ tâm trí is transcribed as /kʊŋ̇bə̌ ʔâm tʁi̱/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-horrify-verb", "horrify", "Khủng bố tâm trí", "to cause to feel horror; strike with horror", "verb", "Khủng bọ tâm trí is transcribed as /kʊŋ̇bə̌ ʔ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-horses-noun", "horses", "Ngựa", "a large, solid-hoofed, herbivorous quadruped, Equus caballus, domesticated since prehistoric times, bred in a number of varieties, and  for carrying or pulling loads, for riding, and for racing.", "noun", "ŋửa /ŋʷəː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-horse-noun", "horse", "Ngựa", "a large, solid-hoofed, herbivorous quadruped, Equus caballus, domesticated since prehistoric times, bred in a number of varieties, and  for carrying or pulling loads, for riding, and for racing.", "noun", "/nəw/
 
-(Translation note: 'Ngựa' is a Vietnamese word that means 'horse')", NOW(), NOW());
+(Translation note: 'Ngựa' is a Vietnam", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hose-noun", "hose", "Thấm", "a flexible tube for conveying a liquid, as water, to a desired point", "noun", "/ʈəm˧ˀ/
 
-(Note: The tone marks are written as "˧ˀ" and indicate a falling-rising intonation in the pronunciation of the word)", NOW(), NOW());
+(Note: The tone marks are written as", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hospital-noun", "hospital", "Bệnh viện", "an institution in which sick or injured persons are given medical or surgical treatment.", "noun", "/Bə̂̃n Việt niεm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hot-adjective", "hot", "Nóng", "having or giving off heat; having a high temperature", "adjective", "[nʌŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hound-noun", "hound", "Chó săn", "one of any of several breeds of dogs trained to pursue game either by sight or by scent, especially one with a long face and large drooping ears.", "noun", "tʃəː sɑ̃ŋ", NOW(), NOW());
@@ -2093,17 +1998,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-humour-noun,-verb", "humour", "Văn hoà
 Văn hoà (also written as Văn hoá)
 
-Note: In Vietnamese culture and language, "văn hoà" is more commonly used to describe a lighthearted or playful situation, rather than the strict definition of humor as we know it in English.
-
-In modern usage:
-Cười
-
-Also:
-Sợ nhạt cân (literally means "afraid to be boring", but is used to describe someone who always tells jokes and try to make others laugh)
-
-Văn hoà (also written as Văn hoá) can also mean culture or entertainment, depending on the context.
-
-Note: Vietnamese language uses loanwords, but also adapts Western concepts into its own words. Therefore, some modern usage might differ from traditional definitions.", "humor.", "noun, verb", "Văn hoà: [vən˧ ʔwaː]", NOW(), NOW());
+No", "humor.", "noun, verb", "Văn hoà: [vən˧ ʔwaː]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hum-verb", "hum", "Gật", "to make a low, continuous, droning sound.", "verb", "/ʁɪk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hunch-verb", "hunch", "Xui", "to thrust out or up in a hump; arch", "verb", "Xui [ʐɯi]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-hungrily-adjective", "hungrily", "Khát khao", "having a desire, craving, or need for food; feeling hunger.", "adjective", "/xʌt kǎw/", NOW(), NOW());
@@ -2134,7 +2029,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-imbibe-verb", "imbibe", "Uống vía", "to consume (liquids) by drinking; drink", "verb", "uŋ ʋiəː", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-imitate-verb", "imitate", "Imitate: Imitate = Mimet
 
-Note: This is a single word translation, if you need context-dependent translations please let me know and I'll be happy to assist!", "to follow or endeavor to follow as a model or example", "verb", "Mìmet (/miːmɛt/)", NOW(), NOW());
+Note: This is a sin", "to follow or endeavor to follow as a model or example", "verb", "Mìmet (/miːmɛt/)", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-immediately-adverb", "immediately", "Ngay lập tức", "without lapse of time; without delay; instantly; at once", "adverb", "[n̻əj lǎp đǐk]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-immerse-verb", "immerse", "Ngâm mình", "to plunge into or place under a liquid; dip; sink.", "verb", "ŋam mɨnʲ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-immolate-verb", "immolate", "Ác sát", "to sacrifice.", "verb", "/a̯k sa̤t/", NOW(), NOW());
@@ -2151,30 +2046,25 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 
 đánh – /dʒaŋ/
 giá – /ɟaː/
-cáo – /kaw/", NOW(), NOW());
+cáo", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-imprint-noun", "imprint", "In đọng", "a mark made by pressure; a mark or figure impressed or printed on something.", "noun", "/ʔɪŋ ˈjəwŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-imprison-verb", "imprison", "Giam giữ", "to confine in or as if in a prison.", "verb", "[Giại] /ʧaᶥˀ i/ [mu̯ěj] /vɛ̌j/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-improve-verb", "improve", "Cải thiện", "to bring into a more desirable or excellent condition", "verb", "/cəj sǐên/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-improvise-verb", "improvise", "Tự do sáng tạo", "to compose and perform or deliver without previous preparation; extemporize", "verb", "/ʈuː ɗəˀwəŋ saŋ t͡ɕaː/
 
-or alternatively /ʈú ɗòˀ wəŋ săŋ t͡ɕǎː/ 
-
-Note: The Vietnamese word's pronunciation may vary across different regions and dialects, but the above IPA transcription is a common representation for Standard Vietnamese.", NOW(), NOW());
+or alternatively /ʈú ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-impulse-noun", "impulse", "Cơ hội nhan đề", "the influence of a particular feeling, mental state, etc.", "noun", "/koˀ hôj ʱnəðe/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-inaugurate-verb", "inaugurate", "Khởi công", "to make a formal beginning of; initiate; commence; begin", "verb", "Kʷôi kɔ̌ng", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-inch-noun", "inch", "điểm ba mươi sáu", "a unit of length, 1/12 (0.0833) foot, equivalent to 2.54 centimeters.", "noun", "điểm ba mươi sáu /dʒiəm bä ʔmuːt siŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-incline-verb", "incline", "Nâng", "to deviate from the vertical or horizontal; slant.", "verb", "/naŋ˧/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-include-verb", "include", "Động từ "include" là "đã bao gồm".", "to contain, as a whole does parts or any part or element", "verb", "/ʒɞːŋ məs ɪa bəw kʌj cɤ/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-include-verb", "include", "Động từ include là đã bao gồm.", "to contain, as a whole does parts or any part or element", "verb", "/ʒɞːŋ məs ɪa bəw kʌj cɤ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-income-noun", "income", "Thu nhập", "the monetary payment received for goods or services, or from other sources, as rents or investments.", "noun", "/θu ʔnʉ̂p/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-increase-verb", "increase", "Tăng", "to make greater, as in number, size, strength, or quality; augment; add to", "verb", "/Tæŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-increase-verb", "increase", "Tăng", "to make greater, as in number, size, strength, or quality; augment; add to", "verb", "[Tɜŋk]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-incriminate-verb", "incriminate", "Tước quyền xét xử", "to accuse of or present proof of a crime or fault", "verb", "tước quyền xét xử /ʈǒk kwǐŋ sət ʃɨ̂/
 
  
-* Tước = ʈǒk
-* quyền = kwǐŋ
-* xét = sət
-* xử = ʃɨ̂", NOW(), NOW());
+* Tướ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-indent-verb", "indent", "Dời", "to form deep recesses in", "verb", "[dǐj]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-indicate-verb", "indicate", "Đồng ý", "to be a sign of; betoken; evidence; show", "verb", "/dʒoŋ ɲ/
 
@@ -2182,7 +2072,7 @@ or
 
 /dzoŋ j/
 
-both are correct spellings in IPA format", NOW(), NOW());
+both are correct spe", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-induce-verb", "induce", "Đưa ra", "to lead or move by persuasion or influence, as to some action or state of mind", "verb", "/dʒûə ʁa/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-indulge-verb", "indulge", "tham gia", "to yield to an inclination or desire; allow oneself to follow one's will (often followed by in)", "verb", "tham gia /tʰäm ɟäj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-industry-noun", "industry", "Kinh tế", "the aggregate of manufacturing or technically productive enterprises in a particular field, often named after its principal product", "noun", "kjìn təj", NOW(), NOW());
@@ -2208,9 +2098,9 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-inscribe-verb", "inscribe", "Inscrie", "to address or dedicate (a book, photograph, etc.) informally to a person, especially by writing a brief personal note in or on it.", "verb", "/ɪŋ.sriəj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-insect-noun", "insect", "Côn trùng", "any animal of the class Insecta, comprising small, air-breathing arthropods having the body divided into three parts (head, thorax, and abdomen), and having three pairs of legs and usually two pairs of wings.", "noun", "/kʷən ʈɪŋ/
 
-(Note: The pronunciation may vary slightly depending on regional accents and dialects within Vietnam.)", NOW(), NOW());
+(Note: The pronunciation may vary", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-insert-verb", "insert", "Chèn", "to put or place in", "verb", "/tʃɛnˀ/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-insinuate-verb", "insinuate", "Đâm vào đầu người khác một ý tưởng hoặc cảm giác mà không trực tiếp nói ra", "to suggest or hint slyly", "verb", "/jəm vɔ̂ɪ ʋɔ ɲư̊əŋ khaʷ ʔi ɲo tæw/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-insinuate-verb", "insinuate", "Đâm vào đầu người khác một ý tưởng hoặc cảm g", "to suggest or hint slyly", "verb", "/jəm vɔ̂ɪ ʋɔ ɲư̊əŋ khaʷ ʔi ɲo tæw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-insist-verb", "insist", "Khẳng định", "to be emphatic, firm, or resolute on some matter of desire, demand, intention, etc.", "verb", "/kʰǎŋ¹dìnⁿ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-inspect-verb", "inspect", "Kiểm tra", "to look carefully at or over; view closely and critically", "verb", "kiểm trá /kǐm träʔ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-inspire-verb", "inspire", "Hương cảm", "to fill with an animating, quickening, or exalting influence", "verb", "hu̇Ɍŋ kʰämʷ", NOW(), NOW());
@@ -2237,19 +2127,19 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-interlock-verb", "interlock", "Khớp chéo", "to fit into each other, as parts of machinery, so that all action is synchronized.", "verb", "/kʷəp ʈɛ̌w/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-interpret-verb", "interpret", "Giải thích", "to give or provide the meaning of; explain; explicate; elucidate", "verb", "/ziək̟/
 
-Note: The Việtnamese language does not have a one-to-one correspondence with IPA sounds; this transcription is an approximation and may vary depending on the speaker's accent or regional dialect.", NOW(), NOW());
+Note: The Việtnamese language does n", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-interrogate-verb", "interrogate", "Khám phá", "to ask questions of (a person), sometimes to seek answers or information that the person questioned considers personal or secret.", "verb", "Kʰǎm ʔpʰa", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-interrupt-verb", "interrupt", "Làm gián dối", "to cause or make a break in the continuity or uniformity of (a course, process, condition, etc.).", "verb", "/läm ʤiən ˧˦doi/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-intertwine-verb", "intertwine", "Gối vào nhau", "to twine together.", "verb", "/kʷiː vɔ̄ nə/
 
-(I apologize for not being able to provide a breakdown or explanation of this phonetic spelling)", NOW(), NOW());
+(I apologize for not being abl", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-intervene-verb", "intervene", "Can thiệp", "to come between disputing people, groups, etc.; intercede; mediate.", "verb", "kʰan ˀðiəp", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-interview-noun", "interview", "Phỏng vấn", "a formal meeting in which one or more persons question, consult, or evaluate another person", "noun", "pʌŋ vən", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-intone-verb", "intone", "Giọng điệu", "to utter with a particular tone or voice modulation.", "verb", "/ziəŋk ˌdïəw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-introduce-verb", "introduce", "Giới thiệu", "to present (a person) to another so as to make acquainted.", "verb", "[jɔ̌j tiểu]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-invention-noun", "invention", "Khả năng sáng tạo", "the act of inventing.", "noun", "/kʰa nɐŋ sɐŋ tʃua/
 
-This is a phonetic spelling in the International Phonetic Alphabet (IPA) for Khả năng sáng tạo.", NOW(), NOW());
+This is a phonetic spelli", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-inventory-noun", "inventory", "Kho", "a complete listing of merchandise or stock on hand, work in progress, raw materials, finished goods on hand, etc., made each year by a business concern.", "noun", "/Xǒˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-invent-verb", "invent", "Tạo ra", "to originate or create as a product of one's own ingenuity, experimentation, or contrivance", "verb", "Tạo ra is pronounced as /təw ʁäː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-invert-verb", "invert", "Chuyển ngược", "to turn upside down.", "verb", "[tʃəŋ ɲäj]", NOW(), NOW());
@@ -2262,7 +2152,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-irritate-verb", "irritate", "Nóng giận", "to excite to impatience or anger; annoy.", "verb", "/nəʊŋ ɲæn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-island-noun", "island", "Đảo", "a tract of land completely surrounded by water, and not large enough to be called a continent.", "noun", "/ˀjəw/
 
-(Note: The double dot above the "a" represents a falling tone in Vietnamese pronunciation.)", NOW(), NOW());
+(Note: The double dot above the a r", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-iterate-verb", "iterate", "Lặp lại", "to utter again or repeatedly.", "verb", "/lɛəp ʔaːj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-jabber-verb", "jabber", "Làm ồn", "to talk or utter rapidly, indistinctly, incoherently, or nonsensically; chatter.", "verb", "/lǎm ʔɞn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-jab-verb", "jab", "đánh", "to poke, or thrust abruptly or sharply, as with the end or point of a stick.", "verb", "đánh /ʤǎː55/", NOW(), NOW());
@@ -2290,7 +2180,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-jolt-verb", "jolt", "Sốc", "to jar, shake, or cause to move by or as if by a sudden rough thrust; shake up roughly", "verb", "/sɜʊk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-jostle-verb", "jostle", "Lộn xộn 
 
-(Lộn) means to move suddenly and violently and (xộn) means in disarray or untidily", "to bump, push, shove, brush against, or elbow roughly or rudely.", "verb", "/lɯən ʝəu̯n/", NOW(), NOW());
+(Lộn) means to move suddenly and vi", "to bump, push, shove, brush against, or elbow roughly or rudely.", "verb", "/lɯən ʝəu̯n/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-journey-noun", "journey", "Chuyến hành trình", "a traveling from one place to another, usually taking a rather long time; trip", "noun", "/xʷɛɪŋ ˈhaːɲ ˀçrinj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-jovially-adjective", "jovially", "Tự nhiên", "endowed with or characterized by a hearty, joyous humor or a spirit of good-fellowship", "adjective", "/tʰɯ̌ɲ/nəj", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-joyfully-adjective", "joyfully", "Hỷ hớn hoá", "full of joy, as a person or one's heart; glad; delighted.", "adjective", "hỉ (ʲ) ˈhʌɲ (ˀ) hoà /həj˧ ˈhwaː˨/", NOW(), NOW());
@@ -2300,14 +2190,14 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-judge-noun", "judge", "Tòa án", "a public officer authorized to hear and decide cases in a court of law; a magistrate charged with the administration of justice.", "noun", "/to̜ːw æn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-juggle-verb", "juggle", "Chơi bóng", "to keep (several objects, as balls, plates, tenpins, or knives) in continuous motion in the air simultaneously by tossing and catching.", "verb", "Chơi bóng /ʈɐj ˀŋəw/
 
-Note: The above pronunciation is based on the most commonly accepted IPA transcription for the word "Chơi bóng" in Vietnamese. However, please note that Vietnamese language has many regional variations and different accents may pronounce words slightly differently.", NOW(), NOW());
+Note: The above pronunc", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-juice-noun", "juice", "Trái cây ép", "the natural fluid, fluid content, or liquid part that can be extracted from a plant or one of its parts, especially of a fruit", "noun", "/träi kəj ʔɛp/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-jumble-verb", "jumble", "Lộn xộn", "to mix in a conf mass; put or throw together without order", "verb", "/lǒn ʂũn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-jump-verb", "jump", "Lấy", "to spring clear of the ground or other support by a sudden muscular effort; leap", "verb", "/lai/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-jump-verb", "jump", "Lảy", "to spring clear of the ground or other support by a sudden muscular effort; leap", "verb", "/läj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-justify-verb", "justify", "Được xỏ", "to show (an act, claim, statement, etc.) to be just or right", "verb", "dʒəŋ jɔs 
 
-This is not just a phonetic spelling but a more accurate transcription of the IPA since Được xỏ doesn't change its pronunciation and the Vietnamese language follows a more specific set of rules, thus maintaining its original tone, where 'Đ' is pronounced as /d/ in this case,  rather than the typical dʒ.", NOW(), NOW());
+This is not just a phonetic spelli", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-justly-adverb", "justly", "Tổnvụ", "in a just manner; honestly; fairly", "adverb", "/dəʊ̀nvwə/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-jut-verb", "jut", "cắt", "to extend beyond the main body or line; project; protrude (often followed by out)", "verb", "/d͡eˀt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-keenly-adjective", "keenly", "Tưng bừng", "finely sharpened, as an edge; so shaped as to cut or pierce substances readily", "adjective", "/təŋ ˀbʌŋ/", NOW(), NOW());
@@ -2323,7 +2213,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-kindheartedly-adjective", "kindheartedly", "Tình thương", "having or showing sympathy or kindness", "adjective", "[Tʲiŋ̟ ʂu̇ŋ̟]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-kindly-adjective", "kindly", "Yên sĩ", "having, showing, or proceeding from a benevolent disposition or spirit; kindhearted", "adjective", "/yə̂nt͡sɨˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-kissingly-adverb", "kissingly", "Yêu dại.", "lightly; gently.", "adverb", "yê͡u /dəi/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-kiss-verb", "kiss", "Đặt lá thư vào môi", "to touch or press with the lips slightly pursed, and then often to part them and to emit a smacking sound, in an expression of affection, love, greeting, reverence, etc.", "verb", "đặt /dət/ lá /lə/ thư /ʔuː/ vào /vɪəw/ môi /məj/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-kiss-verb", "kiss", "Đặt lá thư vào môi", "to touch or press with the lips slightly pursed, and then often to part them and to emit a smacking sound, in an expression of affection, love, greeting, reverence, etc.", "verb", "đặt /dət/ lá /lə/ thư /ʔuː/ vào /vɪəw/ môi /m", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-kiss-verb", "kiss", "Cử mụt", "to touch or press with the lips slightly pursed, and then often to part them and to emit a smacking sound, in an expression of affection, love, greeting, reverence, etc.", "verb", "cǻ mʊt", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-kite-noun", "kite", "Cây bay", "a light frame covered with some thin material, to be flown in the wind at the end of a long string.", "noun", "kʰaɪj ʱaj", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-kittens-noun", "kittens", "Con mèo con", "a young cat.", "noun", "[kəm mœːw kən]", NOW(), NOW());
@@ -2331,12 +2221,12 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-kitty-noun", "kitty", "con mèo", "a kitten.", "noun", "kɔn mə̂w", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-knavishly-adjective", "knavishly", "Lợi dụng, dối trá", "like or befitting a knave; untrustworthy; dishonest.", "adjective", "Lợi dụng is pronounced as /ʷəj1 duŋ/, 
 
-dối trá is pronounced as /zo̤i tʰä/.", NOW(), NOW());
+dối t", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-knead-verb", "knead", "Kéo", "to work (dough, clay, etc.) into a uniform mixture by pressing, folding, and stretching.", "verb", "/kʷeːo̞/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-kneel-verb", "kneel", "Giật mình", "to go down or rest on the knees or a knee.", "verb", "giật mình /ʝə̆t mǐn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-knee-noun", "knee", "Cái gối", "Anatomy. the joint of the leg that allows for movement between the femur and tibia and is protected by the patella; the central area of the leg between the thigh and the lower leg.", "noun", "/kʰaǐ ˧ ʔwaj/
 
-(Note: The diacritic marks above the letters represent Vietnamese tones and are part of the phonetic spelling in IPA.)", NOW(), NOW());
+(Note: The diacritic marks abo", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-knee-noun", "knee", "Gối", "Anatomy. the joint of the leg that allows for movement between the femur and tibia and is protected by the patella; the central area of the leg between the thigh and the lower leg.", "noun", "/gǐj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-knife-noun", "knife", "Kế", "an instrument for cutting, consisting essentially of a thin, sharp-edged, metal blade fitted with a handle.", "noun", "/kəj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-knit-verb", "knit", "Thắt", "to make (a garment, fabric, etc.) by interlocking loops of one or more yarns either by hand with knitting needles or by machine.", "verb", "/thət/", NOW(), NOW());
@@ -2361,7 +2251,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-land-noun", "land", "Đất", "any part of the earth's surface not covered by a body of water; the part of the earth's surface occupied by continents and islands", "noun", "[dät]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-language-noun", "language", "Ngôn ngữ", "a body of words and the systems for their use common to a people who are of the same community or nation, the same geographical area, or the same cultural tradition", "noun", "/ngəwŋ/
 
-( Ngôn ngữ means "language" in English )", NOW(), NOW());
+( Ngôn ngữ means language in Engli", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-languish-verb", "languish", "phơi lão", "to be or become weak or feeble; droop; fade.", "verb", "/lɐj lɑw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-lap-noun", "lap", "Bàn phím", "the front part of the human body from the waist to the knees when in a sitting position.", "noun", "/ban ɓim/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-lash-noun", "lash", "Mành eyelash", "the flexible part of a whip; the section of cord or the like forming the extremity of a whip.", "noun", "Mành eyelash /mæ̃ːŋ ʲe˨ə lâˀ/", NOW(), NOW());
@@ -2372,7 +2262,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-laugh-verb", "laugh", "Đang cười", "to express mirth, pleasure, derision, or nervousness with an audible, vocal expulsion of air from the lungs that can range from a loud burst of sound to a series of quiet chuckles and is usually accompanied by characteristic facial and bodily movements.", "verb", "[d͡ʲaŋ kɯəj]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-launch-verb", "launch", "Bắt đầu", "to set (a boat or ship) in the water.", "verb", "/bɐt ʤaˀ/
 
-Note: The tone marks in IPA are represented as a sequence of numbers above the letters or as diacritics on the letters (e.g., ˀ for a high tone, ˇ for a rising tone). This notation is specific to Vietnamese phonetic transcriptions.", NOW(), NOW());
+Note: The tone marks in IPA are re", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-lavish-adjective", "lavish", "Phong phú", "expended, bestowed, or occurring in profusion", "adjective", "/ˀfŋ̊ ʱɸ̀ ˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-lawyer-noun", "lawyer", "Luật sư", "a person whose profession is to represent clients in a court of law or to advise or act for clients in other legal matters.", "noun", "luật sư /luət suː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-lay-verb", "lay", "Làm", "to put or place in a horizontal position or position of rest; set down", "verb", "/läm/", NOW(), NOW());
@@ -2389,7 +2279,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-lecture-noun", "lecture", "Bài giảng", "a speech read or delivered before an audience or class, especially for instruction or to set forth some subject", "noun", "/baːj ʁiəŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-leer-verb", "leer", "Nghe", "to look with a sideways or oblique glance, especially suggestive of lascivious interest or sly and malicious intention", "verb", "/ŋ̊əj/
 
-or alternatively as a monosyllabic vowel sound: /ɲė/", NOW(), NOW());
+or alternatively as a monosyllabic vo", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-legs-noun", "legs", "Cánh tay dưới", "either of the two lower limbs of a biped, as a human being, or any of the paired limbs of an animal, arthropod, etc., that support and move the body.", "noun", "kʰaŋ taɪ dəw", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-leg-noun", "leg", "cẳng", "either of the two lower limbs of a biped, as a human being, or any of the paired limbs of an animal, arthropod, etc., that support and move the body.", "noun", "/xəŋ/
 
@@ -2401,7 +2291,7 @@ dài là /daɪ/
 
 thêm is /ʰəm/
 
-So the whole word is /ðə ɗaɪ ʰəm/", NOW(), NOW());
+So t", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-less-adverb", "less", "Ít hơn", "to a smaller extent, amount, or degree", "adverb", "ɪt ʔəm", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-letters-noun", "letters", "Tiếng Việt", "a written or printed communication addressed to a person or organization and usually transmitted by mail.", "noun", "/ziːŋ ʷjət/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-letter-noun", "letter", "Thư Tờ", "a written or printed communication addressed to a person or organization and usually transmitted by mail.", "noun", "/tʰuː tə˧/", NOW(), NOW());
@@ -2420,12 +2310,12 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-light-noun", "light", "Ánh sáng", "something that makes things visible or affords illumination", "noun", "án ʲsɐŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-light-noun", "light", "Ánh sáng", "something that makes things visible or affords illumination", "noun", "/ʌŋ ˈsɐŋ/
 
-Note: The Vietnamese language has a number of tonal variations that are not easily represented in written form, but the above IPA representation is an approximation based on standard pronunciation.", NOW(), NOW());
+Note: The Vietnamese language has ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-likely-adjective", "likely", "Có thể", "probably or apparently destined (usually followed by an infinitive)", "adjective", "/kɤ̂p/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-like-adjective", "like", "Tương tự", "of the same form, appearance, kind, character, amount, etc.", "adjective", "tʰəŋ ˈtǔw", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-lilt-noun", "lilt", "Cơn say", "rhythmic swing or cadence.", "noun", "/koʊ̯n/
 
-Note: The diacritic mark above the "o" is not displayed here as it's not a common character in standard fonts, but it should be pronounced with a creaky tone (also called a "sandhi" tone) which is indicated by the ̯ symbol.", NOW(), NOW());
+Note: The diacritic mark above the ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-limit-noun", "limit", "Hạn", "the final, utmost, or furthest boundary or point as to extent, amount, continuance, procedure, etc.", "noun", "/haṅˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-limply-adjective", "limply", "Yên ức", "lacking stiffness or firmness, as of substance, fiber, structure, or bodily frame", "adjective", "[jən uʔk]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-limp-verb", "limp", "Lỗi cơ", "to walk with a labored, jerky movement, as when lame.", "verb", "Lỗi cơ /ʈəwˀ kəw/", NOW(), NOW());
@@ -2436,7 +2326,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-liquid-adjective", "liquid", "Nước", "composed of molecules that move freely among themselves but do not tend to separate like those of gases; neither gaseous nor solid.", "adjective", "Nước /nuək/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-lisp-noun", "lisp", "Trò chơi vè", "a speech defect consisting in pronouncing s and z like or nearly like the th- sounds of thin and this, respectively.", "noun", "/trə ʐuaŋ ʑe/
 
-(Note: This IPA transcription is based on the Northern Vietnamese dialect)", NOW(), NOW());
+(Note: This IPA transcription ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-listen-verb", "listen", "nghe", "to give attention with the ear; attend closely for the purpose of hearing; give ear.", "verb", "/ngɛ̌/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-list-noun", "list", "Danh sách", "a series of names or other items written or printed together in a meaningful grouping or sequence so as to constitute a record", "noun", "[dæŋ ʂâːk]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-list-noun", "list", "Danh sách", "a series of names or other items written or printed together in a meaningful grouping or sequence so as to constitute a record", "noun", "[danʲˀ səj]", NOW(), NOW());
@@ -2498,7 +2388,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-manager-noun", "manager", "Quản lý", "a person who has control or direction of an institution, business, etc., or of a part, division, or phase of it.", "noun", "kwə̌n lǐ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-manage-verb", "manage", "Quản lý", "to bring about or succeed in accomplishing, sometimes despite difficulty or hardship", "verb", "Quản lý /ʁwəŋ ɲ/
 
-pronounced like "kwun y"", NOW(), NOW());
+pronounced like kwun y", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-maneuver-noun", "maneuver", "Chiến thuật", "a planned and regulated movement or evolution of troops, warships, etc.", "noun", "/ʈiəŋ.tʰuətʃ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mangle-verb", "mangle", "Đập nát", "to injure severely, disfigure, or mutilate by cutting, slashing, or crushing", "verb", "[dät̚ naʔ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-manhandle-verb", "manhandle", "Làm nhũng", "to handle roughly.", "verb", "[läm ŋ̇ŋ]", NOW(), NOW());
@@ -2523,10 +2413,10 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-market-noun", "market", "Chợ", "an open place or a covered building where buyers and sellers convene for the sale of goods; a marketplace", "noun", "/Xɞˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mark-noun", "mark", "Chữ ký", "a visible impression or trace on something, as a line, cut, dent, stain, or bruise", "noun", "/kʷɪj/
 
-(Note: The tone mark is not represented in IPA, but the sound /kʷɪj/ corresponds to the Vietnamese syllable Chữ ký)", NOW(), NOW());
+(Note: The tone mark is not represent", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mark-noun", "mark", "Ký hiệu", "a visible impression or trace on something, as a line, cut, dent, stain, or bruise", "noun", "/kǐjuy/
 
-Note: The IPA transcription is based on the modern pronunciation and may vary across different dialects or regional accents in Vietnam.", NOW(), NOW());
+Note: The IPA transcription is based", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-marry-verb", "marry", "Gả", "to take in marriage", "verb", "/ʁa/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-marvel-noun", "marvel", "Marvel của Đất Lập", "something that causes wonder, admiration, or astonishment; a wonderful thing; a wonder or prodigy", "noun", "/Marvel/ of Đất Lập is [märvəl]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mash-verb", "mash", "Đập", "to crush", "verb", "/dəp/", NOW(), NOW());
@@ -2534,7 +2424,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mask-noun", "mask", "Đôi mặt nạ", "a covering for all or part of the face, worn to conceal one's identity.", "noun", "[dʒôi màːz]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-massage-noun", "massage", "Thăm dò cơ thể", "the act or art of treating the body by rubbing, kneading, patting, or the like, to stimulate circulation, increase suppleness, relieve tension, etc.", "noun", "Thăm dò cơ thể /ʈəm ˀɞ̌ kô hə̂/
 
-(Note: The tone marks used here are according to the Vietnamese romanization system, which may slightly differ from other systems)", NOW(), NOW());
+(Note: The t", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mass-noun", "mass", "Đại lễ", "a body of coherent matter, usually of indefinite shape and often of considerable size", "noun", "[dài jɛʐ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-match-noun", "match", "Tranh đấu", "a slender piece of wood, cardboard, or other flammable material tipped with a chemical substance that produces fire when rubbed on a rough or chemically prepared surface.", "noun", "tʰənɗəu̯", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-match-noun", "match", "Tranh đua", "a slender piece of wood, cardboard, or other flammable material tipped with a chemical substance that produces fire when rubbed on a rough or chemically prepared surface.", "noun", "/dʐaŋ jua/", NOW(), NOW());
@@ -2543,7 +2433,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-maul-noun", "maul", "Bừa", "a heavy hammer, as for driving stakes or wedges.", "noun", "Bừa /bwəːˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-maunder-verb", "maunder", "Nói ngẫu nhiên", "to talk in a rambling, foolish, or meaningless way.", "verb", "Nói ngẫu nhiên /nôiŋəʊjãn/
 
-(No diacritics or tone marks are included in IPA transcriptions for Vietnamese words)", NOW(), NOW());
+(No diacritics or", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-meal-noun", "meal", "Bữa Ăn", "the food served and eaten especially at one of the customary, regular occasions for taking food during the day, as breakfast, lunch, or supper.", "noun", "Bùa ăN /bwə ɐn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-meander-verb", "meander", "Lướt", "to proceed by or take a winding or indirect course", "verb", "/lʉt̚/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-meaningfully-adjective", "meaningfully", "Hữu ích", "full of meaning, significance, purpose, or value; purposeful; significant", "adjective", "/Huˀu jik/", NOW(), NOW());
@@ -2561,13 +2451,13 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-memorize-verb", "memorize", "Nhớ", "to commit to memory; learn by heart", "verb", "/nə̌ˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-memory-noun", "memory", "nhớ", "the mental capacity or faculty of retaining and reviving facts, events, impressions, etc., or of recalling or recognizing previous experiences.", "noun", "/nʲə/
 
-Note: The diacritic mark ̄ above 'e' indicates a more open pronunciation than a standard 'e'.", NOW(), NOW());
+Note: The diacritic mark ̄ above 'e' i", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-menace-noun", "menace", "Gian nan", "something that threatens to cause evil, harm, injury, etc.; a threat", "noun", "/jjæŋ nän/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mend-verb", "mend", "Sửa", "to make (something broken, worn, torn, or otherwise damaged) whole, sound, or usable by repairing", "verb", "/suəː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mention-verb", "mention", "Ngỏn", "to refer briefly to; name, specify, or speak of", "verb", " Ngaun /ŋəʊ̃/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mentor-noun", "mentor", "Giáo sư", "a wise and trusted counselor or teacher.", "noun", "/giäəʊ sŋ/
 
-(Note: The Vietnamese pronunciation can vary depending on the speaker's region and dialect, this is a standardized transcription using IPA)", NOW(), NOW());
+(Note: The Vietnamese pronunciati", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-men-noun", "men", "Nam", "plural of man1 .", "noun", "/Näm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-meow-noun", "meow", "Mèo", "the characteristic sound a cat makes.", "noun", "/mjəw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-merrily-noun", "merrily", "màu mỡ", "a female given name, form of Merry.", "noun", "/məw mɔ/
@@ -2584,12 +2474,12 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mewl-verb", "mewl", "Khóc", "to cry, as a baby, young child, or the like; whimper.", "verb", "/kʷək˧/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mew-noun", "mew", "Con meow", "the tiny, high-pitched sound a cat or kitten makes.", "noun", "/xɔŋ mju/
 
-Would you like to know how this was derived?", NOW(), NOW());
+Would you like to know how this wa", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mice-noun", "mice", "Thỏ", "plural of mouse.", "noun", "/thɐʷ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-middle-adjective", "middle", "Trung tâm", "equally distant from the extremes or outer limits; central", "adjective", "/trʌŋ təm˧ˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-migrate-verb", "migrate", "Di chuyển", "to go from one country, region, or place to another.Synonyms", "verb", "/dǐ ʂuən/
 
-(Where /dǐ/ = 'dee' sound and /ʂuən/ = 'shoo-un' sound, but with a more muted and soft 'u' as in Vietnamese pronunciation)", NOW(), NOW());
+(Where /dǐ/ = 'dee' sound and /ʂuə", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-milk-noun", "milk", "Sữa", "an opaque white or bluish-white liquid secreted by the mammary glands of female mammals, serving for the nourishment of their young.", "noun", "/su̇ə/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-milk-noun", "milk", "Sữa", "an opaque white or bluish-white liquid secreted by the mammary glands of female mammals, serving for the nourishment of their young.", "noun", "/zuəj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mime-noun", "mime", "Bức tượng động", "the art or technique of portraying a character, mood, idea, or narration by gestures and bodily movements; pantomime.", "noun", "/bʊək ˈtʌŋ ˈðɞw/", NOW(), NOW());
@@ -2613,10 +2503,10 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-misjudge-verb", "misjudge", "Lầm tưởng", "to judge, estimate, or value wrongly or unjustly.", "verb", "/läm ʷəwŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mislead-verb", "mislead", "Làm cho người ta hiểu sai", "to lead or guide wrongly; lead astray.", "verb", "/lɐmʈ͡ɕo ɲɜŋ kɔ̂/
 
-Note: The /͡/ symbol represents a tied sound, which is used in Vietnamese to represent the sound between [k] and [h], in this case /c/ (like "ch" in "church").", NOW(), NOW());
+Note: The /͡/ symbol repre", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mispronounce-verb", "mispronounce", "Sai phát âm", "to pronounce incorrectly.", "verb", "/sài ˈfǎt ʲəm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-misspell-verb", "misspell", "Sai lỗi", "to spell incorrectly.", "verb", "/saʲj ʷəw/
-/saj/ is an approximation without diphthong and /ʷ/ indicates a labiovelarization, though not explicitly marked in this simplified notation.", NOW(), NOW());
+/saj/ is an approximation without ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-miss-verb", "miss", "Lỗi", "to fail to hit or strike", "verb", "/loi/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mistake-noun", "mistake", "Sai lầm", "an error in action, calculation, opinion, or judgment ca by poor reasoning, carelessness, insufficient knowledge, etc.", "noun", "sai lầm /saːj ləmˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mist-noun", "mist", "Sương mù", "a cloudlike aggregation of minute globules of water suspended in the atmosphere at or near the earth's surface, reducing visibility to a lesser degree than fog.", "noun", "[Suŋ muˀ]", NOW(), NOW());
@@ -2672,11 +2562,11 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-multiply-verb", "multiply", "Nghiên cứu", "to make many or manifold; increase the number, quantity, etc., of.", "verb", "[n̻iəŋ ʈɛw]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mumble-verb", "mumble", "Nói một cách không rõ ràng 
 
-This translates to "to talk in a way that is unclear or hard to understand"", "to speak in a low indistinct manner, almost to an unintelligible extent; mutter.", "verb", "/nɔj mɐjk ʃâk nôɪ rɔj ʈɜ/
+This translates ", "to speak in a low indistinct manner, almost to an unintelligible extent; mutter.", "verb", "/nɔj mɐjk ʃâk nôɪ rɔj ʈɜ/
 
-/nuw jɐʊk ʃǎk nɞ̄c rȯwʈɜ̄/", NOW(), NOW());
+/nuw jɐʊk ʃǎk nɞ̄", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-munch-verb", "munch", "Ăn nhón", "to chew with steady or vigorous working of the jaws, often audibly.", "verb", "ǎn ʲ ɳəw̃", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-murder-noun", "murder", "Án tửu", "Law. the killing of another human being under conditions specifically covered in law. In the U.S., special statutory definitions include murder committed with malice aforethought, characterized by deliberation or premeditation or occurring during the commission of another serious crime, as robbery or arson (first-degree murder) and murder by intent but without deliberation or premeditation (second-degree murder)", "noun", "án túy /ʌn tuj/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-murder-noun", "murder", "Án tửu", "Law. the killing of another human being under conditions specifically covered in law. In the U.S., special statutory definitions include murder committed with malice aforethought, characterized by deliberation or premeditation or occurring during the comm", "noun", "án túy /ʌn tuj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-murmur-noun", "murmur", "Tiếng vọng", "a low, continuous sound, as of a brook, the wind, or trees, or of low, indistinct voices.", "noun", "/Tǐəŋ vɛ̀ŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-muscle-noun", "muscle", "Cái cơ", "a tissue composed of cells or fibers, the contraction of which produces movement in the body.", "noun", "/käj kəw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-muse-verb", "muse", "Làm nghệ sĩ", "to think or meditate in silence, as on some subject.", "verb", "/ləm ˈnhɛt sɪjʔ/", NOW(), NOW());
@@ -2686,8 +2576,8 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mutter-verb", "mutter", "mutter", "to utter words indistinctly or in a low tone, often as if talking to oneself; murmur.", "verb", "/xʊt ˀɛt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-mysteriously-adjective", "mysteriously", "Bất ngờ", "full of, characterized by, or involving mystery", "adjective", "/bət ŋəw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-nag-verb", "nag", "Kham", "to annoy by persistent faultfinding, complaints, or demands.", "verb", "[käm]", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-nail-noun", "nail", "Đũm tay", "a slender, typically rod-shaped rigid piece of metal, usually in any of numerous standard lengths from a fraction of an inch to several inches and having one end pointed and the other enlarged and flattened, for hammering into or through wood, other building materials, etc., as  in building, in fastening, or in holding separate pieces together.", "noun", "[dʒun tæj]", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-nail-noun", "nail", "Gót", "a slender, typically rod-shaped rigid piece of metal, usually in any of numerous standard lengths from a fraction of an inch to several inches and having one end pointed and the other enlarged and flattened, for hammering into or through wood, other building materials, etc., as  in building, in fastening, or in holding separate pieces together.", "noun", "Gót /ɟɔt/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-nail-noun", "nail", "Đũm tay", "a slender, typically rod-shaped rigid piece of metal, usually in any of numerous standard lengths from a fraction of an inch to several inches and having one end pointed and the other enlarged and flattened, for hammering into or through wood, other build", "noun", "[dʒun tæj]", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-nail-noun", "nail", "Gót", "a slender, typically rod-shaped rigid piece of metal, usually in any of numerous standard lengths from a fraction of an inch to several inches and having one end pointed and the other enlarged and flattened, for hammering into or through wood, other build", "noun", "Gót /ɟɔt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-name-noun", "name", "Tên", "a word or a combination of words by which a person, place, or thing, a body or class, or any object of thought is designated, called, or known.", "noun", "/dəŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-name-noun", "name", "Tên", "a word or a combination of words by which a person, place, or thing, a body or class, or any object of thought is designated, called, or known.", "noun", "/thən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-nap-verb", "nap", "Ngủ", "to sleep for a short time; doze.", "verb", "/ngʷə/", NOW(), NOW());
@@ -2722,7 +2612,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-never-adverb", "never", "Không bao giờ", "not ever; at no time", "adverb", "/kʌo ˧˦ baː ˩ jɛj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-news-noun", "news", "Tin tức", "a report of a recent event; intelligence; information", "noun", "/tǐŋ twək/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-nibble-verb", "nibble", "Làm nhỏ nhặt", "to bite off small bits.", "verb", "/läm ⁿɲəˀt/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-nicely-adjective", "nicely", "Nhanh chóng và lịch sự", "pleasing; agreeable; delightful", "adjective", "Nhanh /ŋən̚/ chóng /ʈ͡ʂoŋ̟/ va /va/ lịch /ɗǐç/ sự /sɨ̂/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-nicely-adjective", "nicely", "Nhanh chóng và lịch sự", "pleasing; agreeable; delightful", "adjective", "Nhanh /ŋən̚/ chóng /ʈ͡ʂoŋ̟/ va /va/ lịch /ɗǐç", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-nicker-noun", "nicker", "Cà phê đen nóng", "a person or thing that nicks.", "noun", "/käː ʔɛj ɗæŋ ˨ŋɔŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-nick-noun", "nick", "Nickname: tên gọi khác
 Nick: vết vân nứt", "a small notch, groove, chip, or the like, cut into or existing in something.", "noun", "/nɪk/
@@ -2736,7 +2626,7 @@ and
 
 /dʌŋ/
 
-both are possible transcriptions but /nɤt/ is more widely accepted", NOW(), NOW());
+both are possible transcri", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-noise-noun", "noise", "Âm ấT", "sound, especially of a loud, harsh, or conf kind", "noun", "ăm ấT /ʔəm ˀɜt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-noisily-adjective", "noisily", "Hầm hỉnh", "making much noise", "adjective", "[hɐm ʁiŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-nominate-verb", "nominate", "xem xét", "to propose (someone) for appointment or election to an office.", "verb", "xem xét /səm sət/", NOW(), NOW());
@@ -2757,7 +2647,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-nut-noun", "nut", "Bánh khô", "a dry fruit consisting of an edible kernel or meat enclosed in a woody or leathery shell.", "noun", "Bánh khô is pronounced as /ʁan ²kəw̚/.", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-nuzzle-verb", "nuzzle", "Kềm vào", "to burrow or root with the nose, snout, etc., as an animal does", "verb", "/kəm vɔ̌/
 
-( Note that the diacritic mark in "vɔ̌" represents a mid-centralized vowel sound distinct from both an open and close back vowel)", NOW(), NOW());
+( Note that the diacritic mark in ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-oatmeal-noun", "oatmeal", "Cháo Yến Mạch", "meal made from ground or rolled oats.", "noun", "t͡ʃaːw jən mækʰ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-obediently-adjective", "obediently", "Ngoan ngoãn", "obeying or willing to obey; complying with or submissive to authority", "adjective", "[nʊəŋ nʌəŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-obey-verb", "obey", "Tuân thủ", "to comply with or follow the commands, restrictions, wishes, or instructions of", "verb", "/tuən tʰəʉ/", NOW(), NOW());
@@ -2765,7 +2655,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-oblige-verb", "oblige", "Yêu cầu", "to require or constrain, as by law, command, conscience, or force of necessity.", "verb", "Yêu cầu /jəw.kɐw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-obnoxiously-adjective", "obnoxiously", "Khổ nhục", "highly objectionable or offensive; odious", "adjective", "/kʷə ̌ŋut͡ɕ/
 
-This IPA transcription represents the Vietnamese word "Khổ nhục".", NOW(), NOW());
+This IPA transcription represen", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-observation-noun", "observation", "Lưu ý", "an act or instance of noticing or perceiving.", "noun", "/lʉw ɲəj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-observe-verb", "observe", "quan sát", "to see, watch, perceive, or notice", "verb", "kwän zät", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-obsess-verb", "obsess", "Trọng đam", "to dominate or preoccupy the thoughts, feelings, or desires of (a person); beset, trouble, or haunt persistently or abnormally", "verb", "/trʌŋ jəm/", NOW(), NOW());
@@ -2784,34 +2674,28 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 Chính thức", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-officiate-verb", "officiate", "Xử lý", "to perform the office of a member of the clergy, as at a divine service.", "verb", "/xʷə̌j/
 
-The "x" is a deep breathy voiceless uvular fricative, the "w" is not an actual phoneme but an approximation of a close central rounded vowel, and the last part /j/ represents a palatal approximant.", NOW(), NOW());
+The x is a deep breathy voiceless ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-often-adverb", "often", "thường", "many times; frequently", "adverb", "thường /θ̜ɔŋ/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ogle-verb", "ogle", "Đoán mỉa May", "to look at amorously, flirtatiously, or impertinently.", "verb", "Đoán mỉa May is pronounced as /ʒɌæn mǐə̯ maɪ̯/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ogle-verb", "ogle", "Đoán mỉa May", "to look at amorously, flirtatiously, or impertinently.", "verb", "Đoán mỉa May is pronounced as /ʒɌæn mǐə̯ maɪ̯", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-oil-noun", "oil", "xăng dầu", "any of a large class of substances typically unctuous, viscous, combustible, liquid at ordinary temperatures, and soluble in ether or alcohol but not in water", "noun", "/zaŋ ʔdau/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-only-adverb", "only", "Mà", "without others or anything further; alone; solely; exclusively", "adverb", "/mäː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ooze-verb", "ooze", "Hút bọt", "(of moisture, liquid, etc.) to flow, percolate, or exude slowly, as through holes or small openings.", "verb", "[hût ˧ ʔbɔt]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-openly-adjective", "openly", "Mở", "not closed or barred at the time, as a doorway by a door, a window by a sash, or a gateway by a gate", "adjective", "/mʷə̌/
 
-(With a monophthongized vowel, which is not marked in IPA notation)", NOW(), NOW());
+(With a monophthongized vowel, which ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-open-adjective", "open", "Mở", "not closed or barred at the time, as a doorway by a door, a window by a sash, or a gateway by a gate", "adjective", "/mə̂̆/ 
 
-(m with a diacritic mark indicating a slightly more open pronunciation than the standard m sound)
-
-/səːˀ/", NOW(), NOW());
+(m with a diacritic mark indicating ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-operate-verb", "operate", "Hoạt động", "to work, perform, or function, as a machine does", "verb", "/hoʊaːt əŋ/
 
 becomes /hwaˀt əŋ/
 
-corrected IPA:
-
-/hwaˀt əŋ/", NOW(), NOW());
+corrected IP", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-operation-noun", "operation", "Hoạt động", "an act or instance, process, or manner of functioning or operating.", "noun", "/hoʊˀt ɗəŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-opine-verb", "opine", "Tư tưởng", "to hold or express an opinion.", "verb", "[Tʰə ˀðɞw]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-opinion-noun", "opinion", "Kinh nghiệm", "a belief or judgment that rests on grounds insufficient to produce complete certainty.", "noun", "/kǐŋ mjən hi/
 
-(or, more correctly transliterated from the Vietnamese pronunciation)
-
-/kǐŋ ɲə̃nhjen/", NOW(), NOW());
+(or, more correctly transliter", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-oppose-verb", "oppose", "Kẻ thù", "to act against or provide resistance to; combat.", "verb", "Kẻ thú /kə˧˦ ʈu˨ˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-oppugn-verb", "oppugn", "Khằng nã", "to assail by criticism, argument, or action.", "verb", "kʱæŋ.näʔ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-optimistically-adjective", "optimistically", "Tâm hồn lạc quan", "disposed to take a favorable view of events or conditions and to expect the most favorable outcome.", "adjective", "/täm˧ ʊ̃ŋ lǎk kwən/", NOW(), NOW());
@@ -2833,28 +2717,10 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-outdo-verb", "outdo", "tránh được", "to surpass in execution or performance", "verb", "/träːʁ ə̆ˀɡ/,", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-outline-noun", "outline", "Mô tả", "the line by which a figure or object is defined or bounded; contour.", "noun", "/mɗaˀ/
 
-Note: This is an approximate representation and may vary slightly depending on regional pronunciation or accents. However, this IPA spelling should give you a close approximation of the phonetic sound for Mô tả in Vietnamese (vi) language.", NOW(), NOW());
+Note: This is an approximate represen", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-outmaneuver-verb", "outmaneuver", "Đánh lỡ đối thủ", "to outwit, defeat, or frustrate by maneuvering.", "verb", "/ðaŋ lʷə ɗwəj/
 
-Note: The IPA pronunciation is based on standard northern Vietnamese accent. Pronunciations may vary across different regional accents in Vietnam.
-
-Breakdown:
-
-* Đánh (to hit) - /ðaŋ/
-	+ đ = voiced alveolar stop /ð/ (similar to the "th" sound in "this")
-	+ â = open front unrounded vowel, followed by a nasalized vowel
-	+ ng = velar nasal /ŋ/
-* lỡ (to lose) - /lʷə/
-	+ l = alveolar lateral approximant /l/ (similar to the sound in "lake")
-	+ ʷ = with labialization, making the vowel more rounded
-	+ ə = schwa, a neutral vowel sound /ə/
-* đối (toward) - /ɗwəj/
-	+ đ = voiced alveolar stop /ð/ (similar to the "th" sound in "this")
-	+ ơ = open front rounded vowel /ɤ/, followed by a nasalized vowel
-	+ j = palatal approximant /ʒ/, similar to the "s" sound in "measure"
-* thủ (enemy, opponent) - not present in this phrase, but if it were: /tʷu/
-	+ t = alveolar stop /t/ (similar to the sound in "tap")
-	+ ư = near-open front unrounded vowel, followed by a nasalized vowel", NOW(), NOW());
+Note: The IPA pronunciation i", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-outmanoeuvre-verb", "outmanoeuvre", "Chiến lược", "British. outmaneuver.", "verb", "/ʈiəŋ ləwək/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-outwit-verb", "outwit", "đánh lừa", "to get the better of by superior ingenuity or cleverness; outsmart", "verb", "/dʒaː ŋˀ ʟjaː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-oven-noun", "oven", "Lò nướng", "a chamber or compartment, as in a stove, for baking, roasting, heating, drying, etc.", "noun", "/lɔ̊ʊ.nguyən/", NOW(), NOW());
@@ -2868,7 +2734,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-overflow-verb", "overflow", "Ngập", "to flow or run over, as rivers or water", "verb", "ŋəpʷ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-overhear-verb", "overhear", "Nghe thấy", "to hear (speech or a speaker) without the speaker's intention or knowledge", "verb", "Nghe thấy /ŋə̌j ʂaː/
 
-(Note: The diacritic marks are not included in the IPA spelling above, but they indicate the actual pronunciation)", NOW(), NOW());
+(Note: The diacritic ma", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-overlook-verb", "overlook", "Làm ngơ", "to fail to notice, perceive, or consider", "verb", "/lɑm ŋəw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-overpower-verb", "overpower", "Chi phối", "to overcome, master, or subdue by superior force", "verb", "/xi pʰy᷉o/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-overtake-verb", "overtake", "Đỗ lên", "to catch up with in traveling or pursuit; draw even with", "verb", "đồ ʔɓên", NOW(), NOW());
@@ -2900,12 +2766,12 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-panic-noun", "panic", "Làm loạn", "a sudden overwhelming fear, with or without cause, that produces hysterical or irrational behavior, and that often spreads quickly through a group of persons or animals.", "noun", "/lam lwaːn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-pant-verb", "pant", "Làm cho
 
-(Làm means to do or make in this context)", "to breathe hard and quickly, as after exertion.", "verb", "/Läm ʈəw/", NOW(), NOW());
+(Làm means to do or make in this con", "to breathe hard and quickly, as after exertion.", "verb", "/Läm ʈəw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-pan-noun", "pan", "Cái rây", "a broad, shallow container of metal, usually having sides flaring outward toward the top,  in various forms for frying, baking, washing, etc.", "noun", "/kaj ʁaɪ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-paper-noun", "paper", "Bìa sách", "a substance made from wood pulp, rags, straw, or other fibrous material, usually in thin sheets,  to bear writing or printing, for wrapping things, etc.", "noun", "/bǐə ʂăk̚/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-parade-noun", "parade", "Lễ hội chào hàng", "a large public procession, usually including a marching band and often of a festive nature, held in honor of an anniversary, person, event, etc.", "noun", "Lễ Hội Chào Háng: /lɛː ʔɪj t͡ɕaːu hajŋ̟/
 
-Note: The phonetic spelling is a close approximation, and may vary slightly depending on the speaker's accent or dialect.", NOW(), NOW());
+Not", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-paraphrase-noun", "paraphrase", "Lý giải", "a restatement of a text or passage giving the meaning in another form, as for clearness; rewording.", "noun", "/lǐ ʒaɪ/
 
 and 
@@ -2970,7 +2836,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-philosophize-verb", "philosophize", "Triết học", "to speculate or theorize, usually in a superficial or imprecise manner.", "verb", "[tʃêŋ hôk]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-phone-noun", "phone", "Điện thoại", "telephone", "noun", "điện thoại /ʒjɛ̂n ʃoː/
 
-(Note: The use of macrons and breve to indicate tone is not strictly adhering to IPA, but it's a common convention used in the romanization of Vietnamese words)", NOW(), NOW());
+(Note: The use of mac", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-photograph-noun", "photograph", "Ảnh", "a picture produced by photography.", "noun", "[aŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-physically-adverb", "physically", "Thật sự", "relating to the body or its appearance", "adverb", "/θäːt sʷuˀj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-pickle-noun", "pickle", "Củ ngâm", "a cucumber that has been preserved in brine, vinegar, or the like.", "noun", "/Cuː ŋämʲ/", NOW(), NOW());
@@ -2998,16 +2864,16 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-pizzas-noun", "pizzas", "Phở Mì", "a flat, open-faced baked pie of Italian origin, consisting of a thin layer of bread dough topped with spiced tomato sauce and cheese, often garnished with anchovies, sausage slices, mushrooms, etc.", "noun", "/fəʊ ˈmiː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-placate-verb", "placate", "Hòa giải", "to appease or pacify, especially by concessions or conciliatory gestures", "verb", "hòa ˈʒaj 
 
-(hoa) (soft g like "j" in "yes")", NOW(), NOW());
+(hoa) (soft g like j in yes)", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-place-noun", "place", "Địa điểm", "a particular portion of space, whether of definite or indefinite extent.", "noun", "Địa điểm /ziə̯ˀ diəm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-place-noun", "place", "Địa điểm", "a particular portion of space, whether of definite or indefinite extent.", "noun", "đi ɛm diəm", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-plait-noun", "plait", "Dây chùng", "a braid, especially of hair or straw.", "noun", "/dæj ʲŋ̟˧/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-planes-noun", "planes", "Máy bay", "a flat or level surface.", "noun", "mɐj ʙaj", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-plane-noun", "plane", "Máy bay", "a flat or level surface.", "noun", "[mæj˧ baːj˧]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-plantation-noun", "plantation", "Trồng trọt", "a usually large farm or estate, especially in a tropical or semitropical country, on which cotton, tobacco, coffee, sugar cane, or the like is cultivated, usually by resident laborers.", "noun", "/ʔtʁəŋ tʁɔt/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-plants-noun", "plants", "Cây", "any member of the kingdom Plantae, comprising multicellular organisms that typically produce their own food from inorganic matter by the process of photosynthesis and that have more or less rigid cell walls containing cellulose, including vascular plants, mosses, liverworts, and hornworts", "noun", "/kæj/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-plant-noun", "plant", "Cây", "any member of the kingdom Plantae, comprising multicellular organisms that typically produce their own food from inorganic matter by the process of photosynthesis and that have more or less rigid cell walls containing cellulose, including vascular plants, mosses, liverworts, and hornworts", "noun", "/kæj/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-plant-noun", "plant", "Cây", "any member of the kingdom Plantae, comprising multicellular organisms that typically produce their own food from inorganic matter by the process of photosynthesis and that have more or less rigid cell walls containing cellulose, including vascular plants, mosses, liverworts, and hornworts", "noun", "[kæj]", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-plants-noun", "plants", "Cây", "any member of the kingdom Plantae, comprising multicellular organisms that typically produce their own food from inorganic matter by the process of photosynthesis and that have more or less rigid cell walls containing cellulose, including vascular plants,", "noun", "/kæj/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-plant-noun", "plant", "Cây", "any member of the kingdom Plantae, comprising multicellular organisms that typically produce their own food from inorganic matter by the process of photosynthesis and that have more or less rigid cell walls containing cellulose, including vascular plants,", "noun", "/kæj/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-plant-noun", "plant", "Cây", "any member of the kingdom Plantae, comprising multicellular organisms that typically produce their own food from inorganic matter by the process of photosynthesis and that have more or less rigid cell walls containing cellulose, including vascular plants,", "noun", "[kæj]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-plan-noun", "plan", "Kế hoạch", "a scheme or method of acting, doing, proceeding, making, etc., developed in advance", "noun", "Kế hoạch is pronounced as /kəj ʁaŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-plastic-noun", "plastic", "Bạc tơ", "Often, plastics. any of a group of synthetic or natural organic materials that may be shaped when soft and then hardened, including many types of resins, resinoids, polymers, cellulose derivatives, casein materials, and proteins", "noun", "/bäʔkə̌tə̄w/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-plate-noun", "plate", "Bàn tay", "a shallow, usually circular dish, often of earthenware or porcelain, from which food is eaten.", "noun", "/baːntäj/", NOW(), NOW());
@@ -3056,13 +2922,13 @@ or more specifically
 
 /viː ʈiˀ/
 
- note: ʈ and ʈi are approximations of the retroflex sounds used in Vietnamese", NOW(), NOW());
+ ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-position-noun", "position", "Vị trí", "condition with reference to place; location; situation.", "noun", "[vîj 'tji]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-positively-adverb", "positively", "Tuyệt đối", "with certainty; absolutely", "adverb", "tŷt dậi /tỳ tɗɐj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-possess-verb", "possess", "có", "to have as belonging to one; have as property; own", "verb", "/kɔw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-postulate-verb", "postulate", "Lập lại", "to ask, demand, or claim.", "verb", "/lap ʲaj/
 
-(not exactly a perfect representation as there are no exact equivalents in IPA for Vietnamese tones but this is close enough)", NOW(), NOW());
+(not exactly a perfect representat", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-post-noun", "post", "Bản tin", "a strong piece of timber, metal, or the like, set upright as a support, a point of attachment, a place for displaying notices, etc.", "noun", "Bản tin /bæn ʈin/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-potato-noun", "potato", "Khoai", "Also called Irish potato, white potato. the edible tuber of a cultivated plant, Solanum tuberosum, of the nightshade family.", "noun", "Khoai /kʷaːj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-potentially-adverb", "potentially", "Có thể", "possibly but not yet actually", "adverb", "tʰɛˀ", NOW(), NOW());
@@ -3070,7 +2936,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-pounce-verb", "pounce", "đuổi bắt", "to swoop down suddenly and grasp, as a bird does in seizing its prey.", "verb", "đuời băt /ʒûj̇ə ɓät/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-pound-verb", "pound", "Lbs", "to strike repeatedly with great force, as with an instrument, the fist, heavy missiles, etc.", "verb", "/lɔj ʲ/
 
-(Not a direct translation from your example, but rather the phonetic spelling of "Lbs" in Vietnamese.)", NOW(), NOW());
+(Not a direct translation from your ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-pour-verb", "pour", " đổ", "to send (a liquid, fluid, or anything in loose particles) flowing or falling, as from one container to another, or into, over, or on something", "verb", "/dɞʊ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-pout-verb", "pout", "Bí mật", "to thrust out the lips, especially in displeasure or sullenness.", "verb", "/Bi̇ ˈmɛt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-powder-noun", "powder", "Bột", "any solid substance reduced to a state of fine, loose particles by crushing, grinding, disintegration, etc.", "noun", "/ʔɓətʷ/", NOW(), NOW());
@@ -3105,14 +2971,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 dán
 (print, as in a book or newspaper)
 in
-phát
-(print, as in to issue or publish)
-đăng
-báo
-(print, as in to report or announce in a newspaper or media outlet)
-in
-(tên)
-(printed name)", "to produce (a text, picture, etc.) by applying inked types, plates, blocks, or the like, to paper or other material either by direct pressure or indirectly by offsetting an image onto an intermediate roller.", "verb", "/ɪn dàn/
+", "to produce (a text, picture, etc.) by applying inked types, plates, blocks, or the like, to paper or other material either by direct pressure or indirectly by offsetting an image onto an intermediate roller.", "verb", "/ɪn dàn/
 /in fät/
 /zæŋ bäw/
 /ɪn tən/", NOW(), NOW());
@@ -3135,9 +2994,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-progress-noun", "progress", "Tiến bộ", "a movement toward a goal or to a further or higher stage", "noun", "/tjɛ̂n bɔ/
 
 or in a more detailed breakdown:
-
-tiên = /tjɛ̂n/
-bộ = /bɔ/", NOW(), NOW());
+", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-prohibit-verb", "prohibit", "Cấm", "to forbid (an action, activity, etc.) by authority or law", "verb", "/kəmˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-project-noun", "project", "Dự án", "something that is contemplated, devised, or planned; plan; scheme.", "noun", "/Dʒǔək ɐm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-promenade-noun", "promenade", "Dạo bộ", "a stroll or walk, especially in a public place, as for pleasure or display.", "noun", "dàʊ̯ ɓəw", NOW(), NOW());
@@ -3147,7 +3004,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 
 [n] /n/
 
-Note: IPA representation may vary slightly based on individual pronunciation and regional variations, this is one common transcription.", NOW(), NOW());
+Note: IPA re", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-promote-verb", "promote", "Khuyến khích", "to help or encourage to exist or flourish; further", "verb", "xʊəŋ kʲǎk", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-promptly-adjective", "promptly", "Nhanh chóng", "done, performed, delivered, etc., at once or without delay", "adjective", "/nʰãŋ̟ ˧ ʈ͡ʂoŋ̚ⁿ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-prompt-adjective", "prompt", "Tiếp thị", "done, performed, delivered, etc., at once or without delay", "adjective", "[Tięp ʃi]", NOW(), NOW());
@@ -3160,12 +3017,11 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-prophesy-verb", "prophesy", "Tưởng tượng", "to foretell or predict.", "verb", "/tʃaːw ˀkũŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-propose-verb", "propose", "Xin gợi ý", "to offer or suggest (a matter, subject, case, etc.) for consideration, acceptance, or action", "verb", "/xiŋ ˈjot/
 
-(Xin is pronounced as "sin" and giớ ý is pronounced as "zoit")", NOW(), NOW());
+(Xin is pronounced as sin and g", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-proposition-noun", "proposition", "Lời đề xuất", "the act of offering or suggesting something to be considered, accepted, adopted, or done.", "noun", "Lời đề xuất /lwǐ ʔɛʊ ʂuat/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-prop-verb", "prop", "Prop", "to support, or prevent from falling, with or as if with a prop (often followed by up)", "verb", "/ʔɓəp/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-prose-noun", "prose", "Tiểu thuyết", "the ordinary form of spoken or written language, without metrical structure, as distinguished from poetry or verse.", "noun", "Tiểu thuyết IPA is /tiəw ʃäk/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-prostrate-verb", "prostrate", "Gối xuống", "to cast (oneself) face down on the ground in humility, submission, or adoration.", "verb", "Gối đường is not correct, it should be just Gối xuống
-/ʁɛəj ðəwɫʷəm/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-prostrate-verb", "prostrate", "Gối xuống", "to cast (oneself) face down on the ground in humility, submission, or adoration.", "verb", "Gối đường is not correct, it should be just G", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-protect-verb", "protect", "Bảo vệ", "to defend or guard from attack, invasion, loss, annoyance, insult, etc.; cover or shield from injury or danger.", "verb", "/bʌw̚ jə/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-protest-noun", "protest", "Bức xúc", "an expression or declaration of objection, disapproval, or dissent, often in opposition to something a person is powerless to prevent or avoid", "noun", "/bʊk ʃək/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-protest-noun", "protest", "Đảng biểu", "an expression or declaration of objection, disapproval, or dissent, often in opposition to something a person is powerless to prevent or avoid", "noun", "[dâŋ bjəw]", NOW(), NOW());
@@ -3175,13 +3031,10 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-prowl-verb", "prowl", "đi dạo", "to rove or go about stealthily, as in search of prey, something to steal, etc.", "verb", "dí ˈdaʊw", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-pry-verb", "pry", "Tò mò", "to inquire impertinently or unnecessarily into something", "verb", "/təu˧ ˀmɔu˧˩/
 
-Note: The tones in Vietnamese are indicated by numbers in superscript, with 0 being the highest and 5 being the lowest. In this case, the tone marks indicate a rising tone (˧) on both syllables.", NOW(), NOW());
+Note: The tones in Vietnamese ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-publicize-verb", "publicize", "Đăng tải", "to give publicity to; bring to public notice; advertise", "verb", "dæŋ t͡əi", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-pucker-verb", "pucker", "đ扳 căng", "to draw or gather into wrinkles or irregular folds, as material or a part of the face; constrict", "verb", "đ is pronounced as /ʔj/
-扳 is not a valid character
-căng is pronounced as /kæŋ/
-
-The IPA transcription for đ căng is /ʔj kæŋ/.", NOW(), NOW());
+扳 is not a valid char", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-puff-noun", "puff", "Điếu xìu", "a short, quick blast, as of wind or breath.", "noun", "Điếu xìu /ʒïə̌w ʂîw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-pull-verb", "pull", "Rút", "to draw or haul toward oneself or itself, in a particular direction, or into a particular position", "verb", "[Rut] /rʉt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-pull-verb", "pull", "Lấy ra", "to draw or haul toward oneself or itself, in a particular direction, or into a particular position", "verb", "/[zəj ʁa]/", NOW(), NOW());
@@ -3196,7 +3049,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 
 or alternatively 
 
-/trʷə̌ŋ ðäːt/", NOW(), NOW());
+/trʷə̌ŋ ðäːt", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-purchase-verb", "purchase", "Mua", "to acquire by the payment of money or its equivalent; buy.", "verb", "/muəː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-purpose-noun", "purpose", "Mục đích", "the reason for which something exists or is done, made, , etc.", "noun", "/mu̇k đɛjk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-purr-verb", "purr", "Bông đất", "to utter a low, continuous, murmuring sound expressive of contentment or pleasure, as a cat does.", "verb", "/bʌŋ˧ ʔɗət/", NOW(), NOW());
@@ -3221,8 +3074,6 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-quaver-verb", "quaver", "Lướt", "to shake tremulously; quiver or tremble", "verb", "/lɪʔt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-queasily-adjective", "queasily", "Nghiêng đầu", "inclined to or feeling nausea, as the stomach, a person, etc.; nauseous; nauseated.", "adjective", "[niəŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-queen-noun", "queen", "Nữ hoàng", "a female sovereign or monarch.", "noun", "[/nuʊ ˈwaːŋ]", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-queerly-queer", "queerly", "Khỏe dị kì, cộng đồngexual", "strange or odd from a conventional viewpoint; unusually different; singular", "queer", "/kʷə̄ˀ dî kǐ/ 
-/kʷə̄ˀ kʊm ʌŋtseʉxuəl/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-query-noun", "query", "Câu hỏi", "a question; an inquiry.", "noun", "/kəw ˈɟøj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-questionably-adjective", "questionably", "Cái gì cũng có thể là vậy", "of doubtful propriety, honesty, morality, respectability, etc.", "adjective", "kɐj ʲ kə̌ ɕǒŋ ˧ ɕǔ ɲê ˀwə", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-questioningly-adjective", "questioningly", "Tâm hỏi", "indicating or implying a question", "adjective", "tæm ʲəjw", NOW(), NOW());
@@ -3256,8 +3107,8 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-quizzically-adjective", "quizzically", "Lộn xạ", "odd, queer, or comical.", "adjective", "/lɜǰ sə/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-quiz-noun", "quiz", "Câu hỏi", "an informal test or examination of a student or class.", "noun", "/kâw ɓoʲ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-quote-verb", "quote", "Giọng", "to repeat (a passage, phrase, etc.) from a book, speech, or the like, as by way of authority, illustration, etc.", "verb", "/[ɲôŋ˧ˀ]/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rabbits-noun", "rabbits", "Thỏ", "any of several soft-furred, large-eared, rodentlike burrowing mammals of the family Leporidae, allied with the hares and pikas in the order Lagomorpha, having a divided upper lip and long hind legs, usually smaller than the hares and mainly distinguished from them by bearing blind and furless young in nests rather than fully developed young in the open.", "noun", "/ðəw/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rabbit-noun", "rabbit", "Con lều", "any of several soft-furred, large-eared, rodentlike burrowing mammals of the family Leporidae, allied with the hares and pikas in the order Lagomorpha, having a divided upper lip and long hind legs, usually smaller than the hares and mainly distinguished from them by bearing blind and furless young in nests rather than fully developed young in the open.", "noun", "/kəw˧˩/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rabbits-noun", "rabbits", "Thỏ", "any of several soft-furred, large-eared, rodentlike burrowing mammals of the family Leporidae, allied with the hares and pikas in the order Lagomorpha, having a divided upper lip and long hind legs, usually smaller than the hares and mainly distinguished ", "noun", "/ðəw/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rabbit-noun", "rabbit", "Con lều", "any of several soft-furred, large-eared, rodentlike burrowing mammals of the family Leporidae, allied with the hares and pikas in the order Lagomorpha, having a divided upper lip and long hind legs, usually smaller than the hares and mainly distinguished ", "noun", "/kəw˧˩/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-race-noun", "race", "đoàn", "a contest of speed, as in running, riding, driving, or sailing.", "noun", "đoàn /dəwən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-radiate-verb", "radiate", "Phân tán", "to extend, spread, or move like rays or radii from a center.", "verb", "/phăn ʈən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rage-noun", "rage", "Cơn giận", "angry fury; violent anger (sometimes  in combination)", "noun", "kɞˀŋ jənʲʌn", NOW(), NOW());
@@ -3273,7 +3124,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rake-noun", "rake", "Thước rọc", "an agricultural implement with teeth or tines for gathering cut grass, hay, or the like or for smoothing the surface of the ground.", "noun", "/ʈuək ʁɌc/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rally-verb", "rally", "Tổ chức cuộc đua xe", "to bring into order again; gather and organize or inspire anew", "verb", "/tōj ʈɪk nhɤ̌c cuɔɪ jə ʒə˧⁵/
 
-This represents the correct pronunciation of Tổ chức cuộc đua xe in Vietnamese, using IPA phonetics.", NOW(), NOW());
+This represents", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ramble-verb", "ramble", "Ngẫu nhiễu", "to wander around in a leisurely, aimless manner", "verb", "/[ŋɐw ɲiə̯]/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ram-noun", "ram", "Thịt lợn", "a male sheep.", "noun", "/thiʔ ʔəɲ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-range-noun", "range", "Phạm vi", "the extent to which or the limits between which variation is possible", "noun", "/фаːm vǐ/", NOW(), NOW());
@@ -3282,7 +3133,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rant-verb", "rant", "Khóc lóc", "to speak or declaim extravagantly or violently; talk in a wild or vehement way; rave", "verb", "/Hɜʊk˧˩ ˀlok˨/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rapidly-adjective", "rapidly", "Nhanh", "occurring within a short time; happening speedily", "adjective", "/nʌŋ/
 
-or alternatively, but less common /nãŋ/", NOW(), NOW());
+or alternatively, but less common /nãŋ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rap-verb", "rap", "Làm", "to strike, especially with a quick, smart, or light blow", "verb", "/läm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rarely-adverb", "rarely", "Hiếm khi", "on rare occasions; infrequently; seldom", "adverb", "/hiəʔ kʰiː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rasp-verb", "rasp", "Dùng", "to scrape or abrade with a rough instrument.", "verb", "/dʊŋ/", NOW(), NOW());
@@ -3291,14 +3142,14 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ratify-verb", "ratify", "Xác định", "to confirm by expressing consent, approval, or formal sanction", "verb", "/xak diˀn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rationalise-verb", "rationalise", "Đồng hoá", "to ascribe (one's acts, opinions, etc.) to causes that superficially seem reasonable and valid but that actually are unrelated to the true, possibly unconscious and often less creditable or agreeable causes.", "verb", "/dʒəŋ ɲəw/
 
-(Đồng hóa means assimilation or to make something similar in Vietnamese.)", NOW(), NOW());
+(Đồng hóa means assimilation or t", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rationalize-verb", "rationalize", "Giải ngạo", "to ascribe (one's acts, opinions, etc.) to causes that superficially seem reasonable and valid but that actually are unrelated to the true, possibly unconscious and often less creditable or agreeable causes.", "verb", "/dʒiæw ɓaw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rattle-verb", "rattle", "Rung", "to give out or cause a rapid succession of short, sharp sounds, as in consequence of agitation and repeated concussions", "verb", "/ʁũŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rat-noun", "rat", "con chuột", "any of several long-tailed rodents of the family Muridae, of the genus Rattus and related genera, distinguished from the mouse by being larger.", "noun", "/kʷəʊ̞/
 
 (kwɤ)
 
-con means man and chuột is mouse", NOW(), NOW());
+con means man and chuột is mo", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ravage-verb", "ravage", "Xoến ruồng", "to work havoc upon; damage or mar by ravages", "verb", "xoənʲ ʐumŋ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rave-verb", "rave", "Đánh giấu", "to talk wildly, as in delirium.", "verb", "Đánh giấu becomes /dʒâːŋ ˀjâu̯/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ray-noun", "ray", "tia", "a narrow beam of light.", "noun", "tiâ (/tǐa/)", NOW(), NOW());
@@ -3328,22 +3179,14 @@ Xác minh
 
 Giải quyết 
 
-Thấy được 
-
-Làm sáng tỏ 
-
-Hiểu rõ 
-
-Nhận ra", "to grasp or understand clearly.", "verb", "xaᶜk ðiŋ 
+Thấy được ", "to grasp or understand clearly.", "verb", "xaᶜk ðiŋ 
 zaᶜk min
 ʁiəw ʁək 
 jaʂ bei ʁ
-laːm saŋ təo 
-ʁiəw rɔj 
-nʌrŋ ra", NOW(), NOW());
+laːm s", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-realize-verb", "realize", "Nhận thức", "to grasp or understand clearly.", "verb", "Nhận thức /ŋə̂n ʔɕɪ/
 
-(Note: The diacritics on 'ă' and 'ê' represent a slight retraction of the vowels, rather than a full vowel shift.)", NOW(), NOW());
+(Note: The diacritics o", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-really-adverb", "really", "Tính thực", "in reality; actually", "adverb", "[tæɲ ʁɛk]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rearrange-verb", "rearrange", "Chuyển lại", "to place in proper, desired, or convenient order; adjust properly", "verb", "/ʈjəŋ ˀjaːi/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reason-noun", "reason", "Lý do", "a basis or cause, as for some belief, action, fact, event, etc.", "noun", "/ʔi ˌdoʔ/", NOW(), NOW());
@@ -3352,21 +3195,16 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reassess-verb", "reassess", "Đánh giá lại", "to estimate officially the value of (property, income, etc.) as a basis for taxation.", "verb", "Đánh /ʤǎːɲ/  giá /jaˀ/  lại /aːj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reassure-verb", "reassure", "Khắc phục sự sợ hãi 
 
-(Note: The verb "reassure" is often translated to "khắc phục sự sợ hãi", which means to dispel fear or anxiety, but a more precise translation in some contexts would be "đảm bảo", meaning to ensure or guarantee something)", "to restore to assurance or confidence", "verb", "kʰăᷲk puə̯ʂ ũj sǒj ʱaǐ 
+(Note: The verb reassu", "to restore to assurance or confidence", "verb", "kʰăᷲk puə̯ʂ ũj sǒj ʱaǐ 
 
-(Note: The above is a phonetic spelling in the format of International Phonetic Alphabet (IPA) for "Khắc phục sự sợ hãi". Let me know if you'd like any clarification on this.)", NOW(), NOW());
+(Note: The above is ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reassuringly-verb", "reassuringly", "Đảm bảo", "to restore to assurance or confidence", "verb", "dæm˧ səu̯", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reattach-verb", "reattach", "Gắn lại", "to fasten or affix; join; connect", "verb", "kən ˈjæj", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rebuff-noun", "rebuff", "Cảm cúm", "a blunt or abrupt rejection, as of a person making advances.", "noun", "/Kä̑m ku̇m/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rebuke-verb", "rebuke", "Khích lệ", "to express sharp, stern disapproval of; reprove; reprimand.", "verb", "/kʰǐc lɛj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-recall-verb", "recall", "Nhớ", "to bring back from memory; recollect; remember", "verb", "/nʲə/
 
- would be incorrect since 'Nh' is pronounced as a distinct sound like in French 'neuf', not like English 'nh'
-
-/ng̞/ or 
-/ŋ/
-
- is correct for Vietnamese phonology of the word Nhớ", NOW(), NOW());
+ would be incorrect since 'Nh' is pron", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-recap-verb", "recap", "Tóm tắt", "to recondition (a worn automobile tire) by cementing on a strip of prepared rubber and vulcanizing by subjecting to heat and pressure in a mold.", "verb", "tóm sấp /təm ʲsǎp/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-receipt-noun", "receipt", "Hóa đơn", "a written acknowledgment of having received, or taken into one's possession, a specified amount of money, goods, etc.", "noun", "hɞə ʤɯŋ / həjəŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-receive-verb", "receive", "Nhận", "to take into one's possession (something offered or delivered)", "verb", "/ʒən/", NOW(), NOW());
@@ -3376,16 +3214,14 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-recklessly-adjective", "recklessly", "Bất cẩn", "utterly unconcerned about the consequences of some action; without caution; careless (usually followed by of)", "adjective", "/bət kʌn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reckon-verb", "reckon", "Xác định 
 
-(acknowledged as) calculate, estimate, judge, assume 
-
-Note: In informal context, it can also be translated to 'dám dĩ' which is a common idiomatic expression meaning roughly 'to take something for granted' or 'to reckon on'.", "to count, compute, or calculate, as in number or amount.", "verb", "/xäkt̚ dəj­n/", NOW(), NOW());
+(acknowledged as) calculate, estim", "to count, compute, or calculate, as in number or amount.", "verb", "/xäkt̚ dəj­n/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reclaim-verb", "reclaim", "Khôi phục", "to bring (uncultivated areas or wasteland) into a condition for cultivation or other use.", "verb", "/kʰȯi puʔ/
 
-I've transcribed the word "Khôi phục" into the International Phonetic Alphabet format.", NOW(), NOW());
+I've transcribed the word Khôi ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-recline-verb", "recline", "Ngồi xuống", "to lean or lie back; rest in a recumbent position.", "verb", "NGỜI ĐƯỜN /ŋȯj ðʷən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-recognise-verb", "recognise", "Nhận ra", "to identify as something or someone previously seen, known, etc.", "verb", "/ʒən rä/
 
-(Note: The Vietnamese pronunciation is adapted to IPA phonetic spelling, as it may not perfectly fit into the strict rules of IPA.)", NOW(), NOW());
+(Note: The Vietnamese pronunciation", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-recognize-verb", "recognize", "Nhận ra", "to identify as something or someone previously seen, known, etc.", "verb", "/nʲən ʁaː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-recoil-verb", "recoil", "Phả lại", "to draw back; start or shrink back, as in alarm, horror, or disgust.", "verb", "/phǎː lây/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-recollect-verb", "recollect", "Nhớ lại", "to recall to mind; recover knowledge of by memory; remember.", "verb", "[n̻əj əjaj]", NOW(), NOW());
@@ -3396,7 +3232,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-record-verb", "record", "Ghi", "to set down in writing or the like, as for the purpose of preserving evidence.", "verb", "/Gʱi/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-recount-verb", "recount", "Lại nói lại", "to relate or narrate; tell in detail; give the facts or particulars of.", "verb", "Lại nói lại /lài ˀɓɔj ˀɓaj/
 
-(note: 'ā' is a vowel sound that can be pronounced as /aː/, and the consonant cluster "mj" sounds like /m̩ ɟ/)", NOW(), NOW());
+(note: 'ā' is a ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-recover-verb", "recover", "Khôi phục", "to get back or regain (something lost or taken away)", "verb", "/kʰȯj ʁuə̆k/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-recruit-noun", "recruit", "Tuyển dụng", "a newly enlisted or drafted member of the armed forces.", "noun", "[Tuyên]( /tʷjən/) [dược] /dwŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-recruit-noun", "recruit", "Tuyển quân", "a newly enlisted or drafted member of the armed forces.", "noun", "/Tuyənʱ kuuŋ/", NOW(), NOW());
@@ -3405,7 +3241,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-redirect-verb", "redirect", "Chuyển hướng", "to direct again.", "verb", "/ʈjəŋ ʋǐŋ/
 
 is incorrect, I made mistake
-/ʈjəŋ vɯ̀ŋ/", NOW(), NOW());
+/ʈjə", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rediscover-verb", "rediscover", "Khôi phục lại", "to see, get knowledge of, learn of, find, or find out; gain sight or knowledge of (something previously unseen or unknown)", "verb", "kʷoɪ̇ fuk aɪ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reduce-verb", "reduce", "Giảm thiểu", "to bring down to a smaller extent, size, amount, number, etc.", "verb", "giẳm thiệu /jə̌m ʈiə̂/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reel-noun", "reel", "Băng đĩa", "a cylinder, frame, or other device that turns on an axis and is  to wind up or pay out something.", "noun", "[bæŋ ˈdʒiə]", NOW(), NOW());
@@ -3414,17 +3250,12 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-refill-verb", "refill", "Lấp đầy lại", "to fill again.", "verb", "/lɛp ɗɐj ʲaj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-refine-verb", "refine", "Chỉnh sửa", "to bring to a fine or a pure state; free from impurities", "verb", "/chǐŋ məː/
 
-(I've corrected this to reflect that 'chỉnh' and 'sửa' are pronounced differently in IPA)
-
-/chǐŋ/
-
-/sə̌/
-/mə́ɤ⁼/", NOW(), NOW());
+(I've corrected this to reflect t", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reflect-verb", "reflect", "Gương lại", "to cast back (light, heat, sound, etc.) from a surface", "verb", "/Gʷaŋ əj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-refocus-noun", "refocus", "Chuyển hướng lại", "a central point, as of attraction, attention, or activity", "noun", "/ʈəŋ vjəŋ rɐi/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-refrain-verb", "refrain", "Lặp lại", "to abstain from an impulse to say or do something (often followed by from)", "verb", "/ləp ʔaɪ̯/
 
-(Note: In IPA, the grave accent `̄` is used to indicate a mid tone, which is typical in Vietnamese.)", NOW(), NOW());
+(Note: In IPA, the grave accent `", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-refuse-verb", "refuse", "Từ chối", "to decline to accept (something offered)", "verb", "[Tsʷu̚ ə̌j]
 
 becomes
@@ -3437,38 +3268,32 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 (Suht tohn repo')", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-regret-verb", "regret", "Khinh nghiệm", "to feel sorrow or remorse for (an act, fault, disappointment, etc.)", "verb", "/kiŋ ɲiəm/
 
-Note: In the IPA transcription above, "n" is used to represent the nh sound which is a distinct phoneme in Vietnamese.", NOW(), NOW());
+Note: In the IPA transcription ab", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-regret-verb", "regret", "Xót xa", "to feel sorrow or remorse for (an act, fault, disappointment, etc.)", "verb", "/xot sa/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-regularly-adverb", "regularly", "Bình thường", "at regular times or intervals.", "adverb", "/biŋ ˈðʒõŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-regulate-verb", "regulate", "Quy định", "to control or direct by a rule, principle, method, etc.", "verb", "kwıj d͡ʝɪnʲ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rehabilitate-verb", "rehabilitate", "Khôi phục", "to restore to a condition of good health, ability to work, or the like.", "verb", "/kʰəj1 ʁưp/
 
-Note: The above transcription is based on the IPA's tone markings system commonly used in Vietnamese phonology. This system uses numbers to indicate tones, with 1 representing a high falling tone (huyền), and so on.
-
-Here is the breakdown:
-- /kʰ/ represents the unaspirated voiceless alveolar affricate "kh" sound.
-- /əj/ represents a vowel sound between "u" and "a", with the tone being high falling, denoted by 1.", NOW(), NOW());
+Note: The above transcription is", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reign-noun", "reign", "Thời gian trị vị", "the period during which a sovereign occupies the throne.", "noun", "Thời gian trị vị becomes /θʷɪj jæn ʔəj vîj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reinforce-verb", "reinforce", "Tăng cường", "to strengthen with some added piece, support, or material", "verb", "/täŋ kʷyŋ̫/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reintroduce-verb", "reintroduce", "Khởi lại", "to present (a person) to another so as to make acquainted.", "verb", "/Kʷɪj lʌj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reiterate-verb", "reiterate", "Lặp lại", "to say or do again or repeatedly; repeat, often excessively.", "verb", "/læp ʈaɪ̯ə/
 
-(Note: The tone mark is often difficult to represent in written form and I have used the closest approximation that can be represented using the English alphabet. In Vietnamese pronunciation, this word would actually be pronounced with a rising intonation at the end.)", NOW(), NOW());
+(Note: The tone mark is often di", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reject-verb", "reject", "Từ từ chối", "to refuse to have, take, recognize, etc.", "verb", "/xə ʊc ɐj/
 
-(From 'từ' meaning word and 'chối' meaning reject or refuse.)", NOW(), NOW());
+(From 'từ' meaning word and 'chối", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rejoice-verb", "rejoice", "Hương hồn", "to be glad; take delight (often followed by in)", "verb", "hu̯ɔŋ hən˧ˀ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-relate-verb", "relate", "Liên hệ", "to tell; give an account of (an event, circumstance, etc.).", "verb", "liên hệ /jɛ̂n hə/
 
-liên has a tone mark that indicates it's pronounced with a higher pitch than usual 
-
-(hệ is not necessary in IPA for linking, however, I've put it to indicate the syllable and separate words)", NOW(), NOW());
+liên has a tone mark that", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-relation-noun", "relation", "Quan hệ", "an existing connection; a significant association between or among things", "noun", "kʷwæŋ həjh", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-relax-verb", "relax", "làm nhẹ", "to make less tense, rigid, or firm; make lax", "verb", "/läm ˀŋe/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-relay-noun", "relay", "Truyền thông", "a series of persons relieving one another or taking turns; shift.", "noun", "Truyền thông /tʁjəŋm ˧ mɗɜːŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-release-verb", "release", "Giải phóng", "to free from confinement, bondage, obligation, pain, etc.; let go", "verb", "[Dʒiəːw ɓǎw˨]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-relent-verb", "relent", "Bềnh lại", "to soften in feeling, temper, or determination; become more mild, compassionate, or forgiving.", "verb", "Bềnh lại is pronounced as /bənˀjaːj/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-religion-noun", "religion", "Tôn giáo", "a set of beliefs concerning the cause, nature, and purpose of the universe, especially when considered as the creation of a superhuman agency or agencies, usually involving devotional and ritual observances, and often containing a moral code governing the conduct of human affairs.", "noun", "/tən ʒaɓo/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-religion-noun", "religion", "Tôn giáo", "a set of beliefs concerning the cause, nature, and purpose of the universe, especially when considered as the creation of a superhuman agency or agencies, usually involving devotional and ritual observances, and often containing a moral code governing the", "noun", "/tən ʒaɓo/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-relinquish-verb", "relinquish", "Giải thoát", "to renounce or surrender (a possession, right, etc.)", "verb", "/dʒɪj1 ˈtʰǎˀt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-relish-noun", "relish", "Chất dấm", "liking or enjoyment of the taste of something.", "noun", "/ʈət ˈjəmˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reluctantly-adjective", "reluctantly", "Khinh khi", "unwilling; disinclined", "adjective", "/kʰin˧ ˀkʰiː/", NOW(), NOW());
@@ -3476,10 +3301,10 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-remain-verb", "remain", "giữ lại", "to continue in the same state; continue to be as specified", "verb", "/jɛj əlɐi/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-remark-verb", "remark", "Lưu ý", "to say casually, as in making a comment", "verb", "/Lʉ̂u ʉ/
 
-(Lưu is pronounced like "Lü" with a slightly rounded vowel sound and then the ʉ sound which is similar to "ue" in "cue")", NOW(), NOW());
+(Lưu is pronounced like Lü with a", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-remember-verb", "remember", "Nhớ", "to recall to the mind by an act or effort of memory; think of again", "verb", "/nʲə̌/
 
-(Note: The symbol 'nʲ' represents a syllable-final nasal consonant followed by a palatalized front vowel sound, 'ə̌' represents a short mid-back unrounded vowel with a high tone.)", NOW(), NOW());
+(Note: The symbol 'nʲ' represents a s", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-remind-verb", "remind", "Nhắc", "to cause (a person) to remember; cause (a person) to think (of someone or something)", "verb", "/n̪ək/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reminisce-verb", "reminisce", "Nostalgia", "to recall past experiences, events, etc.; indulge in reminiscence.", "verb", "Nostalgia becomes /nuːsˈtældʒɪə/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-remonstrate-verb", "remonstrate", "Khóc lóc", "to say or plead in protest, objection, or disapproval.", "verb", "/koʊk luək/", NOW(), NOW());
@@ -3488,9 +3313,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rend-verb", "rend", "Rủ", "to separate into parts with force or violence", "verb", "/rʉˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reorganize-verb", "reorganize", "Chuyển đổi lại", "to organize again.", "verb", "/chwəŋn dǒi/
 
-would be more accurate as there is no "ai" digraph in Vietnamese and the pronunciation would be closer to /chwəŋŋ dʷə˧˦/
-
-However, I assume you are looking for: /ʈɛ̃ŋ ɗɔi/", NOW(), NOW());
+would be more accurate as ther", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-repack-verb", "repack", "Chuyển gói", "to place or arrange (articles) in (a container) again or in a different way", "verb", "/chən ʲ ˌwak̚/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-repair-verb", "repair", "Sửa", "to restore to a good or sound condition after decay or damage; mend", "verb", "/sua/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-repeatedly-adjective", "repeatedly", "Lặp lại", "done, made, or said again and again", "adjective", "Lặp lại /laːp ʁaˀj/", NOW(), NOW());
@@ -3499,7 +3322,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-repent-verb", "repent", "Khỏi", "to feel sorry, self-reproachful, or contrite for past conduct; regret or be conscience-stricken about a past action, attitude, etc. (often followed by of)", "verb", "/kʰɤj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rephrase-verb", "rephrase", "Chuyển lại", "to phrase again or differently", "verb", "/chʷəŋ ˀjaː/
 
-(chʷ is a voiced alveolar affricate in this context)", NOW(), NOW());
+(chʷ is a voiced alveolar affri", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-replace-verb", "replace", "Thay thế", "to assume the former role, position, or function of; substitute for (a person or thing)", "verb", "/θaj səj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reply-verb", "reply", "Trả lời", "to make answer in words or writing; answer; respond", "verb", "/träʔ liw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-report-noun", "report", "Báo cáo", "an account or statement describing in detail an event, situation, or the like, usually as the result of observation, inquiry, etc.", "noun", "/bəw kəʊ/
@@ -3515,7 +3338,7 @@ or
 /kʰãŋ ʔəw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reproachfully-adjective", "reproachfully", "Khó chịu", "full of or expressing reproach or censure", "adjective", "/xəʊ̯ ʂɤ/
 
-(Note: The above IPA transcription represents the pronunciation of "Khó chịu" in the South Vietnamese dialect, which is a more standardized and widely recognized form of Vietnamese. However, it's worth noting that there may be variations depending on regional accents and pronunciations.)", NOW(), NOW());
+(Note: The above IPA transcription", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reproach-verb", "reproach", "phán xét", "to find fault with (a person, group, etc.); blame; censure.", "verb", "phán xét /pʰan ʒət/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reproduce-verb", "reproduce", "Lặp lại", "to make a copy, representation, duplicate, or close imitation of", "verb", "/lɛp ʔaːj/
 
@@ -3526,14 +3349,14 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-request-noun", "request", "Yêu cầu", "the act of asking for something to be given or done, especially as a favor or courtesy; solicitation or petition", "noun", "[yəw kɐʊ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rescind-verb", "rescind", "Hủy bỏ", "to abrogate; annul; revoke; repeal.", "verb", "Hủy bỏ /ʝiə̯ ʷˀ ʋō/
 
-(Note: The above IPA transcription represents the word's pronunciation in a phonetically accurate way, according to common Vietnamese pronunciation rules.)", NOW(), NOW());
+(Note: The above IPA tra", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rescue-verb", "rescue", "Cứu hộ", "to free or deliver from confinement, violence, danger, or evil.", "verb", "/Jʌuk ɛu˧ˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-research-noun", "research", "Nghiên cứu", "diligent and systematic inquiry or investigation into a subject in order to discover or revise facts, theories, applications, etc.", "noun", "Nghiên cứu /ŋǐən ʃuəw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-resent-verb", "resent", "Bội tinh", "to feel or show displeasure or indignation at (a person, act, remark, etc.) from a sense of injury or insult.", "verb", "/Bøj tɪɳʲ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-reside-verb", "reside", "sống ở đây", "to dwell permanently or for a considerable time", "verb", "/sɜːj əj ʱeɪ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-resign-verb", "resign", "thôi bỏ việc", "to give up an office or position, often formally (often followed by from)", "verb", "/thôi ʔɓjɛk/
 
-The above IPA transcription is a phonetic spelling of the Vietnamese phrase "thôi bỏ việc", which means "I quit my job".", NOW(), NOW());
+The above IPA transcription is ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-resist-verb", "resist", "Cứng đầu", "to withstand, strive against, or oppose", "verb", "/kʌŋ ˈdɗaʊ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-resolve-verb", "resolve", "Xử lý", "to come to a definite or earnest decision about; determine (to do something)", "verb", "/xuˀ ləj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-respect-noun", "respect", "Sự tôn trọng", "a particular, detail, or point (usually preceded by in)", "noun", "/səːʔ tøŋ rɛp/", NOW(), NOW());
@@ -3545,7 +3368,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-restructure-verb", "restructure", "Chuyển đổi", "to change, alter, or restore the structure of", "verb", "/tʃəŋ ɗəi/
 
 (Or, a more detailed breakdown)
-/chən/ /dəi/", NOW(), NOW());
+/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rest-noun", "rest", "Nghỉ", "the refreshing quiet or repose of sleep", "noun", "[n̻ɪ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rest-noun", "rest", "Nghỉ", "the refreshing quiet or repose of sleep", "noun", "/ŋ̊iː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-resume-verb", "resume", "Lập kỷ luật", "to take up or go on with again after interruption; continue", "verb", "/lap kʱi luət͡ɕ/", NOW(), NOW());
@@ -3553,8 +3376,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-retch-verb", "retch", "Khổ đớn", "to make efforts to vomit.", "verb", "/Kʷəˀðəŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-retell-verb", "retell", "Lặp lại", "to tell (a story, tale, etc.) over again or in a new way", "verb", "/læp ʲaj/
 
-I corrected it to match with your reference.
-The first syllable is /læp/. The second syllable has a high tone marker 'ʲ' (dot above the letter) indicating that the vowel is pronounced with a higher pitch than usual. So, it's /aj/", NOW(), NOW());
+I corrected it to match with your ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-retire-verb", "retire", "Trú sĩ", "to withdraw, or go away or apart, to a place of privacy, shelter, or seclusion", "verb", "[tʁuˀ sɨj]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-retort-verb", "retort", "Lắc đầu", "to reply to, usually in a sharp or retaliatory way; reply in kind to.", "verb", "/lak ʌc əu/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-retract-verb", "retract", "Lấy lại", "to draw back or in", "verb", "/ləj ɐi/", NOW(), NOW());
@@ -3580,7 +3402,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rice-noun", "rice", "Gạo", "the starchy seeds or grain of an annual marsh grass, Oryza sativa, cultivated in warm climates and  for food.", "noun", "/gaːw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-riddle-noun", "riddle", "Câu hỏi khó", "a question or statement so framed as to exercise one's ingenuity in answering it or discovering its meaning; conundrum.", "noun", "/kəʊw ǐɪk/
 
-(Note: I've used the "ə" symbol to represent a schwa sound, which is not always easy to transcribe in IPA. The pronunciation may vary slightly depending on regional accents and individual speakers)", NOW(), NOW());
+(Note: I've used the ə symbol t", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-riddle-noun", "riddle", "Câu hỏi lạ", "a question or statement so framed as to exercise one's ingenuity in answering it or discovering its meaning; conundrum.", "noun", "/kʰaːw ʝiəj lə/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ride-verb", "ride", "Chèo", "to sit on and manage a horse or other animal in motion; be carried on the back of an animal.", "verb", "/chəu̯/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ridicule-noun", "ridicule", "Rước laughter", "speech or action intended to cause contemptuous laughter at a person or thing; derision.", "noun", "/nʉ̌ʊt͡s/", NOW(), NOW());
@@ -3607,7 +3429,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-robin-noun", "robin", "Cánh diều", "any of several small Old World birds having a red or reddish breast, especially Erithacus rubecula, of Europe.", "noun", "[kʰaŋ ˧ ʈiəw]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rob-verb", "rob", "đánh bọn", "to take something from (someone) by unlawful force or threat of violence; steal from.", "verb", "/dʒaː˧˦ ʔo͡ŋ/
 
-would be the phonetic spelling of "đánh bọn" in IPA.", NOW(), NOW());
+would be the phonetic spelling", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rock-noun", "rock", "Đá", "a large mass of stone forming a hill, cliff, promontory, or the like.", "noun", "đả /dza/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rock-noun", "rock", "đá", "a large mass of stone forming a hill, cliff, promontory, or the like.", "noun", "đá /ɗaˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rod-noun", "rod", "Cây gậy", "a stick, wand, staff, or the like, of wood, metal, or other material.", "noun", "/kæj ʁəj/", NOW(), NOW());
@@ -3630,14 +3452,10 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rub-verb", "rub", "Rung", "to subject the surface of (a thing or person) to pressure and friction, as in cleaning, smoothing, polishing, coating, massaging, or soothing", "verb", "/Rʊŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rudely-adjective", "rudely", "Cổng
 
-(NB: This translation is not perfect and may vary depending on context.)", "discourteous or impolite, especially in a deliberate way", "adjective", "kŋ̊ˀɞŋ", NOW(), NOW());
+(NB: This translation is not perfect an", "discourteous or impolite, especially in a deliberate way", "adjective", "kŋ̊ˀɞŋ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ruffle-verb", "ruffle", "đôg___
 
-(đôg is not a widely used term and it seems more suitable to use đểốg which means to rumple, crumple, or wrinkle in a similar way to ruffling)
-
-Alternatively, you could also use bông thổi (blow on flowers) but this one has a slightly different connotation.
-
-In some contexts, the verb "đôg" might be used to describe a specific action of smoothing out, arranging or preparing something.", "to destroy the smoothness or evenness of", "verb", "đểốg /ˀjɛ̌ʒó/", NOW(), NOW());
+(đôg is not a widely used term and it", "to destroy the smoothness or evenness of", "verb", "đểốg /ˀjɛ̌ʒó/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ruin-noun", "ruin", "Thất bại", "ruins, the remains of a building, city, etc., that has been destroyed or that is in disrepair or a state of decay", "noun", "/θát ʷbaᵻi/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rule-noun", "rule", "Quy tắc", "a principle or regulation governing conduct, action, procedure, arrangement, etc.", "noun", "/kʷi ˀtäk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-rule-noun", "rule", "quy tắc", "a principle or regulation governing conduct, action, procedure, arrangement, etc.", "noun", "kwıjək", NOW(), NOW());
@@ -3667,7 +3485,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-saunter-verb", "saunter", "Lười biếng", "to walk with a leisurely gait; stroll", "verb", "/lui̯i˧ˀ ŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-savage-adjective", "savage", "Tàn nhẫn", "fierce, ferocious, or cruel; untamed", "adjective", "/tǎn nʌn/
 
-Note: The tones and diacritics that distinguish Vietnamese words are not directly translatable to IPA but the above notation is widely used for Vietnamese loanwords and can be considered a phonetic approximation.", NOW(), NOW());
+Note: The tones and diacritics tha", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-save-verb", "save", "Lưu", "to rescue from danger or possible harm, injury, or loss", "verb", "[Lʉw]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-savor-noun", "savor", "Ngọt ngào", "the quality in a substance that affects the sense of taste or of smell.", "noun", "/[ŋɔəʔ] [ŋäːw]/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-savour-noun", "savour", "Mùi", "the quality in a substance that affects the sense of taste or of smell.", "noun", "/muːj/", NOW(), NOW());
@@ -3682,7 +3500,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scare-verb", "scare", "Sợ hãi", "to fill, especially suddenly, with fear or terror; frighten; alarm.", "verb", "/sʷə ˈhai̯/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scarf-noun", "scarf", "Mũ lưỡi trai", "a long, broad strip of wool, silk, lace, or other material worn about the neck, shoulders, or head, for ornament or protection against cold, drafts, etc.; muffler.", "noun", "/muː ˀlʷəj trai/
 
- Note: The notation above is based on the IPA transcription of the pronunciation as generally accepted by Vietnamese linguists and the International Organization for Standardization (ISO) for Vietnamese language, which uses a slightly modified version of the original system developed by Giuseppe Marcantonie in 1880s. However, please keep in mind that there can be variations across different regions, accents, and dialects within Vietnam and among its overseas communities.", NOW(), NOW());
+ Note: The notation above i", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scatter-verb", "scatter", "rà soát", "to throw loosely about; distribute at irregular intervals", "verb", "rǎ̉u sốt", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scene-noun", "scene", "Mô hình", "the place where some action or event occurs", "noun", "/mōiˀ ʋiɲ/
 
@@ -3690,7 +3508,7 @@ or alternatively
 
 /môy ɲĩm/
 
-both of which are correct romanization for the IPA pronunciation of Mô hình in Vietnamese.", NOW(), NOW());
+bot", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scent-noun", "scent", "Mùi", "a distinctive odor, especially when agreeable", "noun", "/muːj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-schedule-noun", "schedule", "Lịch", "a plan of procedure, usually written, for a proposed objective, especially with reference to the sequence of and time allotted for each item or operation necessary to its completion", "noun", "[Lǐch] /liʲc/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scheme-noun", "scheme", "Khung", "a plan, design, or program of action to be followed; project.", "noun", "/kuŋ/", NOW(), NOW());
@@ -3704,7 +3522,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scoot-verb", "scoot", "Đi xe máy", "to go swiftly or hastily; dart.", "verb", "đi xe máy /ʒi ͂ɛ məj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scorch-verb", "scorch", "Đốt cháy", "to affect the color, taste, etc., of by burning slightly", "verb", "đốt cháy /ʒɔt ʃa/
 
-( Đ is pronounced as a "zh" in this context, rather than a "d")", NOW(), NOW());
+( Đ is pronounced as a zh", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-score-noun", "score", "Điểm số", "the record of points or strokes made by the competitors in a game or match.", "noun", "đi əm sô /diə̯m sō/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scorn-noun", "scorn", "Bình luận không chê", "open or unqualified contempt; disdain", "noun", "/Biŋ kəw n̪ ʔ ŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scour-verb", "scour", "Khám phá", "to remove dirt, grease, etc., from or to cleanse or polish by hard rubbing, as with a rough or abrasive material", "verb", "/kʰäm ɓä/", NOW(), NOW());
@@ -3718,12 +3536,12 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-screw-noun", "screw", "Vít", "a metal fastener having a tapered shank with a helical thread, and topped with a slotted head, driven into wood or the like by rotating, especially by means of a screwdriver.", "noun", "/viˀt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-screw-noun", "screw", "Cây ốc vít", "a metal fastener having a tapered shank with a helical thread, and topped with a slotted head, driven into wood or the like by rotating, especially by means of a screwdriver.", "noun", "/cɐj ɔk ʷət/
 
-Note: The above IPA transcription is a phonetic representation of the actual pronunciation in Vietnamese as it's pronounced by native speakers.", NOW(), NOW());
+Note: The above IPA transcripti", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scribble-verb", "scribble", "Ghi chép", "to write hastily or carelessly", "verb", "/gʱi ͡ʃe̞pˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scribe-noun", "scribe", "Chú rập", "a person who serves as a professional copyist, especially one who made copies of manuscripts before the invention of printing.", "noun", "tʃú ʁáp", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scrub-verb", "scrub", "Rửa sạch", "to rub hard with a brush, cloth, etc., or against a rough surface in washing.", "verb", "xʉa ʂɐj", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scrunch-verb", "scrunch", "Đục gòm", "to crunch, crush, or crumple.", "verb", "/Dʒuk ɣəm/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scrutinise-verb", "scrutinise", "Kiểm tra cẩn thận", "to examine in detail with careful or critical attention.", "verb", "Kiem tra can sach is pronounced as /kiə̌m ʈäː ˀkãː sǎːɕ/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scrutinise-verb", "scrutinise", "Kiểm tra cẩn thận", "to examine in detail with careful or critical attention.", "verb", "Kiem tra can sach is pronounced as /kiə̌m ʈäː", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scrutinize-verb", "scrutinize", "Kiểm tra cẩn thận", "to examine in detail with careful or critical attention.", "verb", "kiểm.trə ˈkʌn ˈsɕaŋh", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scuff-verb", "scuff", "Làm xước", "to scrape (something) with one's foot or feet.", "verb", "/läm ʒuək/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-scurry-verb", "scurry", "Sợt", "to go or move quickly or in haste.", "verb", "/sɜt/", NOW(), NOW());
@@ -3744,7 +3562,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-seemingly-adjective", "seemingly", "Dường như", "apparent; appearing, whether truly or falsely, to be as specified", "adjective", "[duwŋ̊ lək]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-seem-verb", "seem", "Dường như", "to appear to be, feel, do, etc.", "verb", "/dʒûŋ kʷɛ/
 
-Note: The above transcription is based on a simplified and approximate representation of the Vietnamese pronunciation. IPA transcriptions can vary depending on the regional accent or dialect. This transcription represents a neutral or standard form, but actual pronunciations may differ.", NOW(), NOW());
+Note: The above transcription is ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-seep-verb", "seep", "lệch", "to pass, flow, or ooze gradually through a porous substance", "verb", "[lɛ̌c]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-seethe-verb", "seethe", "Bốc giận", "to surge or foam as if boiling.", "verb", "/bok ʲɛən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-see-verb", "see", "Xem", "to perceive with the eyes; look at.", "verb", "Xem /ʒəm/", NOW(), NOW());
@@ -3759,7 +3577,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 
 [ước] is /əw̰ok̚/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sense-noun", "sense", "Ý", "any of the faculties, as sight, hearing, smell, taste, or touch, by which humans and animals perceive stimuli originating from outside or inside the body", "noun", "/Y/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sentence-noun", "sentence", "Câu", "Grammar. a grammatical unit of one or more words that expresses an independent statement, question, request, command, exclamation, etc., and that typically has a subject as well as a predicate, as in John is here. or Is John here? In print or writing, a sentence typically begins with a capital letter and ends with appropriate punctuation; in speech it displays recognizable, communicative intonation patterns and is often marked by preceding and following pauses.", "noun", "/kau̇/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sentence-noun", "sentence", "Câu", "Grammar. a grammatical unit of one or more words that expresses an independent statement, question, request, command, exclamation, etc., and that typically has a subject as well as a predicate, as in John is here. or Is John here? In print or writing, a s", "noun", "/kau̇/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-separately-verb", "separately", "Cái riêng", "to keep apart or divide, as by an intervening barrier or space", "verb", "/kaːj sriəŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-separate-verb", "separate", "Cái riêng", "to keep apart or divide, as by an intervening barrier or space", "verb", "kǎi sərɛŋ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-serenade-noun", "serenade", "hương ca", "a complimentary performance of vocal or instrumental music in the open air at night, as by a lover under the window of his lady.", "noun", "hương ca /waŋ kəʔ/", NOW(), NOW());
@@ -3777,11 +3595,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-shake-verb", "shake", "Lắc", "to move or sway with short, quick, irregular vibratory movements.", "verb", "[læk]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-shakily-adjective", "shakily", "Nghiêng 
 
-( Nghĩa: Động từ nghĩa nghiêng, có thể dùng để miêu tả hành động, trạng thái... trong đó một hay nhiều phần của cơ thể có xu hướng nghiêng về một phía)
-
-Nghĩa (Tính từ): Nghiêng 
-
-(Hay nghiêng dốc)", "tending to shake or tremble.", "adjective", "/nǐŋˀ/
+( Nghĩa: Động từ nghĩa nghiêng, có ", "tending to shake or tremble.", "adjective", "/nǐŋˀ/
 
 /nǐŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-shamble-noun", "shamble", "lều ngủ", "shambles, ( with a singular or plural verb)any scene of destruction", "noun", "/ləʊ ŋûj/", NOW(), NOW());
@@ -3790,13 +3604,13 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-shape-noun", "shape", "Hình dạng", "the quality of a distinct object or body in having an external surface or outline of specific form or figure.", "noun", "[Hình ˌdæŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-share-noun", "share", "Sưu tầm", "the full or proper portion or part allotted or belonging to or contributed or owed by an individual or group.", "noun", "/ʂuː ʔəm/
 
- Note: This is a phonetic spelling in IPA format of the Vietnamese word "Sưu Tầm". The pronunciation may vary depending on regional accents.", NOW(), NOW());
+ Note: This is a phonetic spelling", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sharpen-verb", "sharpen", "Khắc nghiệt", "to make or become sharp or sharper.", "verb", "/ʃæk ɲə̌t/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sharply-adjective", "sharply", "Cứng rắn", "having a thin cutting edge or a fine point; well-adapted for cutting or piercing", "adjective", "/kəŋ̊ʐɑn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-shatter-verb", "shatter", "nứt gãy", "to break (something) into pieces, as by a blow.", "verb", "[nʷət ʁäj]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-shave-verb", "shave", "Rạch râu", "to remove a growth of beard with a razor.", "verb", "/ʁaːk ʁəw/
 
-Note: The glottal fricative /ʁ/ represents the distinctive sound of "Rạch" in Vietnamese language.", NOW(), NOW());
+Note: The glottal fricative /ʁ/ r", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-shear-verb", "shear", "Mổ", "to cut (something).", "verb", "mǒ /məw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sheathe-verb", "sheathe", "Trưng điên", "to put (a sword, dagger, etc.) into a sheath.", "verb", "/dʒiən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-shed-noun", "shed", "Bếp", "a slight or rude structure built for shelter, storage, etc.", "noun", "/bəp/", NOW(), NOW());
@@ -3824,26 +3638,16 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-shoulder-noun", "shoulder", "Cơ vai", "the part of each side of the body in humans, at the top of the trunk, extending from each side of the base of the neck to the region where the arm articulates with the trunk.", "noun", "/kơ̌ʷvɐj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-shout-verb", "shout", "Khóc lớn 
 
-(Note: Khóc là một từ đồng âm với "có thể có nghĩa khác" nhưng trong ngữ cảnh này thì nó được sử dụng như "đang khóc lớn", là cách nói chuyện thường ngày)
-
-Treo cao tay", "to call or cry out loudly and vigorously.", "verb", "/kʰə̌k lə͂w/", NOW(), NOW());
+(Note: Khóc là một từ đồng âm với ", "to call or cry out loudly and vigorously.", "verb", "/kʰə̌k lə͂w/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-shovel-noun", "shovel", "Cuốc đất", "an implement consisting of a broad blade or scoop attached to a long handle,  for taking up, removing, or throwing loose matter, as earth, snow, or coal.", "noun", "/kuʊk lɐt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-shove-verb", "shove", "đẩy", "to move along by force from behind; push.", "verb", "/dʒəˀ/
 
-Note: The "ă" in Vietnamese represents a vowel sound that is often spelled as "e" or "a" followed by an apostrophe, but its actual pronunciation is more like the schwa /ə/. In this case, it's a bit deeper and longer, represented here as əˀ.", NOW(), NOW());
+Note: The ă in Vietnamese represent", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-showcase-noun", "showcase", "Bảo tàng", "a glass case for the display and protection of articles in shops, museums, etc.", "noun", "Bảo tàng: [bwə˧˦ tæŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-shower-noun", "shower", "Bồn tắm", "a brief fall of rain or, sometimes, of hail or snow.", "noun", "/bʌn ˈtəmˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-show-verb", "show", "Chiếu phim 
 
-(Chiếu phim is a more literal translation of "show" in the context of films, but the common way to say "show" is just "chiếu")
-
-However, if you want the verb form which is closer to English meaning, it would be:
-
-Chiếu (in this case, it means to show something)
-
-or 
-
-Thể hiện", "to cause or allow to be seen; exhibit; display.", "verb", "/t͡ʃǐə̂ɲ/
+(Chiếu phim is a more literal tr", "to cause or allow to be seen; exhibit; display.", "verb", "/t͡ʃǐə̂ɲ/
 
 /thə̂j hɪə̂n/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-show-verb", "show", "Chất xám", "to cause or allow to be seen; exhibit; display.", "verb", "/xǎt̚ səm/", NOW(), NOW());
@@ -3858,7 +3662,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-shut-verb", "shut", "Khép", "to put (a door, cover, etc.) in position to close or obstruct.", "verb", "xɛp", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-shyly-adjective", "shyly", "Nhiệt ngây", "bashful; retiring.", "adjective", "/njɛʔ ŋaːj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sidestep-verb", "sidestep", "Giềng lùi", "to step to one side.", "verb", "/ziəŋ luːj/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sidewalk-noun", "sidewalk", "Bãi đỗ xe lề đường (informal), Cốt xá (formal)", "a walk, especially a paved one, at the side of a street or road.", "noun", "/bài ˈðø̄ ʒə̌/, /kôt ʒä/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sidewalk-noun", "sidewalk", "Bãi đỗ xe lề đường (informal), Cốt xá (formal", "a walk, especially a paved one, at the side of a street or road.", "noun", "/bài ˈðø̄ ʒə̌/, /kôt ʒä/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-side-noun", "side", "Bên", "one of the surfaces forming the outside of or bounding a thing, or one of the lines bounding a geometric figure.", "noun", "/bɛn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sidle-verb", "sidle", "Sanglồn", "to move sideways or obliquely.", "verb", "săŋlǒn /saŋ lǒn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sift-verb", "sift", "Lọc", "to separate and retain the coarse parts of (flour, ashes, etc.) with a sieve.", "verb", "/Lɛk/", NOW(), NOW());
@@ -3885,7 +3689,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-size-noun", "size", "Kích thước", "the spatial dimensions, proportions, magnitude, or bulk of anything", "noun", "kǐk tuŋ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sketch-noun", "sketch", "Vẽ phác thảo", "a simply or hastily executed drawing or painting, especially a preliminary one, giving the essential features without the details.", "noun", "/ʷe vĕ ɗaː/
 
-(assuming "phác" is pronounced as /ʷe/, "thảo" is pronounced as /ɗaː/ and the word order follows Vietnamese grammar rules)", NOW(), NOW());
+(assuming phác is pronounced a", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-skewer-noun", "skewer", "Gỏi", "a long pin of wood or metal for inserting through meat or other food to hold or bind it in cooking.", "noun", "/gəʊj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-skid-noun", "skid", "Đá văng", "a plank, bar, log, or the like, especially one of a pair, on which something heavy may be slid or rolled along.", "noun", "đả vang /ʈa˧˩ ŋʷ˦/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-skim-verb", "skim", "Lướt", "to take up or remove (floating matter) from the surface of a liquid, as with a spoon or ladle", "verb", "/lət/", NOW(), NOW());
@@ -3899,14 +3703,13 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slam-verb", "slam", "đánh giật", "to shut with force and noise", "verb", "đánh giật /ʔə̌̂ɗ ͂zǐ ət˧˦/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slander-noun", "slander", "Bôi nhọ", "defamation; calumny", "noun", "Bói nhọ is pronounced as /bwaj ɲə/
 
-(Note: The sound /nw/ in 'nh' is represented by /ŋw/, a velarized nasal, similar to the Scottish "an" or the English "ng" with a vowel-like quality. However, in some Vietnamese dialects, the pronunciation may slightly vary)", NOW(), NOW());
+(Note: Th", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slap-noun", "slap", "Đấm", "a sharp blow or smack, especially with the open hand or with something flat.", "noun", "[dʒəmʲ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slash-verb", "slash", "Cắt", "to cut with a violent sweeping stroke or by striking violently and at random, as with a knife or sword.", "verb", "kətʲ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slather-verb", "slather", "Tráng", "to spread or apply thickly", "verb", "/tʁaŋˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slave-noun", "slave", "Nô lệ", "a person who is the property of and wholly subject to another; a bond servant.", "noun", "/nɔʲˀ/
 
-or in a simpler form without using accent mark and combining tone marks
-/noʔ/", NOW(), NOW());
+or in a simpler form without using ac", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slay-verb", "slay", "đánh bại", "to kill by violence.", "verb", "đánh bại /dʒàɲ ˀba᷉i/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sleepily-adjective", "sleepily", "Ngọa núng", "ready or inclined to sleep; drowsy.", "adjective", "[n̻ŋwa ˀnuŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sleep-verb", "sleep", "Ngủ", "to take the rest afforded by a suspension of voluntary bodily functions and the natural suspension, complete or partial, of consciousness; cease being awake.", "verb", "/[ŋu]/", NOW(), NOW());
@@ -3915,10 +3718,10 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slice-noun", "slice", "Phần", "a thin, flat piece cut from something", "noun", "/phən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slick-adjective", "slick", "Tinh tế", "smooth and glossy; sleek.", "adjective", "/tǐŋ tɛ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slide-verb", "slide", "Di chuyển", "to move along in continuous contact with a smooth or slippery surface", "verb", "/diʲ ʃuəŋ/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sling-noun", "sling", "Đẩy súng", "a device for hurling stones or other missiles that consists, typically, of a short strap with a long string at each end and that is operated by placing the missile in the strap, and, holding the ends of the strings in one hand, whirling the instrument around in a circle and releasing one of the strings to discharge the missile.", "noun", "[Dʲə̌ʔ ʂo̞ŋ]", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sling-noun", "sling", "Đẩy súng", "a device for hurling stones or other missiles that consists, typically, of a short strap with a long string at each end and that is operated by placing the missile in the strap, and, holding the ends of the strings in one hand, whirling the instrument aro", "noun", "[Dʲə̌ʔ ʂo̞ŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slink-verb", "slink", "Suy sụp 
 
-(Note: This word might be uncommon in everyday conversation and is mostly used in specific contexts such as describing someone's movement.)", "to move or go in a furtive, abject manner, as from fear, cowardice, or shame.", "verb", "[suːj ʂúp]", NOW(), NOW());
+(Note: This word might be uncommon ", "to move or go in a furtive, abject manner, as from fear, cowardice, or shame.", "verb", "[suːj ʂúp]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slip-verb", "slip", "Lúng tính", "to move, flow, pass, or go smoothly or easily; glide; slide", "verb", "[Lʉŋŋ̊ tɨŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slip-verb", "slip", "rơi", "to move, flow, pass, or go smoothly or easily; glide; slide", "verb", "/riːʲj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slither-verb", "slither", "Di chuyển chậm rãi", "to slide down or along a surface, especially unsteadily, from side to side, or with some friction or noise", "verb", "[dǐ] [ʃwəŋ] [t͡ɕaːm] [ɕäːj]", NOW(), NOW());
@@ -3931,12 +3734,12 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slow-adjective", "slow", "Leec", "moving or proceeding with little or less than usual speed or velocity", "adjective", "/ʟɛk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slumber-verb", "slumber", "Nghỉ ngơi", "to sleep, especially lightly; doze; drowse.", "verb", "/næj ˈŋəj/
 
-Note: In IPA, 'Nghỉ' is pronounced as 'næj', with a diphthong that's closer to an open front unrounded vowel [æ] followed by the sound of 'y' in yes. The word is often used to refer to rest or sleep.", NOW(), NOW());
+Note: In IPA, 'Nghỉ' is pronounce", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slump-verb", "slump", "Lụi", "to drop or fall heavily; collapse", "verb", "/lɯj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slurp-verb", "slurp", "Khít", "to ingest (food or drink) with loud sucking noises", "verb", "Khít /kiət/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-slur-verb", "slur", "Bêu xấu", "to pass over lightly or without due mention or consideration (often followed by over)", "verb", "/ʙəw ʂɤ/
 
-Note: The 'ề' is pronounced like a schwa sound /ə/ in this context, and the tone mark for sắc (short high) is implied but not explicitly written in IPA.", NOW(), NOW());
+Note: The 'ề' is pronounced like a ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-smack-noun", "smack", "Đập", "a taste or flavor, especially a slight flavor distinctive or suggestive of something", "noun", "[tʰəp]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-smash-verb", "smash", "Đập vỡ", "to break to pieces with violence and often with a crashing sound, as by striking, letting fall, or dashing against something; shatter", "verb", "Đập vỡ /ʤəᵗ ˈvoh/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-smash-verb", "smash", "Tấn công", "to break to pieces with violence and often with a crashing sound, as by striking, letting fall, or dashing against something; shatter", "verb", "/tɜn kɔŋ/", NOW(), NOW());
@@ -3947,7 +3750,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-smile-verb", "smile", "Làm vẻ dại", "to assume a facial expression indicating pleasure, favor, or amusement, but sometimes derision or scorn, characterized by an upturning of the corners of the mouth.", "verb", "/lɐm vʷəj ˈdaj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-smirk-verb", "smirk", "Làm ngớ ngẩn", "to smile in an affected, smug, or offensively familiar way.", "verb", "/läm ŋərŋəj/
 
-(Thank you for the example, by the way!)", NOW(), NOW());
+(Thank you for the example, by ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-smite-verb", "smite", "Đánh trúng", "to strike or hit hard, with or as with the hand, a stick, or other weapon", "verb", "Đánh trúng is pronounced as /ʤǎːŋ ʈə̂ŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-smoke-noun", "smoke", "Khói", "the visible vapor and gases given off by a burning or smoldering substance, especially the gray, brown, or blackish mixture of gases and suspended carbon particles resulting from the combustion of wood, peat, coal, or other organic matter.", "noun", "/koʊj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-smoke-noun", "smoke", "Lửa", "the visible vapor and gases given off by a burning or smoldering substance, especially the gray, brown, or blackish mixture of gases and suspended carbon particles resulting from the combustion of wood, peat, coal, or other organic matter.", "noun", "Lửa /luəʲ/", NOW(), NOW());
@@ -3973,7 +3776,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sneer-verb", "sneer", "Làm gương mặt xấu, cười nhạo", "to smile, laugh, or contort the face in a manner that shows scorn or contempt", "verb", "/laːm ʁɡ̊uəŋ mæt ʂaˀw/, kʷiẻw ɲãːk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sneeze-verb", "sneeze", "Hắt hơi", "to emit air or breath suddenly, forcibly, and audibly through the nose and mouth by involuntary, spasmodic action.", "verb", "/hǎːt əjˀ/
 
-Note: The IPA transcription is based on standard pronunciation and may vary depending on regional accents or individual variations within Vietnamese language.", NOW(), NOW());
+Note: The IPA transcription is ba", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sneeze-verb", "sneeze", "Tống mồ hôi", "to emit air or breath suddenly, forcibly, and audibly through the nose and mouth by involuntary, spasmodic action.", "verb", "/təŋməwaj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-snicker-verb", "snicker", "Làm nhún tay", "to laugh in a half-suppressed, indecorous or disrespectful manner.", "verb", "/lǎm njun tæj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sniffle-verb", "sniffle", "Khảch", "to sniff repeatedly, as from a head cold or in repressing tears", "verb", "/kʰaʲc/", NOW(), NOW());
@@ -3997,27 +3800,25 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-soap-noun", "soap", "Xà phòng", "a substance  for washing and cleansing purposes, usually made by treating a fat with an alkali, as sodium or potassium hydroxide, and consisting chiefly of the sodium or potassium salts of the acids contained in the fat.", "noun", "xaʊ̃̆ŋ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sober-adjective", "sober", "Trộm", "not intoxicated or drunk.", "adjective", "/tʷɜm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sob-verb", "sob", "Khóc", "to weep with a convulsive catching of the breath.", "verb", "/kʷok̚/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-socialise-verb", "socialise", "Xây dựng quan hệ", "to make social; make fit for life in companionship with others.", "verb", "xǎi đứng quần hình /zaɪ̯ ˈdʒɪŋ kwân ʝiə̯̃/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-socialise-verb", "socialise", "Xây dựng quan hệ", "to make social; make fit for life in companionship with others.", "verb", "xǎi đứng quần hình /zaɪ̯ ˈdʒɪŋ kwân ʝiə̯̃", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-socialize-verb", "socialize", "Xã hội hóa", "to make social; make fit for life in companionship with others.", "verb", "/sɐˀj hwaː/
 
 or
 
 /sɐʔ j hwaː/
 
-Note: In Vietnamese phonology, /h/ is often realized as a glottal stop (/ʔ/) before a vowel sound. The stress on the first syllable "sɐ" (the letter "s" with a diacritic mark above it) can vary depending on the regional accent and dialect.", NOW(), NOW());
+Note: In Vietn", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-social-adjective", "social", "Xã hội", "relating to, devoted to, or characterized by friendly companionship or relations", "adjective", "/sjaˀ hiːwˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-society-noun", "society", "xã hội", "an organized group of persons associated together for religious, benevolent, cultural, scientific, political, patriotic, or other purposes.", "noun", "/sjaʊ̯ hi ˀ/
 
-or alternatively, and more accurately according to some sources:
-
-/ʂaɛ̌w hī/", NOW(), NOW());
+or alternatively, and more accu", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sock-noun", "sock", "Võng tích", "a short stocking usually reaching to the calf or just above the ankle.", "noun", "[Vəŋk̦ ʲik]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-soda-noun", "soda", "Nước ngọt", "sodium hydroxide.", "noun", "/nʷok ŋɛj/
 
-Note: This is the IPA transcription for the pronunciation of "Nước ngọt" in standard Vietnamese.", NOW(), NOW());
+Note: This is the IPA transcripti", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sofa-noun", "sofa", "Ghế臥atoi", "a long, upholstered couch with a back and two arms or raised ends.", "noun", "/Gʲə̉ ʔaːw ɕæi/
 
-Note: IPA phonetic spelling can vary across dialects and regional accents. The above transcription is based on the Standard Vietnamese (Viết Chánh) pronunciation.", NOW(), NOW());
+Note: IPA phonetic spelling ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-soften-verb", "soften", "Làm mềm", "to make soft or softer.", "verb", "/läm məm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-softly-adjective", "softly", "Yếu ớt", "yielding readily to touch or pressure; easily penetrated, divided, or changed in shape; not hard or stiff", "adjective", "[yək̚ ʔɗ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-solemnly-adjective", "solemnly", "Tâm thành", "grave, sober, or mirthless, as a person, the face, speech, tone, or mood", "adjective", "[Tʰäm ˧˦ thəːŋ]", NOW(), NOW());
@@ -4025,7 +3826,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-solve-verb", "solve", "Giải", "to find the answer or explanation for; clear up; explain", "verb", "/dʒɪəj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-somersault-noun", "somersault", "Võng ngựa", "an acrobatic movement, either forward or backward, in which the body rolls end over end, making a complete revolution.", "noun", "/vǒŋ ŋə̌/
 
-(Note: Some sources may transcribe the Vietnamese language using the romanization of Ngô, instead of Võng)", NOW(), NOW());
+(Note: Some sources may transcribe", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sometimes-adverb", "sometimes", "Thỉnh thoảng", "on some occasions; at times; now and then.", "adverb", "Thỉnh thoảng /θǐŋ θǒːŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-songs-noun", "songs", "Cây ghita", "a short metrical composition intended or adapted for singing, especially one in rhymed stanzas; a lyric; a ballad.", "noun", "/kaːj ʝǐta/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-song-noun", "song", "Cái nhạc", "a short metrical composition intended or adapted for singing, especially one in rhymed stanzas; a lyric; a ballad.", "noun", "Kǎi nhạc /kāj ɲakʷ/", NOW(), NOW());
@@ -4065,7 +3866,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-spit-verb", "spit", "Hắt", "to eject saliva from the mouth; expectorate.", "verb", "/Hǎt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-splash-verb", "splash", "Splashing", "to wet or soil by dashing masses or particles of water, mud, or the like; spatter", "verb", "/T͡sɓaŋ/
 
-Would you like me to elaborate on how this IPA transcription was created?", NOW(), NOW());
+Would you like me to elaborate on h", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-splay-verb", "splay", "Lộn xộn", "to spread out, expand, or extend.", "verb", "/lɞ͂n ˀsʊən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-splinter-noun", "splinter", "Gai nhầy", "a small, thin, sharp piece of wood, bone, or the like, split or broken off from the main body.", "noun", "/gaɪ̯ nəjˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-split-verb", "split", "Cắt", "to divide or separate from end to end or into layers", "verb", "[dʒɛt]", NOW(), NOW());
@@ -4076,9 +3877,7 @@ Làm hỏng
 Tàn tật 
 Ngộ độc", "to damage severely or harm (something), especially with reference to its excellence, value, usefulness, etc.", "verb", "/läm̚ ˈhəŋ/
 
-/läm̚/ is a diphthong that indicates a change from 'a' to 'e' in Vietnamese pronunciation.
-
-The pronunciation of the word "Spoil" in English is /spoɪl/.", NOW(), NOW());
+/läm̚/ is a diphthong that indic", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sponge-noun", "sponge", "Rổ", "any aquatic, chiefly marine animal of the phylum Porifera, having a porous structure and usually a horny, siliceous or calcareous internal skeleton or framework, occurring in large, sessile colonies.", "noun", "/rɔˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-spoon-noun", "spoon", "Thì ăn", "a utensil for use in eating, stirring, measuring, ladling, etc., consisting of a small, shallow bowl with a handle.", "noun", "Thì ăn /ʈə̌j ʔænˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-spot-noun", "spot", "Điểm", "a rounded mark or stain made by foreign matter, as mud, blood, paint, ink, etc.; a blot or speck.", "noun", "[djɪm]", NOW(), NOW());
@@ -4087,7 +3886,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-spray-noun", "spray", "Máy phun sương", "water or other liquid broken up into minute droplets and blown, ejected into, or falling through the air.", "noun", "[məj fʊŋ ʂaŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-spread-verb", "spread", "Phân 
 
-(Xem từ này trong Từ điển tiếng Việt online: https://tiengviet.net/ho-so-tu-cua/danh-sach/tu-phun.html)", "to draw, stretch, or open out, especially over a flat surface, as something rolled or folded (often followed by out).", "verb", "/ʔɗɪən/", NOW(), NOW());
+(Xem từ này trong Từ điển tiếng Việt o", "to draw, stretch, or open out, especially over a flat surface, as something rolled or folded (often followed by out).", "verb", "/ʔɗɪən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-spring-verb", "spring", "Xuân", "to rise, leap, move, or act suddenly and swiftly, as by a sudden dart or thrust forward or outward, or being suddenly released from a coiled or constrained position", "verb", "xʷən", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-spring-verb", "spring", "Xuân", "to rise, leap, move, or act suddenly and swiftly, as by a sudden dart or thrust forward or outward, or being suddenly released from a coiled or constrained position", "verb", "xʷən", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sprinkle-verb", "sprinkle", "Rắc", "to scatter (a liquid, powder, etc.) in drops or particles", "verb", "/Ræk/", NOW(), NOW());
@@ -4096,7 +3895,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-spurn-verb", "spurn", "đánh giá thấp; từ chối", "to reject with disdain; scorn.", "verb", "/dʒâːj ɟæˀ/
 /tu̇s ʂi/
 
-Note: In IPA, a period is used to indicate that the sound or syllable ends with a slight pause. In this case, I've included two separate phonetic spellings for each word.", NOW(), NOW());
+Note: In IPA, a period", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-spur-noun", "spur", "Mũi nhọn", "a U -shaped device that slips over and straps to the heel of a boot and has a blunt, pointed, or roweled projection at the back for use by a mounted rider to urge a horse forward.", "noun", "/mui ʔŋən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sputter-verb", "sputter", "Rung rát", "to make explosive popping or sizzling sounds.", "verb", "/rʌŋ ˈrɐt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-spy-noun", "spy", "Tình báo", "a person employed by a government to obtain secret information or intelligence about another, usually hostile, country, especially with reference to military or naval affairs.", "noun", "/tɪŋ ʔəɓ/", NOW(), NOW());
@@ -4121,7 +3920,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stack-noun", "stack", "Súng đạn", "a more or less orderly pile or heap", "noun", "/sʉŋ ʔɗän/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stage-noun", "stage", "Bану cờ", "a single step or degree in a process; a particular phase, period, position, etc., in a process, development, or series.", "noun", "Bánu cờ /ba˧ŋ ʔəˀ/
 
-Note: In IPA, the diacritic marks represent different vowel pronunciations in Vietnamese. The '˧' indicates a mid tone, and the 'ˀ' represents a creaky or falling tone on the unstressed syllable "cờ".", NOW(), NOW());
+Note: In IPA, the diacrit", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stagger-verb", "stagger", "Lắc lư", "to walk, move, or stand unsteadily.", "verb", "[lak lu]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stain-noun", "stain", "Đốm", "a discoloration produced by foreign matter having penetrated into or chemically reacted with a material; a spot not easily removed.", "noun", "đốm /ʤəmˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stalk-noun", "stalk", "Thân", "the stem or main axis of a plant.", "noun", "/ʈən/", NOW(), NOW());
@@ -4134,7 +3933,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-startle-verb", "startle", "Đột ngộ", "to disturb or agitate suddenly as by surprise or alarm.", "verb", "/dʊt ˀŋəw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-start-verb", "start", "Bắt đầu", "to begin or set out, as on a journey or activity.", "verb", "/bət đäʊ/
 
-( note: IPA symbols used are as follows: /b/ - voiced bilabial plosive; ə - schwa; t - alveolar plosive; đ - alveolo-palatal fricative)", NOW(), NOW());
+( note: IPA symbols used are as fo", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-start-verb", "start", "Bắt đầu", "to begin or set out, as on a journey or activity.", "verb", "/bệt đàu̇/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-star-noun", "star", "Sao", "any of the heavenly bodies, except the moon, appearing as fixed luminous points in the sky at night.", "noun", "sao /zaw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stash-verb", "stash", "Lấp đầy", "to put by or away as for safekeeping or future use, usually in a secret place (usually followed by away)", "verb", "/ləp ˧˩ dʌj/", NOW(), NOW());
@@ -4149,12 +3948,8 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-steal-verb", "steal", "Cắp", "to take (the property of another or others) without permission or right, especially secretly or by force", "verb", "/kʰăːp/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-steam-noun", "steam", "Nhiệt hơi", "water in the form of an invisible gas or vapor.", "noun", "Nhiệt hơi /nʰiə̌t ˀɛjˮ/
 
-Note: The Vietnamese language uses a variety of diacritical marks that are not directly translatable to the IPA. In this representation, the diacritic marks have been simplified for clarity.
-
-* ư is represented as 'ə̌'
-* ệ is represented as 'iə̌' and also includes a tone mark which is denoted by the superscripted symbol {ˀ}
-* The tone of the word can be described as level (no rise or fall) but in IPA it's typically written with the diacritic marks to indicate the pitch of each syllable.", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-steel-noun", "steel", "Thép", "any of various modified forms of iron, artificially produced, having a carbon content less than that of pig iron and more than that of wrought iron, and having qualities of hardness, elasticity, and strength varying according to composition and heat treatment", "noun", "/ʈiəp/", NOW(), NOW());
+Note: The Vietnamese", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-steel-noun", "steel", "Thép", "any of various modified forms of iron, artificially produced, having a carbon content less than that of pig iron and more than that of wrought iron, and having qualities of hardness, elasticity, and strength varying according to composition and heat treat", "noun", "/ʈiəp/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-steeple-noun", "steeple", "Tháp giáo đường", "an ornamental construction, usually ending in a spire, erected on a roof or tower of a church, public building, etc.", "noun", "[tʰaːw ʑaj ɗəwŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-steer-verb", "steer", "Đưa bò", "to guide the course of (something in motion) by a rudder, helm, wheel, etc.", "verb", "[dʒuə̯ ʊ ʷ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stem-noun", "stem", "Cơ", "the ascending axis of a plant, whether above or below ground, which ordinarily grows in an opposite direction to the root or descending axis.", "noun", "/kə˧˦/", NOW(), NOW());
@@ -4165,7 +3960,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sticks-noun", "sticks", "Cây gậy", "a branch or shoot of a tree or shrub that has been cut or broken off.", "noun", "/käj ʈaj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stick-noun", "stick", "Cây đinh", "a branch or shoot of a tree or shrub that has been cut or broken off.", "noun", "/dʒiŋ/
 
-Note: The above is a single-syllable representation as the word "Cây" is not typically pronounced and usually only "đinh" is what you hear.", NOW(), NOW());
+Note: The above is a single-syllable ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stick-noun", "stick", "Cây đinh", "a branch or shoot of a tree or shrub that has been cut or broken off.", "noun", "[Cəj ʔiŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stiffen-verb", "stiffen", "Cứng lên", "to make stiff.", "verb", "CỨNG LÊN /kʌŋ lən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stifle-verb", "stifle", "Kiềm chế", "to quell, crush, or end by force", "verb", "/kʷiə̯m t͡ʃe/", NOW(), NOW());
@@ -4186,7 +3981,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stone-noun", "stone", "Đá", "the hard substance, formed of mineral matter, of which rocks consist.", "noun", "[d͡ʒə]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stoop-verb", "stoop", "Đầu gối", "to bend the head and shoulders, or the body generally, forward and downward from an erect position", "verb", "[dʒɐw əj]
 
-pronounced as "jaw ee"", NOW(), NOW());
+pronounced as jaw ee", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stop-verb", "stop", "Dừng", "to cease from, leave off, or discontinue", "verb", "/dzʷəŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stop-verb", "stop", "Dừng", "to cease from, leave off, or discontinue", "verb", "[dʒǥŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-store-noun", "store", "Cửa hàng", "an establishment where merchandise is sold, usually on a retail basis.", "noun", "/kuə̯ ʁaŋ/", NOW(), NOW());
@@ -4200,19 +3995,13 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 
 No... /lam sək/
 
- Correct one: /lam ˧sək/", NOW(), NOW());
+ Correct one: /l", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-strain-verb", "strain", "đứt", "to draw tight or taut, especially to the utmost tension; stretch to the full", "verb", "đứt /ʤɯ̂ˀt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stranger-noun", "stranger", "Bà Ngoại", "a person with whom one has had no personal acquaintance", "noun", "/baː ɲȯi/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-strangle-verb", "strangle", "Giết chết người mà không để lại dấu hiệu tội ác.", "to kill by squeezing the throat in order to compress the windpipe and prevent the intake of air, as with the hands or a tightly drawn cord.", "verb", "giết /ʒɪət/  
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-strangle-verb", "strangle", "Giết chết người mà không để lại dấu hiệu tội ", "to kill by squeezing the throat in order to compress the windpipe and prevent the intake of air, as with the hands or a tightly drawn cord.", "verb", "giết /ʒɪət/  
 chết /tʃɛ̌t/  
 người /ŋɯəj/  
-mà /mä/  
-không /kǒŋ/  
-lại /lɐi/  
-dấu /zâw˧/  
-hiệu /ʔiəw˧/  
-tội /tôi/  
-ác /aʔ/", NOW(), NOW());
+m", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-strap-noun", "strap", "Cái dây", "a narrow strip of flexible material, especially leather, as for fastening or holding things together.", "noun", "/Kaɪ ˈðæj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-straw-noun", "straw", "Bông troc", "a single stalk or stem, especially of certain species of grain, chiefly wheat, rye, oats, and barley.", "noun", "/bɔŋ ʔtɕok/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stray-verb", "stray", "Vứt vểnh", "to deviate from the direct course, leave the proper place, or go beyond the proper limits, especially without a fixed course or purpose; ramble", "verb", "/Vʷək ʷɛŋ/", NOW(), NOW());
@@ -4239,7 +4028,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 
 or alternatively:
 
-/kǒn dṏ̂t kwa̠ŋ/", NOW(), NOW());
+/kǒn dṏ̂", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stroll-verb", "stroll", "Lướt", "to walk leisurely as inclination directs; ramble; saunter; take a walk", "verb", "/lʷət/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-structure-noun", "structure", "Cấu trúc", "mode of building, construction, or organization; arrangement of parts, elements, or constituents", "noun", "/kʷak ˈʃuk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-structure-noun", "structure", "Cấu trúc", "mode of building, construction, or organization; arrangement of parts, elements, or constituents", "noun", "/kəʊ ˌtʁuk/", NOW(), NOW());
@@ -4250,9 +4039,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 
 becomes /ŋǐɛŋ kuə/
 
-corrected version is:
-
-/ŋǐɛ̃ kû:/", NOW(), NOW());
+corrected vers", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stuff-noun", "stuff", "Vật dụng", "the material of which anything is made", "noun", "/ʷət ɗûŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-stumble-verb", "stumble", "Lắc đầu", "to strike the foot against something, as in walking or running, so as to stagger or fall; trip.", "verb", "/Lɐk əʊ/
 
@@ -4268,7 +4055,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-subside-verb", "subside", "Giảm xuống", "to sink to a low or lower level.", "verb", "Gǐam xʷɗɔw", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-substance-noun", "substance", "Vật chất", "that of which a thing consists; physical matter or material", "noun", "[Vʊə̌t ʈäː]
 
-Note: I used the official IPA transcription of Vietnamese language as per this reference https://en.wikipedia.org/wiki/Vietnamese_language#Orthography_and_pronunciation", NOW(), NOW());
+Note: I used the official IPA tr", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-subtract-verb", "subtract", "Trừ", "to withdraw or take away, as a part from a whole.", "verb", "/trə̌/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-succeed-verb", "succeed", "Thành công", "to happen or terminate according to desire; turn out successfully; have the desired result", "verb", "/θän˧ŋ kɔŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-successfully-adjective", "successfully", "Thành công", "achieving or having achieved success.", "adjective", "Thành công /θæŋ ʰkɞŋ/", NOW(), NOW());
@@ -4318,14 +4105,14 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-susurrate-verb", "susurrate", "Lẩm nhảm", "(intransitive) (literary) to make a soft rustling sound; whisper; murmur", "verb", "/Läm ʔnhäm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-swab-noun", "swab", "Cái chà
 
-(Also known as "cây chà" in some dialects)", "a large mop  on shipboard for cleaning decks, living quarters, etc.", "noun", "/kʰaɪ̌ ãːˀ/", NOW(), NOW());
+(Also known as cây chà in some dia", "a large mop  on shipboard for cleaning decks, living quarters, etc.", "noun", "/kʰaɪ̌ ãːˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-swagger-verb", "swagger", "Tự hào", "to walk or strut with a defiant or insolent air.", "verb", "[Tʰɯ̄ ʊəʌ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-swallow-verb", "swallow", "Chui", "to take into the stomach by drawing through the throat and esophagus with a voluntary muscular action, as food, drink, or other substances.", "verb", "/ʈuːj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-swat-verb", "swat", "Đập bông", "to hit; slap; smack.", "verb", "[dæp ʔɓɔŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sway-verb", "sway", "Lắc", "to move or swing to and fro, as something fixed at one end or resting on a support.", "verb", "/lak/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-swear-verb", "swear", "Trúng 
 
-(Note: Be aware that using this word in polite conversation is generally frowned upon.)", "to make a solemn declaration or affirmation by some sacred being or object, as a deity or the Bible.", "verb", "/Tʁûŋ/", NOW(), NOW());
+(Note: Be aware that using this word ", "to make a solemn declaration or affirmation by some sacred being or object, as a deity or the Bible.", "verb", "/Tʁûŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sweater-noun", "sweater", "Quần áo vải lụa", "a knitted jacket or jersey, in pullover or cardigan style, with or without sleeves.", "noun", "kwən ʔaw jaj lɯa", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sweat-verb", "sweat", "Độ ẩm", "to perspire, especially freely or profusely.", "verb", "/dʒə ʁæm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sweep-verb", "sweep", "Làm sạch", "to move or remove (dust, dirt, etc.) with or as if with a broom, brush, or the like.", "verb", "/lam ʂə/
@@ -4351,10 +4138,10 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sympathetically-adjective", "sympathetically", "Dày dặn", "characterized by, proceeding from, exhibiting, or feeling sympathy; sympathizing; compassionate", "adjective", "[dàj ˧˦ də̀k]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sympathise-verb", "sympathise", "Tôn trọng (tôn)", "to be in sympathy or agreement of feeling; share in a feeling (often followed by with).", "verb", "/tʰɜn ʈɜŋ/
 
-I hope that's what you were looking for!", NOW(), NOW());
+I hope that's what you were looki", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-sympathize-verb", "sympathize", "Chia sẻ cảm xúc", "to be in sympathy or agreement of feeling; share in a feeling (often followed by with).", "verb", "/tʃía Ểã kəm ʊk/
 
-This phonetic spelling represents the correct pronunciation of "Chia sẻ cảm xúc" in Vietnamese, using IPA transcription rules.", NOW(), NOW());
+This phonetic spelling rep", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-systemize-verb", "systemize", "Hoán thiên hệ thống", "systematize.", "verb", "/hoän tiən həm tʰɯʊŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-system-noun", "system", "Hệ thống", "an assemblage or combination of things or parts forming a complex or unitary whole", "noun", "/hệt həm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-table-noun", "table", "Bàn phím", "an article of furniture consisting of a flat, slablike top supported on one or more legs or other supports", "noun", "/ban ʔəm/", NOW(), NOW());
@@ -4382,7 +4169,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-teaching-noun", "teaching", "Giáo dục", "the act or profession of a person who teaches.", "noun", "giáo dục /ʒɓût/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-teach-verb", "teach", "Giáo dục", "to impart knowledge of or skill in; give instruction in", "verb", "gǐo ʊk 
 
-(Note: The Vietnamese language is a tonal language and does not use diacritical marks to indicate tones in this spelling system, however the above pronunciation reflects the most commonly accepted intonation of the word)", NOW(), NOW());
+(Note: The Vietnamese language is a ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-team-noun", "team", "Đội", "a number of persons forming one of the sides in a game or contest", "noun", "[dʲø̂i]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tear-noun", "tear", "Lá thừng", "a drop of the saline, watery fluid continually secreted by the lacrimal glands between the surface of the eye and the eyelid, serving to moisten and lubricate these parts and keep them clear of foreign particles.Synonyms", "noun", "/Làː ʈəŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tease-verb", "tease", "Khen trách", "to irritate or provoke with persistent petty distractions, trifling raillery, or other annoyance, often in sport.", "verb", "/xən ˀʈɜːk/", NOW(), NOW());
@@ -4395,24 +4182,24 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 (trong dạng tự nhiên hoặc tâm thần)", "a particular state of mind or feelings.", "noun", "/næŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-temper-noun", "temper", "Năng lượng", "a particular state of mind or feelings.", "noun", "/næŋ ʷ ɲûŋ/
 
-(Note: In IPA transcription, "ʷ" indicates a syllable-initial "ng" sound and "ɲ" represents an alveolar nasal before the "u".)", NOW(), NOW());
+(Note: In IPA transcription, ʷ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tempt-verb", "tempt", "Động viên", "to entice or allure to do something often regarded as unwise, wrong, or immoral.", "verb", "[dʒəŋ vjên]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tendency-noun", "tendency", "Động tĩnh", "a natural or prevailing disposition to move, proceed, or act in some direction or toward some point, end, or result", "noun", "[dʒɗɜŋ̊ zɪ̃ŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tenderly-adjective", "tenderly", "Tender", "soft or delicate in substance; not hard or tough", "adjective", "Tender (/təndər/)", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tend-verb", "tend", "Đóng cửa", "to be disposed or inclined in action, operation, or effect to do something", "verb", "/dʒəŋ wjɗ/
 
-(Note: The IPA transcription may vary slightly depending on the regional pronunciation of Vietnamese.)", NOW(), NOW());
+(Note: The IPA transcription may ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tensely-adjective", "tensely", "Căng thẳng", "stretched tight, as a cord, fiber, etc.; drawn taut; rigid.", "adjective", "/kǎŋ ʃṫaŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tense-adjective", "tense", "Tiến
 
 (adjective)
 
-Note: Tiến has multiple meanings in Vietnamese but here it translates to "tense" when referring to grammar.", "stretched tight, as a cord, fiber, etc.; drawn taut; rigid.", "adjective", "/tiɛ̃n/", NOW(), NOW());
+Note: Tiến has multiple me", "stretched tight, as a cord, fiber, etc.; drawn taut; rigid.", "adjective", "/tiɛ̃n/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tent-noun", "tent", "Bếp lề", "a portable shelter of skins, canvas, plastic, or the like, supported by one or more poles or a frame and often secured by ropes fastened to pegs in the ground.", "noun", "/bə̌p lə̆/
 
 becomes /bəp ˈlə/
 
-Note: In Vietnamese language, the tone mark "á" is indicated by an acute accent on top of the letter (á), which represents a falling-rising tone. The phonetic spelling in IPA reflects this with a slight change in vowel quality and pitch, denoted as "ˈ".", NOW(), NOW());
+Note: In Vietn", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-terribly-adverb", "terribly", "Khủng khiếp", "in a terrible manner.", "adverb", "kʉŋ kǐəp", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-terrify-verb", "terrify", "Đánh sợ", "to fill with terror or alarm; make greatly afraid.", "verb", "Đánh sợ /ʤəː̃ ʂoˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-territory-noun", "territory", "Vùng đất", "any tract of land; region or district.", "noun", "[Vʉŋtət]", NOW(), NOW());
@@ -4437,24 +4224,20 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-thread-noun", "thread", "Dây chuyền", "a fine cord of flax, cotton, or other fibrous material spun out to considerable length, especially when composed of two or more filaments twisted together.", "noun", "/dəj ʈəwən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-threaten-verb", "threaten", "Xin đe dọa", "to utter a threat against; menace", "verb", "xǐn ʈəw əwəj", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-thrill-verb", "thrill", "Sảng", "to affect with a sudden wave of keen emotion or excitement, as to produce a tremor or tingling sensation through the body.", "verb", "Sàng /sãːŋ/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-thrive-verb", "thrive", "Thrive", "to prosper; be fortunate or successful.", "verb", "Thrive is not a Vietnamese word. However, I assume you are referring to the English word "thrive" which means to grow or develop well.
-
-The phonetic spelling of this English word in IPA is: /θraɪv/
-
-Note that "Thrive" is an international term adopted by Vietnamese people and the word itself is not native to Vietnam.", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-thrive-verb", "thrive", "Thrive", "to prosper; be fortunate or successful.", "verb", "Thrive is not a Vietnamese word. However, I a", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-throat-noun", "throat", "Họng", "the passage from the mouth to the stomach or to the lungs, including the pharynx, esophagus, larynx, and trachea.", "noun", "/[əŋ]/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-throne-noun", "throne", "Ngai", "the chair or seat occupied by a sovereign, bishop, or other exalted personage on ceremonial occasions, usually raised on a dais and covered with a canopy.", "noun", "[ŋaj]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-throttle-noun", "throttle", "Cầu phanh", "Also called throttle lever. a lever, pedal, handle, etc., for controlling or manipulating a throttle valve.", "noun", "/kəʊ˨ˀ fæŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-throw-verb", "throw", "Vứt", "to propel or cast in any way, especially to project or propel from the hand by a sudden forward motion or straightening of the arm and wrist", "verb", "/vʷət/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-thrust-verb", "thrust", "Căng
 
-Note: This is the most common and widely used term in Vietnamese to refer to the verb "to thrust" with a sense of pushing or driving something forward with force. However, in some contexts or regions, other words such as "đẩy" (push) might also be used with similar meaning.", "to push forcibly; shove; put or drive with force", "verb", "kəŋˀ", NOW(), NOW());
+Note: This is the most common and widel", "to push forcibly; shove; put or drive with force", "verb", "kəŋˀ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-thumb-noun", "thumb", "Ngón trỏ", "the short, thick, inner digit of the human hand, next to the forefinger.", "noun", "ŋɔ̃ʔ təw", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-thumb-noun", "thumb", "Dắt tay", "the short, thick, inner digit of the human hand, next to the forefinger.", "noun", "[dɛ̂t ʈäj]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-thump-noun", "thump", "Đấm mạnh", "a blow with something thick and heavy, producing a dull sound; a heavy knock.", "noun", "/dʒǎmˀ nhãːŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-thunder-noun", "thunder", "đèn bão", "a loud, explosive, resounding noise produced by the explosive expansion of air heated by a lightning discharge.", "noun", "đèn bão /ʒeŋ ˈbaːw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-thunder-noun", "thunder", "Sấm", "a loud, explosive, resounding noise produced by the explosive expansion of air heated by a lightning discharge.", "noun", "/säm/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-thwack-verb", "thwack", "Đánh một cú mạnh, mạnh mẽ, hoặc rất nhanh và mạnh.", "to strike or beat vigorously with something flat; whack.", "verb", "/Dʒaŋ mût ku̇ŋ maŋh/, mâŋh mẽ̉, vời rịt nhạc và mâŋh.", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-thwack-verb", "thwack", "Đánh một cú mạnh, mạnh mẽ, hoặc rất nhanh và ", "to strike or beat vigorously with something flat; whack.", "verb", "/Dʒaŋ mût ku̇ŋ maŋh/, mâŋh mẽ̉, vời rịt nha", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ticket-noun", "ticket", "vé", "a slip, usually of paper or cardboard, serving as evidence that the holder has paid a fare or admission or is entitled to some service, right, or the like", "noun", "[vɛ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tickle-verb", "tickle", "Làm bẩn", "to touch or stroke lightly with the fingers, a feather, etc., so as to excite a tingling or itching sensation in; titillate.", "verb", "/läm bàrn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tick-noun", "tick", "Côn", "a slight, sharp, recurring click, tap, or beat, as of a clock.", "noun", "/kʊŋ/", NOW(), NOW());
@@ -4483,12 +4266,12 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-toe-noun", "toe", "Đũ̃", "one of the terminal digits of the human foot.", "noun", "/zuːn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-toil-noun", "toil", "Lao động", "hard and continuous work; exhausting labor or effort.", "noun", "/lɐw ʔðaŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tolerate-verb", "tolerate", "Chịu đựng", "to allow the existence, presence, practice, or act of without prohibition or hindrance; permit.", "verb", "tʃǐʊ ðǵïŋ", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tomatoes-noun", "tomatoes", "Cà chua", "any of several plants belonging to the genus Lycopersicon, of the nightshade family, native to Mexico and Central and South America, especially the widely cultivated species L. lycopersicum, bearing a mildly acid, pulpy, usually red fruit eaten raw or cooked as a vegetable.", "noun", "/səː ʈua/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tomatoes-noun", "tomatoes", "Cà chua", "any of several plants belonging to the genus Lycopersicon, of the nightshade family, native to Mexico and Central and South America, especially the widely cultivated species L. lycopersicum, bearing a mildly acid, pulpy, usually red fruit eaten raw or coo", "noun", "/səː ʈua/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tomorrow-noun", "tomorrow", "Ngày mai", "the day following today", "noun", "ndəj mɐi", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tongue-noun", "tongue", "Lưỡi", "Anatomy. the usually movable organ in the floor of the mouth in humans and most vertebrates, functioning in eating, in tasting, and, in humans, in speaking.", "noun", "/lɪj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-toothbrush-noun", "toothbrush", "Đũa đánh răng", "a small brush with a long handle, for cleaning the teeth.", "noun", "ŋừa đấy nhận", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-toothpaste-noun", "toothpaste", "Dầu đánh răng", "a dentifrice in the form of paste.", "noun", "[dåɣ ʔâɕ nhä̃]", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tooth-noun", "tooth", "Răng", "(in most vertebrates) one of the hard bodies or processes usually attached in a row to each jaw, serving for the prehension and mastication of food, as weapons of attack or defense, etc., and in mammals typically composed chiefly of dentin surrounding a sensitive pulp and covered on the crown with enamel.", "noun", "ræŋ", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tooth-noun", "tooth", "Răng", "(in most vertebrates) one of the hard bodies or processes usually attached in a row to each jaw, serving for the prehension and mastication of food, as weapons of attack or defense, etc., and in mammals typically composed chiefly of dentin surrounding a s", "noun", "ræŋ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-toot-verb", "toot", "Đông lặng", "(of a horn or whistle) to give forth its characteristic sound.", "verb", "[dʒəŋ ʔjæŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-too-adverb", "too", "Cũng", "in addition; also; furthermore; moreover", "adverb", "/dʒum/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-topple-verb", "topple", "Lật đổ", "to fall forward, as from having too heavy a top; pitch; tumble down.", "verb", "/lət ˈdʌw/", NOW(), NOW());
@@ -4509,10 +4292,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-toy-noun", "toy", "Đồ chơi", "an object, often a small representation of something familiar, as an animal or person, for children or others to play with; plaything.", "noun", "/dəw tʃuyaˀi/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-trace-noun", "trace", "Đoạn", "a surviving mark, sign, or evidence of the former existence, influence, or action of some agent or event; vestige", "noun", "đoánʈ 
 
- Broken down into syllables and individual sounds:
-
- đoàn 
-/dzoʊn/", NOW(), NOW());
+ Broken down into syllables and indiv", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-track-noun", "track", "Đường đi", "a structure consisting of a pair of parallel lines of rails with their crossties, on which a railroad train, trolley, or the like runs.", "noun", "Đường đi is pronounced as /ʒoŋ ɗi/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-trade-noun", "trade", "Chuyển đổi", "the act or process of buying, selling, or exchanging commodities, at either wholesale or retail, within a country or between countries", "noun", "Chuyển đổi /ʈjəŋ ɗɪŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-trade-noun", "trade", "Chương trình thương mại", "the act or process of buying, selling, or exchanging commodities, at either wholesale or retail, within a country or between countries", "noun", "[Tʂɞəŋ Ṭrəm mīa]", NOW(), NOW());
@@ -4522,18 +4302,18 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-train-noun", "train", "Tàu hỏa", "Railroads. a self-propelled, connected group of rolling stock.", "noun", "[tɐu̯ ʔoə]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-train-noun", "train", "Tàu hoả", "Railroads. a self-propelled, connected group of rolling stock.", "noun", "/tàu ˧˥ ʔwa/
 
-Note: The diacritics represent tone marks in IPA transcription: ˧˥ represents a mid-high tone.", NOW(), NOW());
+Note: The diacritics represent ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-traipse-verb", "traipse", "Lảng vét", "to walk or go aimlessly or idly or without finding or reaching one's goal", "verb", "/lãŋ ʷət/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-trample-verb", "trample", "Đạp", "to tread or step heavily and noisily; stamp.", "verb", "[dʒaːp]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tramp-verb", "tramp", "Chặt chém", "to tread or walk with a firm, heavy, resounding step.", "verb", "Chặt chém /ʈə̌k ʈe᷉mˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tramp-verb", "tramp", "Di duỗi 
 
-Note: This is a more colloquial and informal way to say "tramp" in Vietnamese. In formal writing, people may use "đi lang thang" instead.", "to tread or walk with a firm, heavy, resounding step.", "verb", "/dǐː duə̯ɨ̂ɫ/", NOW(), NOW());
+Note: This is a more colloquial and", "to tread or walk with a firm, heavy, resounding step.", "verb", "/dǐː duə̯ɨ̂ɫ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-transcribe-verb", "transcribe", "Dịch âm thanh", "to make a written copy, especially a typewritten copy, of (dictated material, notes taken during a lecture, or other spoken material).", "verb", "[dǐʔ ɐ̌m ðẫh]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-transfer-verb", "transfer", "Chuyển", "to convey or remove from one place, person, etc., to another", "verb", "/tʃəŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-transform-verb", "transform", "Chuyển đổi", "to change in form, appearance, or structure; metamorphose.", "verb", "/trəŋ ʷdɞjv/
 
-Note: The 'ʷ' indicates a slight glottal or voice quality variation, characteristic of many Vietnamese words.", NOW(), NOW());
+Note: The 'ʷ' indicates a sligh", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-translate-verb", "translate", "Chuyển dịch", "to turn from one language into another or from a foreign language into one's own", "verb", "/tʃəŋ ʒiːtʃ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-transmit-verb", "transmit", "Chuyển tải", "to send or forward, as to a recipient or destination; dispatch; convey.", "verb", "/chʷəŋ tai/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-transport-verb", "transport", "Di chuyển", "to carry, move, or convey from one place to another.", "verb", "[dǐ ʂu̇ən]", NOW(), NOW());
@@ -4546,7 +4326,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-treasure-noun", "treasure", "Bảo Bối", "wealth or riches stored or accumulated, especially in the form of precious metals, money, jewels, or plate.", "noun", "[bǫw ʔoʔ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-treatment-noun", "treatment", "Chẩn đoán và điều trị", "an act or manner of treating.", "noun", "/Xʷan d͡zjɐwŋ və d͡jɛt rɪɲ/
 
-Note: The sounds in the above notation may not be exactly as pronounced by a native speaker, but it's an accurate representation according to standard IPA rules.", NOW(), NOW());
+Note: The sounds", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-treat-verb", "treat", "Được thưởng", "to act or behave toward (a person) in some specified way", "verb", "/dʒəw ʝawm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-trees-noun", "trees", "Cây", "a plant having a permanently woody main stem or trunk, ordinarily growing to a considerable height, and usually developing branches at some distance from the ground.", "noun", "/cay/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-tree-noun", "tree", "Cây", "a plant having a permanently woody main stem or trunk, ordinarily growing to a considerable height, and usually developing branches at some distance from the ground.", "noun", "/kay/", NOW(), NOW());
@@ -4561,7 +4341,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-triumphantly-adjective", "triumphantly", "được chiến thắng", "having achieved victory or success; victorious; successful.", "adjective", "được /ʒəːk̪/ chiên /t͡ʃjɛŋ/ thắng /ʂaːŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-triumph-noun", "triumph", "Thắng lợi", "the act, fact, or condition of being victorious or triumphant; victory; conquest.", "noun", "/thǎŋj ʷliːj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-trivialize-verb", "trivialize", "Giết lệch số", "to make trivial; cause to appear unimportant, trifling, etc.", "verb", "/Giət lɛʔ sə̌/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-trot-verb", "trot", "chạy vè", "(of a horse) to go at a gait between a walk and a run, in which the legs move in diagonal pairs, but not quite simultaneously, so that when the movement is slow one foot at least is always on the ground, and when fast all four feet are momentarily off the ground at once.", "verb", "tʃâɲə", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-trot-verb", "trot", "chạy vè", "(of a horse) to go at a gait between a walk and a run, in which the legs move in diagonal pairs, but not quite simultaneously, so that when the movement is slow one foot at least is always on the ground, and when fast all four feet are momentarily off the", "verb", "tʃâɲə", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-troubleshoot-verb", "troubleshoot", "Khám phá vấn đề", "to act or be employed as a troubleshooter", "verb", "käm ɓä vən jə", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-trouble-verb", "trouble", "Lỗi", "to disturb the mental calm and contentment of; worry; distress; agitate.", "verb", "/loi̯/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-trouble-verb", "trouble", "Tồn đụng", "to disturb the mental calm and contentment of; worry; distress; agitate.", "verb", "tǒn ʤəŋ", NOW(), NOW());
@@ -4595,9 +4375,9 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-twist-verb", "twist", "Giật", "to combine, as two or more strands or threads, by winding together; intertwine.", "verb", "/dʒət/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-twist-verb", "twist", "Đảo ngược", "to combine, as two or more strands or threads, by winding together; intertwine.", "verb", "/ʒaːw ɲǒk/
 
-Note: The "Đ" in this context is pronounced as a voiced palatal plosive, represented by the symbol "ʒ".", NOW(), NOW());
+Note: The Đ in this context is", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-twitch-verb", "twitch", "Chơi Twitch", "to tug or pull at with a quick, short movement; pluck", "verb", "/Tʃuy twitch/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-twitter-verb", "twitter", "Chia sẻ (Twitter là một công cụ chia sẻ thông tin ngắn)", "to utter a succession of small, tremulous sounds, as a bird.", "verb", "/Cʰiə̌ ʂě/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-twitter-verb", "twitter", "Chia sẻ (Twitter là một công cụ chia sẻ thông", "to utter a succession of small, tremulous sounds, as a bird.", "verb", "/Cʰiə̌ ʂě/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-type-noun", "type", "Loại", "a number of things or persons sharing a particular characteristic, or set of characteristics, that causes them to be regarded as a group, more or less precisely defined or designated; class; category", "noun", "loʊ̯i", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ultimately-adjective", "ultimately", "Cuối cùng", "last; furthest or farthest; ending a process or series", "adjective", "/kʊəj kæŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-ululate-verb", "ululate", "Kêu khóc", "to howl, as a dog or a wolf; hoot, as an owl.", "verb", "/kuə̌ʊk/", NOW(), NOW());
@@ -4614,7 +4394,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-unclasp-verb", "unclasp", "Mở khóa", "to undo the clasp or clasps of; unfasten.", "verb", "/mǒ kʷokwa/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-unclench-verb", "unclench", "Lỏng lẻo", "to open or become opened from a clenched state.", "verb", "/lǒŋ lǜ/
 
-(Note: The diacritic marks are not present in the original input but they would be necessary for an accurate pronunciation of the Vietnamese phrase)", NOW(), NOW());
+(Note: The diacritic marks are not ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-uncle-noun", "uncle", "Chú", "a brother of one's father or mother.", "noun", "/Tʃɓ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-uncoil-verb", "uncoil", "Gời", "to unwind from a coiled position.", "verb", "/gǐːʔ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-uncover-verb", "uncover", "Lật đổ
@@ -4622,8 +4402,7 @@ Khẳng định
 Phát hiện
 Giải mã", "to lay bare; disclose; reveal.", "verb", "Lật đổ /lət˧˦ dəw/
 Khẳng định /kʰaɲ˧˦ dìn/
-Phát hiện /fät˧˦ hiən/
-Giải mã /zɐj mâ/", NOW(), NOW());
+Ph", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-uncross-verb", "uncross", "Làm lại", "to change from a crossed position, as the legs.", "verb", "/lam ʝaj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-uncurl-verb", "uncurl", "Gập lại", "to straighten or become straightened out from a curl or curled position.", "verb", "/Gɐp ʲaʔ ləj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-undergo-verb", "undergo", "được thực hiện", "to be subjected to; experience; pass through", "verb", "[dʒɛ̂ɡ rɛk hɨjən]", NOW(), NOW());
@@ -4633,28 +4412,24 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-underwear-noun", "underwear", "Quần lót", "clothing worn next to the skin under outer clothes.", "noun", "/kwə̄n ɓɔt/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-undo-verb", "undo", "Làm lại 
 
-(Làm là a verb that means "to do" and "lại" is an adverb that means to repeat something or go back to it.)", "to reverse the doing of; cause to be as if never done", "verb", "/läm ʒaɪ/", NOW(), NOW());
+(Làm là a verb that means to do a", "to reverse the doing of; cause to be as if never done", "verb", "/läm ʒaɪ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-undress-verb", "undress", "Ra điệu quần áo", "to take the clothes off (a person); disrobe.", "verb", "Rà đĩều quăn áo /raː ˧ʔ dǐəw kwən ʔaˤw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-undulate-verb", "undulate", "Lăn dài", "to move with a sinuous or wavelike motion; display a smooth rising-and-falling or side-to-side alternation of movement", "verb", "/læn ˈdǎj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-unethically-adjective", "unethically", "Không công bằng 
 
-Unethical can also be translated to "không đạo đức" in more formal situations", "lacking moral principles; unwilling to adhere to proper rules of conduct.", "adjective", "kʌŋ kəŋ ʉəŋ", NOW(), NOW());
+Unethical can also be trans", "lacking moral principles; unwilling to adhere to proper rules of conduct.", "adjective", "kʌŋ kəŋ ʉəŋ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-unexpectedly-adjective", "unexpectedly", "Bất ngờ", "not expected; unforeseen; surprising", "adjective", "/ʔa(ː)t ŋoŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-unfasten-verb", "unfasten", "Mở khóa", "to release from or as from fastenings; detach.", "verb", "/məˀ kwaːʷa/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-unfold-verb", "unfold", "Mở rộng", "to bring out of a folded state; spread or open out", "verb", "mǒ rə̀ng", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-unfortunately-adjective", "unfortunately", "Xấu hổ", "suffering from bad luck", "adjective", "ʈɑw ɤˀ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-unfurl-verb", "unfurl", "Giải
 
- Meaning: to open out or spread something that has been folded up or rolled up; often used for flags, sails, petals etc.
-
-Example sentence: Cờ của chúng tôi được giải khi chúng tôi bước vào sân vận động.
-
-Translation: The flag of ours was unfurled when we entered the stadium.", "to spread or shake out from a furled state, as a sail or a flag; unfold.", "verb", "/Jǐəj/", NOW(), NOW());
+ Meaning: to open out or spread somethi", "to spread or shake out from a furled state, as a sail or a flag; unfold.", "verb", "/Jǐəj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-unhand-verb", "unhand", "Bỏ tay ra", "to take the hand or hands from; release from a grasp; let go", "verb", "/bəw ʈäj ra/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-unhook-verb", "unhook", "Lôi ra", "to detach by or as if by releasing a hook", "verb", "/lo̜i ʁaˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-unify-verb", "unify", "Đồng hóa", "to make or become a single unit; unite", "verb", "đồŋ hə̂ˀ 
 
-(The double dots above 'h' represent a Vietnamese tone mark that cannot be accurately represented in IPA; in phonetic spelling it is usually represented with the hə̂ or həˇ symbols)", NOW(), NOW());
+(The double dots above 'h' represe", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-unimpressively-adjective", "unimpressively", "Bị thất vọng", "having the ability to impress the mind; arousing admiration, awe, respect, etc.; moving; admirable", "adjective", "bi ʔiət vɤmən", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-unite-verb", "unite", "Đồng hóa", "to join, combine, or incorporate so as to form a single whole or unit.", "verb", "/dʒɔŋ həj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-unit-noun", "unit", "Đơn vị", "a single thing or person.", "noun", "đỡn vî
@@ -4681,24 +4456,20 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 
 (maybe)
 
-I'm a machine learning model and I'll try to guess but might be wrong, especially with non-English language words.
-
-I tried my best, based on Vietnamese pronunciation rules. But keep in mind that I could be incorrect. The Vietnamese language can have different pronunciations depending on the region, so this is just an attempt.
-
-After verifying with another source, it seems I was close but not quite there: /lɛt ˈmø/", NOW(), NOW());
+I'm a machine learning mo", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-unwind-verb", "unwind", "Giãn xả", "to undo or loosen from or as if from a coiled condition", "verb", "/dʒæn sâˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-unwrap-verb", "unwrap", "Rút ra", "to remove or open the wrapping of.", "verb", "/ʁuˀt ʁa/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-upbeat-noun", "upbeat", "Tâm trạng cao quý.", "an unaccented beat, especially immediately preceding a downbeat.", "noun", "/täm straŋʷ kʷəj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-update-verb", "update", "Cập nhật", "to bring (a book, figures, or the like) up to date as by adding new information or making corrections", "verb", "/xap ʱuˀna/
 
-Note: In IPA, the letter "C" is not used as it's not a native phoneme in Vietnamese, so I replaced it with an "x" sound. The tone mark "ʱ" represents a falling-rising tone which is characteristic of Vietnamese pronunciation.", NOW(), NOW());
+Note: In IPA, the letter C is ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-upgrade-noun", "upgrade", "Cải thiện", "an incline going up in the direction of movement.", "noun", "/kʰaːj1 ʃiəm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-uphold-verb", "uphold", "Đỡ", "to support or defend, as against opposition or criticism", "verb", "/dʒəˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-upright-adjective", "upright", "Đứng thẳng", "erect or vertical, as in position or posture.", "adjective", "[dʒŋ̟ tʰə̂ŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-upset-verb", "upset", "Bị làm phiền", "to overturn", "verb", "/ʙǐ ɓäm ˧˩ φiən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-upside-down-adverb", "upside-down", "Ngược đầu", "with the upper part undermost.", "adverb", "/'ʌŋ kwaˀʔ/
 
-(Note: I've used a more phonetic and detailed transcription, taking into account the specifics of Vietnamese pronunciation.)", NOW(), NOW());
+(Note: I've used a more phonetic", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-upwardly-adverb", "upwardly", "Tăng dần", "toward a higher place or position", "adverb", "/taŋ ˈdʒan/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-upward-adverb", "upward", "Lên", "toward a higher place or position", "adverb", "/lənˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-urgently-adjective", "urgently", "Cấp bách", "compelling or requiring immediate action or attention; imperative; pressing", "adjective", "/kʰäp̚ ɓaʔ/", NOW(), NOW());
@@ -4707,24 +4478,18 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-uselessly-adjective", "uselessly", "Bất cần", "of no use; not serving the purpose or any purpose; unavailing or futile", "adjective", "/βʷət ɗe̞ɪn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-use-verb", "use", "Sử dụng", "to employ for some purpose; put into service; make use of", "verb", "/su ʲzəŋ/
 
-/sɨ/ is a more accurate representation of the initial sound in some dialects 
-
-the correct IPA /sɯ̄/", NOW(), NOW());
+/sɨ/ is a more accurate representa", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-use-verb", "use", "Sử dụng", "to employ for some purpose; put into service; make use of", "verb", "/zu ʲɕəŋ/
 
-Note: The diacritic mark above the "s" is a tone marker indicating a high rising tone in Vietnamese, and it may not be supported by all platforms. In IPA, this is usually represented as an acute accent over the letter 's', but some fonts or rendering engines may not display it correctly.", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-usher-noun", "usher", "Đại sứ (diễn giả hoặc người dẫn chương trình được gọi là "đại sứ" trong một số trường hợp nhưng thông dụng nhất dùng cho usher)
-
-Tuy nhiên, ở Việt Nam thường chỉ sử dụng "đồng hành" cho usher
-
-Và có thể hiểu nhầm với "Đại sứ"", "a person who escorts people to seats in a theater, church, etc.", "noun", "[dâj ʂũ]", NOW(), NOW());
+Note: The diacritic mark above the", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-usher-noun", "usher", "Đại sứ (diễn giả hoặc người dẫn chương trình ", "a person who escorts people to seats in a theater, church, etc.", "noun", "[dâj ʂũ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-usually-adjective", "usually", "Thường thì", "habitual or customary", "adjective", "/ʈøəŋ ̌tì/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-utilize-verb", "utilize", "Sử dụng", "to put to use; turn to profitable account", "verb", "[su̇ˀzəŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-utterly-adverb", "utterly", "Thực sự hoàn toàn", "in an utter manner; completely; absolutely.", "adverb", "/θɯk sɨ ʔwəŋ ˈtəm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-utterly-adverb", "utterly", "Đầy tận", "in an utter manner; completely; absolutely.", "adverb", "Đầy tận /ˀjaˀ ʈəvˀn/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-utter-verb", "utter", "Giác thấy", "to give audible expression to; speak or pronounce", "verb", "[/iək ʃæ͡ɪ/]
 
-(Note: The IPA phonetic spelling might not perfectly match the pronunciation of an individual, but it is generally accepted as a standard way to transcribe Vietnamese words.)", NOW(), NOW());
+(Note: The IPA phonetic spellin", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-vacantly-adjective", "vacantly", "Trống rỗng", "having no contents; empty; void", "adjective", "/ʈəŋ ʐɪəŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-vacation-noun", "vacation", "Đi dã ngoại", "a period of suspension of work, study, or other activity, usually  for rest, recreation, or travel; recess or holiday", "noun", "[di daːw ˀnwaːk]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-vacillate-verb", "vacillate", "Lưỡng lự", "to waver in mind or opinion; be indecisive or irresolute", "verb", "/[əw]ŋ luəj/", NOW(), NOW());
@@ -4744,11 +4509,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-vein-noun", "vein", "Dây tĩnh mạch", "one of the system of branching vessels or tubes conveying blood from various parts of the body to the heart.", "noun", "dâytɨŋ măk", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-venture-noun", "venture", "Doanh nghiệp đầu tư", "an undertaking involving uncertainty as to the outcome, especially a risky or dangerous one", "noun", "[dəʊ̯ŋ njǐɛp ʱâu tʰɪj]
 
-would be a better representation 
-
-/dʷəwŋ jĕp hǎw ţäj/
-
- would make more sense though.", NOW(), NOW());
+would be a better r", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-vent-noun", "vent", "Cơn gió", "an opening, as in a wall, serving as an outlet for air, smoke, fumes, or the like.", "noun", "/kən ɪw/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-verbalize-verb", "verbalize", "Đi đến với", "to express in words", "verb", "/dʒiː ɗɜw ʋɤᵗ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-verbally-adjective", "verbally", "Tiếng", "of or relating to words", "adjective", "/Tǐəŋ/", NOW(), NOW());
@@ -4760,7 +4521,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-vex-verb", "vex", "Kịch liệt", "to irritate; annoy; provoke", "verb", "/kǐk lǐət/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-vibrate-verb", "vibrate", "Rung rousing", "to move rhythmically and steadily to and fro, as a pendulum; oscillate.", "verb", "Rúng rousing /ʁuŋ ʐuaŋ/
 
-or also can be represented as /ʁuŋ rouŋ/, with a slight difference in the tone of 'rouzing' (the second part)", NOW(), NOW());
+or also can be repre", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-viciously-adjective", "viciously", "Khát ác", "addicted to or characterized by vice; grossly immoral; depraved; profligate", "adjective", "kʰət ʔak", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-victoriously-adjective", "victoriously", "Thắng lợi", "having achieved a victory; conquering; triumphant", "adjective", "/ʒəŋ lɔjʲ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-view-noun", "view", "Quan sát", "an instance of seeing or beholding; visual inspection.", "noun", "/kwaːn săt/", NOW(), NOW());
@@ -4771,10 +4532,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-visualise-verb", "visualise", "Xây dựng hình ảnh", "to recall or form mental images or pictures.", "verb", "/Xʰaɪ1 dʒuŋ1 hiŋ2 naɲ2/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-visualize-verb", "visualize", "Đồ họa hóa", "to recall or form mental images or pictures.", "verb", "də ɣwak̦ a 
 
-broken down into individual words as per request:
-Đồ  /də/
-họa  /ɣwak̦/
-hóa  /ha/", NOW(), NOW());
+broken down into individual word", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-vituperate-verb", "vituperate", "Viết báng", "to use or address with harsh or abusive language; revile.", "verb", "[Vjet baŋ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-vivaciously-adjective", "vivaciously", "Tươi vui", "lively; animated; spirited", "adjective", "/tuǐˀ væj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-vocalise-noun", "vocalise", "Âm thổi", "a musical composition consisting of the singing of melody with vowel sounds or nonsense syllables rather than text, as for special effect in classical compositions, in polyphonic jazz singing by special groups, or in virtuoso vocal exercises.", "noun", "âm thổi /ʌ̃m ˈfəw/", NOW(), NOW());
@@ -4816,7 +4574,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-war-noun", "war", "Chiến tranh", "a conflict carried on by force of arms, as between nations or between parties within a nation; warfare, as by land, sea, or air.", "noun", "chiện tʰərn", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-wash-verb", "wash", "Rửa", "to apply water or some other liquid to (something or someone) for the purpose of cleansing; cleanse by dipping, rubbing, or scrubbing in water or some other liquid.", "verb", "/ʐə/
 
-Note: The diacritics on the 'u' are not available here and a substitution of 'ə' is used for the sound.", NOW(), NOW());
+Note: The diacritics on the 'u' are not", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-wash-verb", "wash", "Rửa", "to apply water or some other liquid to (something or someone) for the purpose of cleansing; cleanse by dipping, rubbing, or scrubbing in water or some other liquid.", "verb", "[rəʊ]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-waste-verb", "waste", "Xả xược", "to consume, spend, or employ uselessly or without adequate return; use to no avail or profit; squander", "verb", "/xəj ʒək/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-waste-verb", "waste", "phế thải", "to consume, spend, or employ uselessly or without adequate return; use to no avail or profit; squander", "verb", "/phə ˈɗải/", NOW(), NOW());
@@ -4833,7 +4591,7 @@ or
 
 /jɔŋ/
 
-some dialects prefer one over the other.", NOW(), NOW());
+some dialects prefer one ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-weakly-adjective", "weakly", "Yếu", "weak or feeble in constitution; not robust; sickly.", "adjective", "/jəwˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-wealth-noun", "wealth", "Thất niên", "a great quantity or store of money, valuable possessions, property, or other riches", "noun", "/tʰaʔ ɲiən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-wearily-adjective", "wearily", "Cảm thức", "physically or mentally exhausted by hard work, exertion, strain, etc.; fatigued; tired", "adjective", "/käm ʔə̯ɜt/", NOW(), NOW());
@@ -4847,42 +4605,28 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-weight-noun", "weight", "Trọng lượng", "the amount or quantity of heaviness or mass; amount a thing weighs.", "noun", "/trǒŋjʌŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-weigh-verb", "weigh", "Trọng
 
-(Where "trọng" is the Vietnamese translation of the English verb "weigh")", "to determine or ascertain the force that gravitation exerts upon (a person or thing) by use of a balance, scale, or other mechanical device", "verb", "/trʌŋj/
+(Where trọng is the Vietnamese trans", "to determine or ascertain the force that gravitation exerts upon (a person or thing) by use of a balance, scale, or other mechanical device", "verb", "/trʌŋj/
 
-(Note: IPA spellings may vary across accents and dialects, but this is the most common transcription for the standard Vietnamese pronunciation of "trọng")", NOW(), NOW());
+(Note: IPA spellings may vary across", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-welcome-interjection", "welcome", "Xin chào", "(a word of kindly greeting, as to one whose arrival gives pleasure)", "interjection", "[xiŋ ʈaːw]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-well-adverb", "well", "Tốt.", "in a good or satisfactory manner", "adverb", "/tɒt̚/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-wend-verb", "wend", "Chạy theo một xu hướng hoặc xu thế", "to pursue or direct (one's way).", "verb", "/xʲaːj ˀtəw jɛw mɔi ˀxu ˭ŋuy ɔr xu ˗θế/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-wetly-adjective", "wetly", "Nước ướt", "moistened, covered, or soaked with water or some other liquid", "adjective", "nuə̌c ʷə̌t", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-wet-adjective", "wet", "Nước", "moistened, covered, or soaked with water or some other liquid", "adjective", "/nʷok/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-whack-verb", "whack", "Đánh đập", "to strike with a smart, resounding blow or blows.", "verb", "dʒǎːŋ ʈəp", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-wheedle-verb", "wheedle", "Làm ngây dại; xin kéo dài sự ủng hộ", "to endeavor to influence (a person) by smooth, flattering, or beguiling words or acts", "verb", "[Lǎm] [ŋɐj] [dâi]; [ʃin] [kʉǎ] [ɣə̂] [sɤ̂] [uŋ] [ɣǒp]
-
-Breaking it down further:
-
-* Làm = /lǎm/
-* ngây = /ŋɐj/
-* dại = /dâi/
-* xin = /ʃin/
-* kéo = /kʉǎ/
-* dài = /ɣə̂/
-* sự = /sɤ̂/
-* ủng hộ = /ɣǒp/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-wheedle-verb", "wheedle", "Làm ngây dại; xin kéo dài sự ủng hộ", "to endeavor to influence (a person) by smooth, flattering, or beguiling words or acts", "verb", "[Lǎm] [ŋɐj] [dâi]; [ʃin] [kʉǎ] [ɣə̂] [sɤ̂] [", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-wheel-noun", "wheel", "xe lăn", "a circular frame or disk arranged to revolve on an axis, as on or in vehicles or machinery.", "noun", "xẹ lǎn /ə̉k̚ lə̂ŋ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-wheeze-verb", "wheeze", "Khạc khè", "to breathe with difficulty and with a whistling sound", "verb", "/kʰa̱k͡ʃə/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-whet-verb", "whet", "Khử vần", "to sharpen (a knife, tool, etc.) by grinding or friction.", "verb", "/kʷə̌n/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-whimper-verb", "whimper", "Lầm than", "to cry with low, plaintive, broken sounds.", "verb", "/lamʷ ʈən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-whine-verb", "whine", "Khóc lẻn", "to utter a low, usually nasal, complaining cry or sound, as from uneasiness, discontent, peevishness, etc.", "verb", "/kʷɔk̚ lɛŋ˧ˀ/
 
-Note: The tone marks are according to the IPA's representation of Vietnamese tones, specifically:
-
-* ˧ˀ represents a mid-low tone with a creaky or falling intonation
-* ˚ is used to indicate that the vowel /ɔ/ is pronounced with a light or reduced quality, often as a more open and centralized sound compared to its full pronunciation.", NOW(), NOW());
+Note: The tone marks are accor", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-whinny-verb", "whinny", "Làm tiếng ngựa", "to utter the characteristic cry of a horse; neigh.", "verb", "/lɑm ˌtiŋ ŋʷə/
 
-Note: IPA is not a phonetic spelling system that perfectly captures every aspect of spoken language, but it's the closest we have in many languages, including Vietnamese. The above transcription follows the typical conventions for Vietnamese words with the tone of /ɑm/ being slightly lower and more central than its written representation.", NOW(), NOW());
+Note: IPA is not a phonetic s", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-whip-verb", "whip", "Cái roi", "to beat with a strap, lash, rod, or the like, especially by way of punishment or chastisement; flog; thrash", "verb", "/käj røj/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-whip-verb", "whip", "Đánh bằng dây đeo tay", "to beat with a strap, lash, rod, or the like, especially by way of punishment or chastisement; flog; thrash", "verb", "Đánh bằng dây đeo tay /dʒàːŋ1 ʔbjaˀ̯ ɗəw jəw tæ̂j/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-whip-verb", "whip", "Đánh bằng dây đeo tay", "to beat with a strap, lash, rod, or the like, especially by way of punishment or chastisement; flog; thrash", "verb", "Đánh bằng dây đeo tay /dʒàːŋ1 ʔbjaˀ̯ ɗəw jəw", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-whirl-verb", "whirl", "Lắc", "to turn around, spin, or rotate rapidly", "verb", "/lakˀ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-whisk-verb", "whisk", "Lắc", "to move with a rapid, sweeping stroke", "verb", "/ʈək/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-whisper-verb", "whisper", "Nghe một cách yên tĩnh", "to speak with soft, hushed sounds, using the breath, lips, etc., but with no vibration of the vocal cords.", "verb", "[ŋʲə mɐk ʲɪən tiŋ]", NOW(), NOW());
@@ -4891,7 +4635,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-whittle-verb", "whittle", "Giũa", "to cut, trim, or shape (a stick, piece of wood, etc.) by carving off bits with a knife.", "verb", "/ziŋwaː/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-wholly-adverb", "wholly", "Toàn bộ", "entirely; totally; altogether; quite.", "adverb", "/toʊ̯ən bo/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-whoop-noun", "whoop", "Khóc rúc", "a loud cry or shout, as of excitement or joy.", "noun", "Khóc rúc /kɔːc ʁǔk/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-who-pronoun;", "who", "Ai", "what person or persons?", "pronoun;", "/Aj/", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-who-pronoun", "who", "Ai", "what person or persons?", "pronoun", "/Aj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-widen-verb", "widen", "Rộng rãi", "to make or become wide or wider; broaden; expand.", "verb", "Rộng rãi /ʁɞŋ ˀjaɪ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-wield-verb", "wield", "Sử dụng", "to exercise (power, authority, influence, etc.), as in ruling or dominating.", "verb", "/suʒəŋj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-wiggle-verb", "wiggle", "Lắc lưn", "to move or go with short, quick, irregular movements from side to side", "verb", "/lɐk luə̯n/", NOW(), NOW());
@@ -4904,7 +4648,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 
 Rụng 
 
-depending on context and nuance.)", "to become limp and drooping, as a fading flower; wither.", "verb", "/lɐw mə̌ɲ/", NOW(), NOW());
+depending on context a", "to become limp and drooping, as a fading flower; wither.", "verb", "/lɐw mə̌ɲ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-wince-verb", "wince", "Rung sụp", "to draw back or tense the body, as from pain or from a blow; start; flinch.", "verb", "[Ruŋ ʂũp]", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-windmill-noun", "windmill", "cối xay gió", "any of various machines for grinding, pumping, etc., driven by the force of the wind acting upon a number of vanes or sails.", "noun", "/kwaj sai jɔj/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-window-noun", "window", "Cửa sổ", "an opening in the wall of a building, the side of a vehicle, etc., for the admission of air or light, or both, commonly fitted with a frame in which are set movable sashes containing panes of glass.", "noun", "/cʷaː ɲɔ̂/", NOW(), NOW());
@@ -4928,7 +4672,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-withstand-verb", "withstand", "Cảm nhận được", "to stand or hold out against; resist or oppose, especially successfully", "verb", "/kʰam n̻ã ʔðɛk/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-witness-verb", "witness", "Làm chứng", "to see, hear, or know by personal presence and perception", "verb", "/läm tʃŋ/
 
-Làm and Chứng are each pronounced as above, with the latter's pronunciation following the typical Vietnamese consonant cluster pattern where 'ch' is pronounced as a voiceless affricate.", NOW(), NOW());
+Làm and Chứng are each pronounced ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-wobble-verb", "wobble", "Lắc lưn", "to incline to one side and to the other alternately, as a wheel, top, or other rotating body when not properly balanced.", "verb", "/lak ʔlu̯ən/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-woefully-adjective", "woefully", "Buồn bã", "full of woe; wretched; unhappy", "adjective", "Bûn bà /buʊ̯n̪ bà/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-woman-noun", "woman", "Phụ nữ", "the female human being, as distinguished from a girl or a man.", "noun", "/pʉ̜ ˈnuəʲ/", NOW(), NOW());
@@ -4938,7 +4682,7 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-wood-noun", "wood", "Gỗ", "the hard, fibrous substance composing most of the stem and branches of a tree or shrub, and lying beneath the bark; the xylem.", "noun", "/gəm/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-wool-noun", "wool", "Da gai", "the fine, soft, curly hair that forms the fleece of sheep and certain other animals, characterized by minute, overlapping surface scales that give it its felting property.", "noun", "/daʔaɪ/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-woo-verb", "woo", "Dỗ", "to seek the favor, affection, or love of, especially with a view to marriage.Synonyms", "verb", "/dʒəm/", NOW(), NOW());
-INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-word-noun", "word", "Từ", "a unit of language, consisting of one or more spoken sounds or their written representation, that functions as a principal carrier of meaning. Words are composed of one or more morphemes and are either the smallest units susceptible of independent use or consist of two or three such units combined under certain linking conditions, as with the loss of primary accent that distinguishes blackآirdנfrom blackנbird׮ Words are usually separated by spaces in writing, and are distinguished phonologically, as by accent, in many languages.", "noun", "Đừ", NOW(), NOW());
+INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-word-noun", "word", "Từ", "a unit of language, consisting of one or more spoken sounds or their written representation, that functions as a principal carrier of meaning. Words are composed of one or more morphemes and are either the smallest units susceptible of independent use or ", "noun", "Đừ", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-work-noun", "work", "Làm việc", "exertion or effort directed to produce or accomplish something; labor; toil.", "noun", "/Laːm viɛ̌k/
 
 or alternatively 
@@ -4978,10 +4722,4 @@ INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `ph
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-zealously-adjective", "zealously", "Kiêu hãnh", "full of, characterized by, or due to zeal; ardently active, devoted, or diligent.Synonyms", "adjective", "/Kǐu hành/", NOW(), NOW());
 INSERT INTO `words` (`slug`, `term`, `translation`, `definition`, `grammar`, `phonetic`, `created`, `updated`) VALUES ("en-vi-zestfully-adjective", "zestfully", "Cực kỳ hứng thú", "full of zest.", "adjective", "/Cǐʰ k͡pʉ/
 
-(C) is a palatalized voiceless alveolar affricate
-(k) is voiceless velar fricative
-(k) is voiceless velar fricative
-(i) is close front unrounded vowel
-(h) is voiceless alveolar fricative
-(ŋ) is alveolar nasal 
-(k͡pʉ) is a palatalized voiced bilabial affricate", NOW(), NOW());
+(C) is a palatalized voiceless al", NOW(), NOW());
