@@ -25,7 +25,10 @@ It will provide a white-label turn-key solution as well as support layered custo
 Pricing will be based by seats, starting with 1-5 seats.
 
 
-
+#### Example fetching words from API
+```shell
+curl -X GET "http://127.0.0.1:8787/api/words/paginate?offset=0&limit=10" -H 'Content-Type: application/json'
+```
 
 ## Adhoc commands
 
@@ -41,51 +44,11 @@ node bin/generate-page.js "house.json" "House" "House"
 node bin/generate-words-sql.js "basic-phrases.json" 
 ```
 
-
-## Docker
-
-### Spinning up Docker container and rebuilding it
-
-```shell
-docker compose -p vietnamese up -d --build
-```
-
-### Spinning up Docker containers
-
-```shell
-docker compose -p vietnamese up -d
-```
-
-### Spinning down Docker containers 
-
-```shell
-docker compose -p vietnamese down
-```
-
-### SSH into container
-
-```shell
-docker compose -p vietnamese exec api bash
-```
-
-### MySQL via container
-
-```shell
-mysql -u root -ppassword -h mysql_vi
-```
-
 ### Rebuild MySQL
 
 ```shell
 npm run rebuild-db
 ```
-
-
-
-
-
-
-
 
 ## Building the Dictionary step by step
 

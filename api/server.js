@@ -53,6 +53,7 @@ app.use("/api/transcriptions", require("./routes/transcriptions"));
 app.use("/api/audios", require("./routes/audios"));
 app.use("/api/images", require("./routes/images"));
 app.use("/api/contents", require("./routes/contents"));
+app.use("/api/words", require("./routes/words"));
 
 app.use(express.static("public", { etag: false, lastModified: false }));
 
