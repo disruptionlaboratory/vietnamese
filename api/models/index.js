@@ -23,10 +23,7 @@ const db = {
   users: require("./users")(sequelize),
   permissions: require("./permissions")(sequelize),
   translations: require("./translations")(sequelize),
-  channels: require("./channels")(sequelize),
-  messages: require("./messages")(sequelize),
-  attachments: require("./attachments")(sequelize),
-  messages_interactions: require("./messages_interactions")(sequelize),
+  // words: require("./words")(sequelize),
 };
 
 Object.keys(db).forEach((modelName) => {

@@ -14,9 +14,12 @@ const getFilename = (counter) => {
 const process = async () => {
   for (const word of words) {
     try {
-      const response = await axios.post("http://127.0.0.1:3007/generate", {
-        prompt: word.translation,
-      });
+      const response = await axios.post(
+        "http://127.0.0.1:8787/api/audios/generate",
+        {
+          prompt: word.translation,
+        },
+      );
       const audioData = response.data.audio;
 
       const sql = `UPDATE \`words\` SET \`audio\` = "${audioData}" WHERE \`slug\` = "${word.slug}";`;

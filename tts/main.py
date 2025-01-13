@@ -12,11 +12,11 @@ tokenizer = AutoTokenizer.from_pretrained("facebook/mms-tts-vie")
 
 app = FastAPI()
 
-@app.get("/")
+@app.get("/aoi/")
 def read_root():
     return {"message": "Vietnamese TTS API"}
 
-@app.post("/generate")
+@app.post("/api/generate")
 async def generate(request: Request):
     json_data = await request.json()
 
@@ -52,6 +52,6 @@ async def generate(request: Request):
 
     return {"audio": encoded_audio}
 
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="127.0.0.1", port=3007)
+# if __name__ == "__main__":
+#     import uvicorn
+#     uvicorn.run(app, host="127.0.0.1", port=3007)

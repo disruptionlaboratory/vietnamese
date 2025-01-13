@@ -1,30 +1,30 @@
 from fastapi import FastAPI, Request, File, UploadFile, Body
 from transformers import WhisperProcessor, WhisperForConditionalGeneration
 import librosa
-import soundfile as sf
 import base64
 from pydub import AudioSegment
 import io
 from fastapi.middleware.cors import CORSMiddleware
 
 
-# processor = WhisperProcessor.from_pretrained("openai/whisper-small")
-# model = WhisperForConditionalGeneration.from_pretrained("openai/whisper-small")
+processor = WhisperProcessor.from_pretrained("openai/whisper-small")
+model = WhisperForConditionalGeneration.from_pretrained("openai/whisper-small")
 # processor = WhisperProcessor.from_pretrained("openai/whisper-medium")
 # model = WhisperForConditionalGeneration.from_pretrained("openai/whisper-medium")
 # processor = WhisperProcessor.from_pretrained("openai/whisper-large")
 # model = WhisperForConditionalGeneration.from_pretrained("openai/whisper-large")
 # processor = WhisperProcessor.from_pretrained("openai/whisper-large-v3-turbo")
 # model = WhisperForConditionalGeneration.from_pretrained("openai/whisper-large-v3-turbo")
-processor = WhisperProcessor.from_pretrained("openai/whisper-large-v3")
-model = WhisperForConditionalGeneration.from_pretrained("openai/whisper-large-v3")
+# processor = WhisperProcessor.from_pretrained("openai/whisper-large-v3")
+# model = WhisperForConditionalGeneration.from_pretrained("openai/whisper-large-v3")
 
 model.config.forced_decoder_ids = None
 
 app = FastAPI()
 
 origins = [
-    "http://localhost:3009",
+    # "http://localhost:3009",
+    "*"
 ]
 
 app.add_middleware(
@@ -35,11 +35,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-@app.get("/")
+@app.get("/api/")
 def read_root():
     return {"message": "Vietnamese STT API"}
 
-@app.post("/transcribe")
+@app.post("/api/transcribe")
 async def generate(request: Request):
     json_data = await request.json()
     audio_data = json_data.get("audio")
@@ -53,8 +53,4 @@ async def generate(request: Request):
     input_features = processor(audio, sampling_rate=sr, return_tensors="pt").input_features
     predicted_ids = model.generate(input_features, language="vietnamese", task="transcribe")
     transcription = processor.batch_decode(predicted_ids, skip_special_tokens=True)
-    return {"transcript": transcription[0]}
-
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="127.0.0.1", port=3008)
+    return {"transcript": transcription[0].strip()}

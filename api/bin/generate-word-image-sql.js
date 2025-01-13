@@ -16,12 +16,22 @@ const process = async () => {
   for (const word of words) {
     if (word.grammar === "noun") {
       try {
-        const response = await axios.post("http://127.0.0.1:3006/generate", {
-          width: 512,
-          height: 512,
-          model: "Yntec/mistoonAnime2",
-          prompt: `Create an illustration for the word "${word.term}", a noun, in the style of flat illustration`,
+        const llmResponse = await axios.post("http://127.0.0.1:8282/generate", {
+          system:
+            "You are a helpful bot that will provide a simple visual description of a word, always using the most popular meaning",
+          prompt: `${word.term}`,
         });
+        const description = llmResponse.data.message;
+
+        const response = await axios.post(
+          "http://127.0.0.1:8787/api/images/generate",
+          {
+            width: 512,
+            height: 512,
+            model: "Yntec/mistoonAnime2",
+            prompt: `${description} - in the style of flat illustration`,
+          },
+        );
         const imageData = response.data.image;
 
         const sql = `UPDATE \`words\`

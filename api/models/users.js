@@ -64,19 +64,12 @@ module.exports = (sequelize) => {
     },
   );
   User.associate = (models) => {
-    const { channels, permissions } = models;
+    const { permissions } = models;
     User.belongsToMany(permissions, {
       through: "users_permissions",
       foreignKey: "users_id",
       otherKey: "permissions_id",
       as: "permissions",
-    });
-
-    User.belongsToMany(channels, {
-      through: "channels_has_users",
-      foreignKey: "users_id",
-      otherKey: "channels_id",
-      as: "channels",
     });
   };
   return User;

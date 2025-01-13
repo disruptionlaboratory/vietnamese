@@ -5,11 +5,13 @@ from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI()
 
 origins = [
-    "http://localhost:3009",
+    '*'
 ]
 
-pipe = pipeline("text-generation", model="microsoft/phi-4", trust_remote_code=True)
-pipe = pipe.to("mps")
+pipe = pipeline(
+    "text-generation",
+    model="HuggingFaceTB/SmolLM2-360M-Instruct",
+)
 
 app.add_middleware(
     CORSMiddleware,
@@ -19,17 +21,23 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-@app.get("/")
+@app.get("/api/")
 def read_root():
     return {"message": "Vietnamese LLM API"}
 
-@app.post("/transcribe")
+@app.post("/api/generate")
 async def generate(request: Request):
     json_data = await request.json()
+    system = json_data.get("system")
     prompt = json_data.get("prompt")
-    message = pipe(prompt)
-    return {"message": message}
+    messages = [
+        {"role": "system", "content": system },
+        {"role": "user", "content": prompt },
+    ]
+    outputs = pipe(messages, max_new_tokens=256)
 
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="127.0.0.1", port=3010)
+    print({"system": system })
+    print({"prompt": prompt })
+    message = outputs[0]["generated_text"][2]["content"]
+    print({"message": message })
+    return {"message": message}

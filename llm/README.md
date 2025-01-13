@@ -12,5 +12,77 @@ source bin/activate
 pip install transformers
 pip install torch
 pip install accelerate
+pip install fastapi
+pip install uvicorn
 ```
 
+```shell
+curl -X POST http://127.0.0.1:3010/generate -H 'Content-Type: application/json' -d '{"system":"You are a helpful bot that will provide a simple visual description of a word, always using the most popular meaning","prompt":"Blanket"}'
+```
+Express RESTful API Proxying Request
+```shell
+curl -X POST http://127.0.0.1:8787/api/contents/generate -H 'Content-Type: application/json' -d '{"system":"You are a helpful bot that will provide a simple visual description of a word, always using the most popular meaning","prompt":"Blanket"}'
+```
+
+
+
+## Building the Docker image from scratch (alternative approach)
+
+Initially, I created a temporary image in order to pip install the libraries so that I could build a requirements.txt file that would be compatible.
+
+```shell
+docker run -it --rm python:3.9-slim /bin/bash
+```
+
+I then installed the packages.
+```shell
+pip install transformers
+pip install torch
+pip install accelerate
+pip install fastapi
+pip install uvicorn
+```
+
+And finally called freeze to capture the contents for requirements.txt
+```shell
+pip freeze
+
+accelerate==1.2.1
+annotated-types==0.7.0
+anyio==4.8.0
+certifi==2024.12.14
+charset-normalizer==3.4.1
+click==8.1.8
+exceptiongroup==1.2.2
+fastapi==0.115.6
+filelock==3.16.1
+fsspec==2024.12.0
+h11==0.14.0
+huggingface-hub==0.27.1
+idna==3.10
+Jinja2==3.1.5
+MarkupSafe==3.0.2
+mpmath==1.3.0
+networkx==3.2.1
+numpy==2.0.2
+packaging==24.2
+psutil==6.1.1
+pydantic==2.10.5
+pydantic_core==2.27.2
+PyYAML==6.0.2
+regex==2024.11.6
+requests==2.32.3
+safetensors==0.5.2
+sniffio==1.3.1
+starlette==0.41.3
+sympy==1.13.1
+tokenizers==0.21.0
+torch==2.5.1
+tqdm==4.67.1
+transformers==4.48.0
+typing_extensions==4.12.2
+urllib3==2.3.0
+uvicorn==0.34.0
+```
+
+I then created the requirements.txt file and pasted the contents.

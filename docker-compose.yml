@@ -1,0 +1,47 @@
+services:
+  llm:
+    build:
+      context: ./llm
+      dockerfile: Dockerfile.development
+    ports:
+      - "8282:8282"
+  stt:
+    build:
+      context: ./stt
+      dockerfile: Dockerfile.development
+    ports:
+      - "8383:8383"
+  tts:
+    build:
+      context: ./tts
+      dockerfile: Dockerfile.development
+    ports:
+      - "8484:8484"
+  tti:
+    build:
+      context: ./tti
+      dockerfile: Dockerfile.development
+    ports:
+      - "8585:8585"
+  api:
+    container_name: api
+    build:
+      context: ./api
+      dockerfile: Dockerfile.development
+    command: npm run start
+    volumes:
+      - ./api/:/app
+    ports:
+      - "8787:8080"
+    depends_on:
+      - mysql
+  mysql:
+    image: mariadb:10.5.8
+    container_name: mysql_vi
+    ports:
+      - 3309:3306
+    volumes:
+      - ./api/data:/var/lib/mysql
+    environment:
+      MYSQL_DATABASE: vietnamese
+      MYSQL_ROOT_PASSWORD: password

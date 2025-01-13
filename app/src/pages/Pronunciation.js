@@ -7,7 +7,6 @@ import { getFillColor } from "../library/theme";
 import AudioCapture from "../components/AudioCapture";
 import axios from "axios";
 import distance from "jaro-winkler";
-import redAudio from "../resources/audio/red-đỏ.mp3";
 import { getAudioData } from "../library/audio";
 
 const Pronunciation = () => {
@@ -17,6 +16,9 @@ const Pronunciation = () => {
 
   const [words, setWords] = useState([]);
   const [word, setWord] = useState(null);
+
+  const [recording, setRecording] = useState(null);
+  const [transcript, setTranscript] = useState("");
 
   useEffect(() => {
     setTimeout(() => {
@@ -60,16 +62,17 @@ const Pronunciation = () => {
       {!preloading && (
         <div className={`${theme} container main pronunciation`}>
           <h1>Pronunciation Test</h1>
-          {score && <h2>{score}% Match</h2>}
           <h2>
             {word.value} <span className="en">({word.key})</span>
           </h2>
+          <br />
           {word && (
             <audio controls>
               <source src={getAudioData(word.audio)} type="audio/mpeg" />
               Your browser does not support the audio element.
             </audio>
           )}
+          <br />
           <AudioCapture
             onStartRecording={() => {
               setScore("");
@@ -94,6 +97,8 @@ const Pronunciation = () => {
 
               const blob = new Blob([recording], { type: "audio/mp3" });
 
+              setRecording(blob);
+
               blobToStringBase64(blob).then(async (base64EncodedString) => {
                 base64EncodedString = base64EncodedString.replace(
                   "data:audio/mp3;base64,",
@@ -102,7 +107,8 @@ const Pronunciation = () => {
 
                 try {
                   const response = await axios.post(
-                    "http://127.0.0.1:3008/transcribe",
+                    // "http://127.0.0.1:8383/transcribe",
+                    "http://127.0.0.1:8787/api/transcriptions/transcribe",
                     {
                       audio: base64EncodedString,
                     },
@@ -125,7 +131,8 @@ const Pronunciation = () => {
                   const format = (number) => {
                     return (number * 100).toFixed(2);
                   };
-                  const strip = removeChars(["!", ","]);
+                  const strip = removeChars(["!", ",", "\\."]);
+                  setTranscript(strip(transcript));
                   setScore(
                     format(distance(strip(word.value), strip(transcript))),
                   );
@@ -135,6 +142,16 @@ const Pronunciation = () => {
               });
             }}
           />
+          <br />
+          {score && <h2>{score}% Match</h2>}
+          <p>{transcript}</p>
+          <br />
+          {score && (
+            <audio controls>
+              <source src={URL.createObjectURL(recording)} type="audio/mpeg" />
+              Your browser does not support the audio element.
+            </audio>
+          )}
         </div>
       )}
     </>
