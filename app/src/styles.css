@@ -36,8 +36,10 @@ a:visited {
     --tertiary-color: deeppink;
 
     --border-radius: 0px;
-    --sidebar-width: 250px;
-    --sidebar-left-margin: 25px;
+    /*--sidebar-width: 250px;*/
+    --sidebar-width: 0px;
+    /*--sidebar-left-margin: 25px;*/
+    --sidebar-left-margin: 0px;
     --header-height: 80px;
 }
 
@@ -675,14 +677,122 @@ input:focus {
 .pronunciation {
     /*align-content: center;*/
     align-items: center;
-    /*justify-content: center;*/
-    height: 80vh;
+    justify-content: center;
+    /*height: 80vh;*/
+    /*height: 100vh;*/
     margin: 0 auto;
+    height: 100%;
+    /*outline: 1px solid red;*/
+}
+
+.card {
+    width: 600px;
+    /*outline: 1px solid red;*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+    .row {
+        /*flex-direction: column;*/
+    }
 }
 
 span.en {
     font-size: 14px;
     font-weight: normal;
+}
+
+.navigation-controls {
+    margin-top: 40px;
+    width: auto;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    height: auto;
+    button:last-of-type {
+        margin-left: 20px;
+    }
+}
+
+.microphone {
+    margin: 20px;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    svg {
+        transform: scale(2);
+    }
+}
+
+.microphone-start {
+    border: 5px solid #067ea9;
+    background-color: #8dcbe0;
+    svg {
+        fill: #067ea9;
+    }
+}
+
+.microphone-stop {
+    border: 5px solid #e8092a;
+    background-color: #f1c4cb;
+    svg {
+        fill: #e8092a;
+    }
+}
+
+.button-play {
+    /*height: 100px;*/
+    /*width: 100px;*/
+    margin: 10px;
+    border-radius: 20px;
+    border: 5px solid #067ea9;
+    /*background-color: #8dcbe0;*/
+    /*background-color: #fff;*/
+    /*border: none;*/
+    cursor: pointer;
+    /*height: 150px;*/
+    /*width: 150px;*/
+    svg {
+        transform: scale(1.5);
+        /*fill:  #067ea9;*/
+    }
+}
+
+.translation {
+    font-size: 40px;
+    text-align: left;
+}
+
+.term {
+    font-size: 30px;
+    text-align: left;
+}
+
+.phonetic {
+    font-size: 20px;
+    text-align: left;
+    font-style: italic;
+}
+
+.definition {
+    padding: 20px 40px;
+}
+
+.grammar {
+    font-size: 20px;
+    text-align: left;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.card-row {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    p:last-of-type {
+        margin-left: 20px;
+    }
 }
 
 @media (min-width: 1024px) {

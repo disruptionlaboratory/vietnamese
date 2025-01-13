@@ -23,7 +23,6 @@ model.config.forced_decoder_ids = None
 app = FastAPI()
 
 origins = [
-    # "http://localhost:3009",
     "*"
 ]
 
@@ -53,4 +52,9 @@ async def generate(request: Request):
     input_features = processor(audio, sampling_rate=sr, return_tensors="pt").input_features
     predicted_ids = model.generate(input_features, language="vietnamese", task="transcribe")
     transcription = processor.batch_decode(predicted_ids, skip_special_tokens=True)
-    return {"transcript": transcription[0].strip()}
+
+    transcript = transcription[0].strip()
+    if transcript == "Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn":
+        transcript = ""
+
+    return {"transcript": transcript}

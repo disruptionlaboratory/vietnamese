@@ -29,13 +29,6 @@ const Sidebar = () => {
           }}
         >
           Dashboard
-          {/*<Dashboard*/}
-          {/*  fillColor={*/}
-          {/*    location.pathname === "/"*/}
-          {/*      ? getSelectedFillColor(theme)*/}
-          {/*      : getFillColor(theme)*/}
-          {/*  }*/}
-          {/*/>*/}
         </button>
 
         <button

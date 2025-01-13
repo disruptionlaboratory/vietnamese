@@ -84,8 +84,24 @@ const paginate = async (req, res) => {
   }
 };
 
+const remove = async (req, res) => {
+  try {
+    const { id } = req.params;
+    await db.words.destroy({
+      where: {
+        id,
+      },
+    });
+    return res.status(200).send(null);
+  } catch (e) {
+    console.log(e);
+    res.status(500).json({ message: e });
+  }
+};
+
 module.exports = {
   fetchOne,
   updateOne,
   paginate,
+  remove,
 };

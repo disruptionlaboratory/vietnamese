@@ -1,5 +1,6 @@
 import React, { useState, useRef, useEffect } from "react";
 import { Mp3Encoder } from "@breezystack/lamejs";
+import { Mic } from "./Icon";
 
 const AudioCapture = ({ onRecorded, onStartRecording }) => {
   const [stream, setStream] = useState(null);
@@ -153,16 +154,25 @@ const AudioCapture = ({ onRecorded, onStartRecording }) => {
 
   return (
     <div>
-      <button onClick={handleStartRecording} disabled={!stream || isRecording}>
-        Start Recording
-      </button>
-      <button onClick={handleStopRecording} disabled={!stream || !isRecording}>
-        Stop Recording
-      </button>
-      {recordedAudio && (
-        <audio controls src={recordedAudio}>
-          Your browser does not support the audio element.
-        </audio>
+      {!isRecording && (
+        <button
+          className="microphone microphone-start"
+          onClick={handleStartRecording}
+          disabled={!stream || isRecording}
+        >
+          <Mic />
+          {/*Start Recording*/}
+        </button>
+      )}
+      {isRecording && (
+        <button
+          className="microphone microphone-stop"
+          onClick={handleStopRecording}
+          disabled={!stream || !isRecording}
+        >
+          <Mic />
+          {/*Stop Recording*/}
+        </button>
       )}
     </div>
   );
