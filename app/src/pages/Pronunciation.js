@@ -19,8 +19,10 @@ const Pronunciation = () => {
   const audioPlayer = useRef(null);
   const [recording, setRecording] = useState(null);
   const [transcript, setTranscript] = useState("");
+  const [transcriptTranslation, setTranscriptTranslation] = useState("");
   const [originalAudio, setOriginalAudio] = useState(null);
   const [yourAudio, setYourAudio] = useState(null);
+  const [processingTranscription, setProcessingTranscription] = useState(false);
   const [pagination, setPagination] = useState({
     offset: 0,
     limit: 10,
@@ -123,8 +125,13 @@ const Pronunciation = () => {
             <AudioCapture
               onStartRecording={() => {
                 setScore("");
+                setTranscript("");
+                setTranscriptTranslation("");
+                setProcessingTranscription(false);
               }}
               onRecorded={async (recording) => {
+                setProcessingTranscription(true);
+
                 function blobToStringBase64(blob) {
                   return new Promise((resolve, reject) => {
                     const reader = new FileReader();
@@ -168,7 +175,7 @@ const Pronunciation = () => {
 
                     console.log(response.data);
 
-                    const { transcript } = response.data;
+                    const { transcript, translation } = response.data;
                     const removeChars = (chars) => (term) => {
                       if (!term) {
                         return term;
@@ -186,11 +193,13 @@ const Pronunciation = () => {
                     };
                     const strip = removeChars(["!", ",", "\\."]);
                     setTranscript(strip(transcript));
+                    setTranscriptTranslation(translation);
                     setScore(
                       format(
                         distance(strip(word.translation), strip(transcript)),
                       ),
                     );
+                    setProcessingTranscription(false);
                   } catch (error) {
                     console.log(error);
                   }
@@ -198,8 +207,14 @@ const Pronunciation = () => {
               }}
             />
             <br />
+
+            {processingTranscription && (
+              <p className="processing">Processing...</p>
+            )}
+
             {score && <h2>{score}% Match</h2>}
-            <p>{transcript}</p>
+            <p className="transcript">{transcript}</p>
+            <p className="transcript-translation">{transcriptTranslation}</p>
             <br />
             {score && (
               <>
@@ -226,6 +241,8 @@ const Pronunciation = () => {
                   if (data && data.rows) {
                     setScore("");
                     setTranscript("");
+                    setTranscriptTranslation("");
+                    setProcessingTranscription(false);
 
                     const idx = data.rows.findIndex(
                       (row) => row.id === word.id,
@@ -262,6 +279,8 @@ const Pronunciation = () => {
                   if (data && data.rows) {
                     setScore("");
                     setTranscript("");
+                    setTranscriptTranslation("");
+                    setProcessingTranscription(false);
 
                     const idx = data.rows.findIndex(
                       (row) => row.id === word.id,

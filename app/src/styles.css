@@ -777,6 +777,7 @@ span.en {
 
 .definition {
     padding: 20px 40px;
+    font-size: 16px;
 }
 
 .grammar {
@@ -784,6 +785,18 @@ span.en {
     text-align: left;
     font-style: italic;
     font-weight: bold;
+}
+
+.transcript {
+    font-size: 30px;
+    text-align: left;
+    /*font-style: italic;*/
+    /*font-weight: bold;/*/
+}
+
+.transcript-translation {
+    font-size: 16px;
+    text-align: left;
 }
 
 .card-row {
